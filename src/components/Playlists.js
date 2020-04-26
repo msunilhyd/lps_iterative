@@ -2,7 +2,9 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import Playlist from './Playlist'
 import playlists from '../samples/playlists.js'
-import mainLogo from'./logo_main.jpg';
+// import mainLogo from'./logo_main.jpg';
+
+import mainLogo from'./logo_main_transparent.png';
 
 import '../css/Playlist.css'
 
