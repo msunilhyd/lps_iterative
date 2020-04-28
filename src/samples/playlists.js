@@ -82,7 +82,6 @@ const playlists = {
     title: 'Ma seven playlist !',
     songs: [
       'bt4-FwVe1Fk',
-      'YuXLN23ZGQo',
       'H3GhtM8V-dU',
       'oBiEYXDkJnc',
       'YuXLN23ZGQo',
@@ -147,7 +146,6 @@ const playlists = {
     slug: 'ma-twelve-playlist',
     title: 'Ma twelve playlist !',
     songs: [
-      '1o_brS03A5A',
       'U1eF5SyidLE',
       'S4WxvkXbay0',
       'VKRF3Y7Kfbc',

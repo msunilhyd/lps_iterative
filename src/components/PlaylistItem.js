@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 
-
 class PlaylistItem extends Component {
 	constructor(props){
 		super(props);
@@ -24,7 +23,7 @@ class PlaylistItem extends Component {
 
 
 	fetchSongInfos = async (id) => {
-	    let song = await fetch(`https://www.googleapis.com/youtube/v3/videos?id=${id}&key=AIzaSyBPBShIzTzRec5iwBl7FWqGWh83qYbr6hQ&part=snippet,contentDetails`)
+	    let song = await fetch(`https://www.googleapis.com/youtube/v3/videos?id=${id}&key=${process.env.REACT_APP_API_KEY}&part=snippet,contentDetails`)
 	      .then(data => data.json())
 	      .then(data => {
 	        const richSong = {
