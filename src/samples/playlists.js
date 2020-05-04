@@ -1,14 +1,15 @@
 const playlists = {
   'one': {
-    'slug': 'my-uber-playlist',
-    'title': 'My Über Playlist!',
-    'songs': [
-      'vilA6jt5w6Y',
-      '2OFuWfpBS-s',
-      'IarsrX60bZw',
-      '7dZqS3JIQ1I',
-      'hwMvjAjeapM',
-      'Qvjgjq8hu0M'
+    slug: 'my-uber-playlist',
+    title: 'My Über Playlist!',
+    songs: [
+      '9Wg2rk5AVqQ',
+      '7saoh3n0fjY',
+      'IiUNRYQ1Cak',
+      'amL6PrkYtig',
+      'z4QS66SIlgw',
+      '8xrqKab20DI',
+      '3QAOqZPJgZE'
     ],
     'informations': {}
   },
@@ -16,12 +17,13 @@ const playlists = {
     slug: 'ma-two-playlist',
     title: 'Ma two playlist !',
     songs: [
-      'U0JYkRqU6eY',
-      'mNseXuPUwbM',
-      'JBCx0QyP8VQ',
-      'jhPtPGKdQ-w',
-      'P8PWN1OmZOA',
-      'rTuxUAuJRyY'
+      'o9Nq2Ww80zE',
+      'bt4-FwVe1Fk',
+      'oBiEYXDkJnc',
+      'YuXLN23ZGQo',
+      'SQO7wgTYoIU',
+      'ghb6eDopW8I'
+
     ],
     informations: {}
   },
@@ -29,12 +31,13 @@ const playlists = {
     slug: 'ma-three-playlist',
     title: 'Ma three playlist !',
     songs: [
-      'dZ7bW8JVlco',
-      'hCt-H4-5wco',
-      'VffosKXVZoY',
-      'ADJSD_oh5nU',
-      'RCXzH27eOIA',
-      '93Y_eCwdR5k'
+      'hhdSyBHuI88',
+      '_C_3rZDdSAY',
+      '5X-NctqvcBU',
+      'H3GhtM8V-dU',
+      '0Olv8zM_rps',
+      'Vc1NR-cMchc',
+      'b8I-7Wk_Vbc'
     ],
     informations: {}
   },
@@ -42,12 +45,15 @@ const playlists = {
     slug: 'ma-four-playlist',
     title: 'Ma four playlist !',
     songs: [
-      '7y2Ub1K925M',
-      'kpWHXkkFmpc',
-      'IXvri75YEPM',
-      '9sdzCtElP-8',
-      'E00t7gYiccE',
-      'BzamjXouX5w'
+      'p9DQINKZxWE',
+      'y4Ln-14NIBM',
+      '9oN4ePKC0MQ',
+      'S1aQhVUy_9g',
+      'IOA4-EIhtLA',
+      'XYZwp-WAg6I',
+      'MK29MlRUt48'
+
+
     ],
     informations: {}
   },
@@ -55,12 +61,14 @@ const playlists = {
     slug: 'ma-four-playlist',
     title: 'Ma four playlist !',
     songs: [
-      'x6HDlIGRk10',
-      '7saoh3n0fjY',
-      'amL6PrkYtig',
-      'uK5LolHVZ0w',
-      'z4QS66SIlgw',
-      'SIfEDWGVwLs'
+
+      '7wO8xRqIyC4',
+      '0RDI9CMilhk',
+      'S1aQhVUy_9g',
+      'B5_6jfGsyjA',
+      'BNfAf4To73c',
+      '8-xCwwSY-cI',
+      'tt2k8PGm-TI'
     ],
     informations: {}
   },
@@ -68,12 +76,14 @@ const playlists = {
     slug: 'ma-six-playlist',
     title: 'Ma six playlist !',
     songs: [
-      'ivUXoV0qLpE',
-      'wLH4rrmIT60',
-      'qTsAdjULqwg',
-      'o9Nq2Ww80zE',
-      'IiUNRYQ1Cak',
-      '8xrqKab20DI'
+      'oWKgpB2zpgw',
+      'bdS6OoH1W2A',
+      'BhtHOzkQRpI',
+      '3XmrZaVVUpc',
+      'P0dHPM0Gzzc',
+      'VKRF3Y7Kfbc',
+      'T3E9Wjbq44E'
+
     ],
     informations: {}
   },
@@ -81,12 +91,13 @@ const playlists = {
     slug: 'ma-seven-playlist',
     title: 'Ma seven playlist !',
     songs: [
-      'bt4-FwVe1Fk',
-      'H3GhtM8V-dU',
-      'oBiEYXDkJnc',
-      'YuXLN23ZGQo',
-      'SQO7wgTYoIU',
-      'ghb6eDopW8I'
+      'N3oCS85HvpY',
+      'tAGnKpE4NCI',
+      'MOY0e6DP4z4',
+      '1o_brS03A5A',
+      'U1eF5SyidLE',
+      'S4WxvkXbay0',
+      'o2DXt11SMNI'
     ],
     informations: {}
   },
@@ -94,12 +105,14 @@ const playlists = {
     slug: 'ma-eight-playlist',
     title: 'Ma eight playlist !',
     songs: [
-      'hhdSyBHuI88',
-      'Vc1NR-cMchc',
-      '_C_3rZDdSAY',
-      '5X-NctqvcBU',
-      'H3GhtM8V-dU',
-      '0Olv8zM_rps'
+      '_wMsvhz8YSk',
+      '1o_brS03A5A',
+      'qugEmqRQjEQ',
+      'Jv2Z9KJgYjU',
+      '7z3YeFqd7xQ',
+      'gZjnUcJy-Rw',
+      'bxV-OOIamyk'
+
     ],
     informations: {}
   },
@@ -107,12 +120,13 @@ const playlists = {
     slug: 'ma-nine-playlist',
     title: 'Ma nine playlist !',
     songs: [
-      'y4Ln-14NIBM',
-      'IOA4-EIhtLA',
-      'XYZwp-WAg6I',
-      '9oN4ePKC0MQ',
-      '7wO8xRqIyC4',
-      '0RDI9CMilhk'
+      'xR85zCreXUo',
+      'SJKPRiVnpck',
+      '0oEy0LOffrY',
+      '1IMzEh0dsxs',
+      'gbpdE8n_QWo',
+      'wJJBUtzjfgg',
+      'C-dvTjK_07c'
     ],
     informations: {}
   },
@@ -120,12 +134,13 @@ const playlists = {
     slug: 'ma-ten-playlist',
     title: 'Ma ten playlist !',
     songs: [
-      'p9DQINKZxWE',
-      'xn1nhR5Ayx0',
-      'S1aQhVUy_9g',
-      'B5_6jfGsyjA',
-      'oWKgpB2zpgw',
-      'BhtHOzkQRpI'
+      'vCEvCXuglqo',
+      'p47fEXGabaY',
+      '5sye_VxmNZA',
+      '38httsOpl8g',
+      '5sqMIH_F5ks',
+      '9gC9ysiI2vA',
+      'EHkozMIXZ8w'
     ],
     informations: {}
   },
@@ -133,12 +148,14 @@ const playlists = {
     slug: 'ma-eleven-playlist',
     title: 'Ma eleven playlist !',
     songs: [
-      '3XmrZaVVUpc',
-      'BNfAf4To73c',
-      'P0dHPM0Gzzc',
+
+      'rXumims1q98',
+      'B-mW-XIYHGk',
       'N3oCS85HvpY',
-      'tAGnKpE4NCI',
-      'MOY0e6DP4z4'
+      'Pb0COSer6vY',
+      'Jn54gElLxY0',
+      'QVElQZalRDU',
+      'uelHwf8o7_U'
     ],
     informations: {}
   },
@@ -146,11 +163,14 @@ const playlists = {
     slug: 'ma-twelve-playlist',
     title: 'Ma twelve playlist !',
     songs: [
-      'U1eF5SyidLE',
-      'S4WxvkXbay0',
-      'VKRF3Y7Kfbc',
-      '1o_brS03A5A',
-      '8-xCwwSY-cI'
+
+      'Mcn0iTUNqo0',
+      '6YG7H11SUcw',
+      '038jmlSH3iM',
+      'buOk6lTPELE',
+      'J8XXb3xXvDA',
+      'i_gGmIGnle0',
+      'HAfFfqiYLp0'
     ],
     informations: {}
   },
@@ -158,12 +178,13 @@ const playlists = {
     slug: 'ma-thirteen-playlist',
     title: 'Ma thirteen playlist !',
     songs: [
-      'bdS6OoH1W2A',
-      'qugEmqRQjEQ',
-      'Jv2Z9KJgYjU',
-      '_wMsvhz8YSk',
-      '7z3YeFqd7xQ',
-      'gZjnUcJy-Rw'
+      'OsTGp5n6w5E',
+      'rf9_x9fT0rY',
+      'x6sO_Ew93LY',
+      'JByDbPn6A1o',
+      'j5-yKhDd64s',
+      'WDsWiUObdes',
+      'k-ImCpNqbJw'
     ],
     informations: {}
   },
@@ -171,12 +192,13 @@ const playlists = {
     slug: 'ma-fourteen-playlist',
     title: 'Ma fourteen playlist !',
     songs: [
-      'xR85zCreXUo',
-      'SJKPRiVnpck',
-      '0oEy0LOffrY',
-      '1IMzEh0dsxs',
-      'gbpdE8n_QWo',
-      'wJJBUtzjfgg'
+      '1wYNFfgrXTI',
+      'WXxV9g7lsFE',
+      'jGflUbPQfW8',
+      'ghb6eDopW8I',
+      '9thM5gLs2tg',
+      'TYnyYJ-jHFI',
+      'YgFyi74DVjc'
     ],
     informations: {}
   },
@@ -185,12 +207,15 @@ const playlists = {
     title: 'Ma fifteen playlist !',
     songs: [
 
-      'vCEvCXuglqo',
-      'p47fEXGabaY',
-      '5sye_VxmNZA',
-      '38httsOpl8g',
-      '5sqMIH_F5ks',
-      '9gC9ysiI2vA'
+
+      'XEh3zWQWuEk',
+      '9hVjc3sUSjA',
+      'K5yJ7eVMRUA',
+      'dvgZkm1xWPE',
+      'Nzdt9vBvSDE',
+      '8P0vKLHbtMg',
+      'RgKAFK5djSk'
+
     ],
     informations: {}
   },
@@ -198,12 +223,13 @@ const playlists = {
     slug: 'ma-sixteen-playlist',
     title: 'Ma sixteen playlist !',
     songs: [
-      'rXumims1q98',
-      'B-mW-XIYHGk',
-      'N3oCS85HvpY',
-      'Pb0COSer6vY',
-      'Jn54gElLxY0',
-      'QVElQZalRDU'
+      'qMp3TIVYwwk',
+      'ulRXvH8VOl8',
+      'w29aq_sgwxw',
+      'BzamjXouX5w',
+      'E00t7gYiccE',
+      '9sdzCtElP-8',
+      'Z1ZKaR-9Kt4'
     ],
     informations: {}
   },
@@ -211,12 +237,14 @@ const playlists = {
     slug: 'ma-seventeen-playlist',
     title: 'Ma seventeen playlist !',
     songs: [
-      'Mcn0iTUNqo0',
-      '6YG7H11SUcw',
-      '038jmlSH3iM',
-      'buOk6lTPELE',
-      'J8XXb3xXvDA',
-      'i_gGmIGnle0'
+
+      'IXvri75YEPM',
+      'kpWHXkkFmpc',
+      '7y2Ub1K925M',
+      'BF-0sbz4TU0',
+      'p-1gysnu4MM',
+      'If5KeoEDGoo',
+      'YPlZ-nJewRE'
     ],
     informations: {}
   },
@@ -224,12 +252,13 @@ const playlists = {
     slug: 'ma-eighteen-playlist',
     title: 'Ma eighteen playlist !',
     songs: [
-      'OsTGp5n6w5E',
-      'rf9_x9fT0rY',
-      'x6sO_Ew93LY',
-      'JByDbPn6A1o',
-      'j5-yKhDd64s',
-      'WDsWiUObdes'
+      'fv1pMNdsGWE',
+      'cp2UQ0iE-MU',
+      'JyvX1LkNXz8',
+      '0G2VxhV_gXM',
+      'jBQpGiubj0c',
+      '93Y_eCwdR5k',
+      'FM7MFYoylVs'
     ],
     informations: {}
   },
@@ -237,12 +266,14 @@ const playlists = {
     slug: 'ma-nineteen-playlist',
     title: 'Ma nineteen playlist !',
     songs: [
-      '1wYNFfgrXTI',
-      'WXxV9g7lsFE',
-      'jGflUbPQfW8',
-      'ghb6eDopW8I',
-      '9thM5gLs2tg',
-      'TYnyYJ-jHFI'
+      'RCXzH27eOIA',
+      'ADJSD_oh5nU',
+      'VffosKXVZoY',
+      'hCt-H4-5wco',
+      'dZ7bW8JVlco',
+      'rTuxUAuJRyY',
+      'PT2_F-1esPk'
+
     ],
     informations: {}
   },
@@ -250,156 +281,170 @@ const playlists = {
     slug: 'ma-twenty-playlist',
     title: 'Ma twenty playlist !',
     songs: [
-      'XEh3zWQWuEk',
-      '9hVjc3sUSjA',
-      'K5yJ7eVMRUA',
-      'dvgZkm1xWPE',
-      'Nzdt9vBvSDE',
-      '8P0vKLHbtMg'
-    ],
-    informations: {}
-  },
-  '21': {
-    slug: 'ma-21-playlist',
-    title: 'Ma 21 playlist !',
-    songs: [
-      'qMp3TIVYwwk',
-      'ulRXvH8VOl8',
-      'w29aq_sgwxw',
-      'BzamjXouX5w',
-      'E00t7gYiccE',
-      '9sdzCtElP-8'
-    ],
-    informations: {}
-  },
-  '22': {
-    slug: 'ma-22-playlist',
-    title: 'Ma 22 playlist !',
-    songs: [
-      'IXvri75YEPM',
-      'kpWHXkkFmpc',
-      '7y2Ub1K925M',
-      'BF-0sbz4TU0',
-      'p-1gysnu4MM',
-      'If5KeoEDGoo'
-    ],
-    informations: {}
-  }
-  ,
-  '23': {
-    slug: 'ma-23-playlist',
-    title: 'Ma 23 playlist !',
-    songs: [
-      'fv1pMNdsGWE',
-      'cp2UQ0iE-MU',
-      'JyvX1LkNXz8',
-      '0G2VxhV_gXM',
-      'jBQpGiubj0c',
-      '93Y_eCwdR5k'
-    ],
-    informations: {}
-  },
-  '24': {
-    slug: 'ma-24-playlist',
-    title: 'Ma 24 playlist !',
-    songs: [
-      'RCXzH27eOIA',
-      'ADJSD_oh5nU',
-      'VffosKXVZoY',
-      'hCt-H4-5wco',
-      'dZ7bW8JVlco',
-      'rTuxUAuJRyY'
-    ],
-    informations: {}
-  },
-  '25': {
-    slug: 'ma-25-playlist',
-    title: 'Ma 25 playlist !',
-    songs: [
       'P8PWN1OmZOA',
       'jhPtPGKdQ-w',
       'JBCx0QyP8VQ',
       'mNseXuPUwbM',
       'U0JYkRqU6eY',
-      'Qvjgjq8hu0M'
+      'Qvjgjq8hu0M',
+      'u3VTKvdAuIY'
     ],
     informations: {}
   },
-  '26': {
-    slug: 'ma-26-playlist',
-    title: 'Ma 26 playlist !',
+  'twenty-one': {
+    slug: 'ma-21-playlist',
+    title: 'Ma 21 playlist !',
     songs: [
       'hwMvjAjeapM',
       '7dZqS3JIQ1I',
       'IarsrX60bZw',
       '2OFuWfpBS-s',
       'vilA6jt5w6Y',
-      'BrfRB6aTZlM'
+      'BrfRB6aTZlM',
+      'YykjpeuMNEk'
     ],
     informations: {}
-  }
-  ,
-  '27': {
-    slug: 'ma-27-playlist',
-    title: 'Ma 27 playlist !',
+  },
+  'twenty-two': {
+    slug: 'ma-twenty-two-playlist',
+    title: 'Ma twenty-two playlist !',
     songs: [
       '_ikZtcgAMxo',
       'idZ-5amTsHA',
       'LHaGDT6Pdbk',
       '2WG--2Z5uNo',
-      'mWRsgZuwf_8'
+      'MwdSvchtKeA',
+      'prmmCg5bKxA'
+    ],
+    informations: {}
+  }
+  ,
+  'twenty-three': {
+    slug: 'ma-twenty-three-playlist',
+    title: 'Ma twenty-three playlist !',
+    songs: [
+      'c3955-vJ5Nw',
+      'm291VyX5dTQ',
+      'GtNrQy90Ih4',
+      'zFdi834FiZ4',
+      'qoc3h1NMWuo',
+      't2VaF0ZX65w'
     ],
     informations: {}
   },
-  '28': {
-    slug: 'ma-28-playlist',
-    title: 'Ma 28 playlist !',
+  'twenty-four': {
+    slug: 'ma-twenty-four-playlist',
+    title: 'Ma twenty-four playlist !',
     songs: [
-      'ghb6eDopW8I',
-      'b8I-7Wk_Vbc',
-      'MK29MlRUt48',
-      'tt2k8PGm-TI',
-      'T3E9Wjbq44E',
-      'o2DXt11SMNI'
+      'RcbdKqBESz8',
+      'ZcEqCsDflY4',
+      'PvrDI6U0mE4',
+      'w4OdIOGBW2Q',
+      'Hfh_dcVaN5o',
+      'DZOpwL6t3Lw'
     ],
     informations: {}
   },
-  '29': {
-    slug: 'ma-29-playlist',
-    title: 'Ma 29 playlist !',
+  'twenty-five': {
+    slug: 'ma-twenty-five-playlist',
+    title: 'Ma twenty-five playlist !',
     songs: [
-      'bxV-OOIamyk',
-      'C-dvTjK_07c',
-      'EHkozMIXZ8w',
-      'uelHwf8o7_U',
-      'HAfFfqiYLp0',
-      'k-ImCpNqbJw'
+      '7KvLlA4g1so',
+      'hwMvjAjeapM',
+      'RNrDGaDU7ug',
+      'QkF3oxziUI4',
+      'Nwhyj0zcD7M',
+      '8qtn07bThnE'
     ],
     informations: {}
   },
-  '30': {
-    slug: 'ma-30-playlist',
-    title: 'Ma 30 playlist !',
+  'twenty-six': {
+    slug: 'ma-twenty-six-playlist',
+    title: 'Ma twenty-six playlist !',
     songs: [
-      'YgFyi74DVjc',
-      'RgKAFK5djSk',
-      'Z1ZKaR-9Kt4',
-      'YPlZ-nJewRE',
-      'FM7MFYoylVs',
-      'PT2_F-1esPk'
+      '49Yo4_9zNQ8',
+      'PL8X5gq9ZlQ',
+      'HDnLm1197oc',
+      'Mv3SZDP7QUo',
+      'lZORMUufA_Y',
+      'FdVuB1G2G_g'
+    ],
+    informations: {}
+  }
+  ,
+  'twenty-eight': {
+    slug: 'ma-twenty-eight-playlist',
+    title: 'Ma twenty-eight playlist !',
+    songs: [
+      'wePsgv7utPE',
+      'whwe0KD_rGw',
+      'pyTZa87OvfI',
+      '5ub14kkXKKc',
+      'f3qvrOjOD9M',
+      'pRCQEI4GGr8'
     ],
     informations: {}
   },
-  '31': {
-    slug: 'ma-31-playlist',
-    title: 'Ma 31 playlist !',
+  'twenty-seven': {
+    slug: 'ma-twenty-seven-playlist',
+    title: 'Ma twenty-seven playlist !',
     songs: [
-      '_ikZtcgAMxo',
-      'idZ-5amTsHA',
-      'LHaGDT6Pdbk',
-      'prmmCg5bKxA',
-      'u3VTKvdAuIY',
-      'YykjpeuMNEk'
+      'jq69R33z4hU',
+      'odVptmgIcD0',
+      'dxekUFhmFu4',
+      'gQ5qVtoLMk4',
+      '2e6kYfGeCmg',
+      'BzamjXouX5w'
+    ],
+    informations: {}
+  },
+  'twenty-nine': {
+    slug: 'ma-twenty-nine-playlist',
+    title: 'Ma twenty-nine playlist !',
+    songs: [
+      '4v97gsFRMlE',
+      'IqB5L9_sfbQ',
+      'OnTelUJrDhc',
+      '5dQHjDuK-0w',
+      'fBy-IzVo2ac',
+      'cZhli2OT5Rg'
+    ],
+    informations: {}
+  },
+  'thirty-four': {
+    slug: 'ma-thirty-four-playlist',
+    title: 'Ma thirty-four playlist !',
+    songs: [
+      'mWRsgZuwf_8',
+'UCXO6qgIhyk',
+'lewVFlngGCk',
+'BNI3-IVRtMM'
+    ],
+    informations: {}
+  },
+  'thirty-three': {
+    slug: 'ma-thirty-three-playlist',
+    title: 'Ma thirty-three playlist !',
+    songs: [
+      'gB0-MOcIiBU',
+'5WejuSV-sKU',
+'FR3Febey_lI',
+'NUWmsA5z5yk',
+'3oUPGbRazaA',
+'aRtJqhe6YaY'
+    ],
+    informations: {}
+  },
+  'thirty-one': {
+    slug: 'ma-thirty-one-playlist',
+    title: 'Ma thirty-one playlist !',
+    songs: [
+      'ptdVuijIQQE',
+'Vq8lbcb0Lcw',
+'jsCngkQHRrI',
+// 'YLjQzfNI4w',
+'qvTtvP5Neqg',
+'mUekrcEu0Mc'
     ],
     informations: {}
   }

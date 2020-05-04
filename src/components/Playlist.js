@@ -224,7 +224,7 @@ class Playlist extends Component {
 		const playlist = this.state.playlist
 
 		return (
-			<div className="col-xs-12 col-md-4">
+			<div className="col-xs-12 col-md-6">
 				<div className="card-playlist">
 					<div className="header" data-background-color="yellow">
 						<h3 className="text-center">
