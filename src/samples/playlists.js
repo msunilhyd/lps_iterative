@@ -58,8 +58,8 @@ const playlists = {
     informations: {}
   },
   'five': {
-    slug: 'ma-four-playlist',
-    title: 'Ma four playlist !',
+    slug: 'ma-five-playlist',
+    title: 'Ma five playlist !',
     songs: [
 
       '7wO8xRqIyC4',
