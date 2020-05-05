@@ -59,9 +59,11 @@ class Playlists extends Component {
 		return (
 			<div className="container page top-row">
 				<div className="row heading">
-				<img  src={mainLogo} className="mainLogo" alt="fireSpot"/>
+					<img  src={mainLogo} className="mainLogo" alt="fireSpot"/>
 				</div>
-			
+				{console.log(items[0])}
+				{console.log(items[0].props.data.songs)}
+
 				<div className="row">
 					{items}		
 				</div>
