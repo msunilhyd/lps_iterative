@@ -190,14 +190,28 @@ class Playlist extends Component {
 	 */
 	renderSongs(){
 		const playlist = this.state.playlist
+		console.log('length of playlist is : ' + playlist.length)
 		if(playlist.songs){
-			return playlist.songs.map((song, index) => {
+			console.log('playlist.songs is: ' + playlist.songs)
+			const chunkSize = 6
+			const playlistitems =  playlist.songs.map((song, index) => {
+				console.log('index is :- ' + index	)
 				return (
-					<div key={song} className={`playlist-item`}>
+					index % 6 === 0 && index > 0? 
+					<div>
+					<br></br>
+					<br></br>
+					<br></br>
+					
+					<div key={song[0]} className={`playlist-item`}>
 						<PlaylistItem 
-								key={song} 
+								key={song[0]}
+								title={song[1]} 
 								index={index}
-								song={song} 
+								song={song[0]}
+								language={song[2]} 
+								composer={song[4]}
+								movie={song[3]}
 								player={this.state.player}
 								playing={this.state.playing}
 								registerPlaying={this.setPlayingInformations}
@@ -205,8 +219,29 @@ class Playlist extends Component {
 								removeSong={this.removeSong}
 							/>
 					</div>
+					</div>
+					
+					:
+					<div key={song[0]} className={`playlist-item`}>
+						<PlaylistItem 
+								key={song[0]}
+								title={song[1]} 
+								index={index}
+								song={song[0]}
+								language={song[2]}
+								composer={song[4]}
+								movie={song[3]} 
+								player={this.state.player}
+								playing={this.state.playing}
+								registerPlaying={this.setPlayingInformations}
+								registerAsChild={this.registerChild}
+								removeSong={this.removeSong}
+							/>
+					</div>
+					
 				)
 			})
+			return playlistitems
 		} else {
 			return (
 				<div className="text-center">
@@ -224,7 +259,7 @@ class Playlist extends Component {
 		const playlist = this.state.playlist
 
 		return (
-			<div className="col-xs-12 col-md-6">
+			<div className="col-xs-30 col-md-12">
 				<div className="card-playlist">
 					<div className="header" data-background-color="yellow">
 						<h3 className="text-center">

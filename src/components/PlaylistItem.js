@@ -15,28 +15,37 @@ class PlaylistItem extends Component {
 		this.progressValue = 0
 		this.progressClicked = false
 
-		this.fetchSongInfos(props.song).then(richSong => {
+		this.fetchSongInfos(props.song, props.title, props.language, props.composer,props.movie).then(richSong => {
 		  this.setState({informations: richSong})
 		});
 	}
 
 
 
-	fetchSongInfos = async (id) => {
-
+	fetchSongInfos = async (id, title, language, composer, movie) => {
+		// key = AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8
 		console.log('id is : ' + id);
-		let song = await fetch(`https://www.googleapis.com/youtube/v3/videos?id=${id}&key=${process.env.REACT_APP_API_KEY}&part=snippet,contentDetails`)
-	      .then(data => data.json())
-	      .then(data => {
+		// let song = await fetch(`https://www.googleapis.com/youtube/v3/videos?id=${id}&key=AIzaSyBPBShIzTzRec5iwBl7FWqGWh83qYbr6hQ&part=snippet,contentDetails`)
+
+		// console.log('=${process.env.REACT_APP_API_KEY} is === ' + ${process.env.REACT_APP_API_KEY} )
+		// let song = await fetch(`https://www.googleapis.com/youtube/v3/videos?id=${id}&key=AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8&part=snippet,contentDetails`)
+	    //   .then(data => data.json())
+	    //   .then(data => {
+			//   console.log(data);
 	        const richSong = {
-	          id,
-	          title: data.items[0].snippet.title,
-	          thumbnail: data.items[0].snippet.thumbnails.default.url,
+				id,
+				title : title,
+				  language: language,
+				  composer: composer,
+				  movie: movie
+			  
+	        //   title: data.items[0].snippet.title,
+	        //   thumbnail: data.items[0].snippet.thumbnails.default.url,
 	        }
 
 	        return richSong;
-	      });
-	    return song;
+	    //   });
+	    // return song;
 	  }
 
 	playSong = () => {
@@ -119,13 +128,23 @@ class PlaylistItem extends Component {
 
 		return (
 			<div key={key} className="row">
-				<div className="col-2">
-					<img className="img-responsive img-raised" src={this.state.informations.thumbnail} alt={this.state.informations.title}/>
+				<div className="d-none d-sm-block col-2  song-language">
+					{/* <img className="img-responsive img-raised" src={this.state.informations.thumbnail} alt={this.state.informations.title}/> */}
+					{this.state.informations.language && this.state.informations.language} 
 				</div>
-				<div className="col-8 song-title">
+				<div className="col-9 col-md-3  song-title">
 					{this.state.informations.title && this.state.informations.title} 
 				</div>
-				<div className="col-2">
+
+				<div className="d-none d-sm-block col-xs-1 col-md-3   song-movie">
+					{this.state.informations.movie && this.state.informations.movie} 
+				</div>
+
+				<div className=" d-none d-sm-block col-2 song-composer" >
+					{this.state.informations.composer && this.state.informations.composer} 
+				</div>
+
+				<div className="col-3 col-md-2 ">
 					{this.renderPlayPauseButton()}
 					<br />
 				</div>
