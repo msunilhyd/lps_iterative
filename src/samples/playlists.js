@@ -3,21 +3,23 @@ const playlists = {
     slug: 'my-uber-playlist',
     title: 'My Über Playlist!',
     songs: [
-      ['xn1nhR5Ayx0', 'Heera', 'HINDI', 'Highway', 'AR RAHMAN'],
-      ['x6HDlIGRk10', 'Nenani Neevani','TELUGU', 'Kothabangarulokam', 'Micky J Meyer'],
-      ['SIfEDWGVwLs', 'Chahoon Bhi Toh', 'HINDI', 'Force', 'Harris Jayaraj'],
-      ['wLH4rrmIT60', 'Hey Ya!', 'HINDI', 'Karthik calling Karthik', 'Shankar Ehsaan Loy'],
-      ['H3GhtM8V-dU', 'En Jeevan','TAMIL', 'Theri', 'GV Prakash'],
-      ['9Wg2rk5AVqQ', 'Pookkal Pookkum','TAMIL','Madrasipattanam', 'GV Prakash'],
+      ['AAO MILO CHALO','HINDI','2007','Pritam','U0JYkRqU6eY', 'Jab We Met'],
+      ['Chumma Kizhi','TAMIL','2020','Anirudh Ravichander','FdVuB1G2G_g','Darbar'], 
+      ['Undiporaadhey','TELUGU', '2018', 'Radhan', 'lewVFlngGCk', 'Hushaaru'],
+      ['Demons','ENGLISH','2012', 'Imagine Dragons','mWRsgZuwf_8','Continued Silence EP'],
+      ['Naan Un' ,'TAMIL','2016',	 'A. R. Rahman','jsCngkQHRrI','24'],
+      ['Tujh Mein Rab Dikhta Hai','HINDI','2008', 'Salim-Sulaiman','aRtJqheVq8lbcb0Lcw6YaY', 'Rab Ne Bana Di Jodi'],
+      ['Rude','ENGLISH','2013', 'MAGIC!','aRtJqhe6YaY', 'Rude'],
 
-      ['7saoh3n0fjY', 'Ok Anesa','TELUGU', 'Kothabangarulokam', 'Micky J Meyer'],
-      ['IiUNRYQ1Cak', 'Singappenney','TAMIL', 'Bigil', 'AR RAHMAN'],
-      ['z4QS66SIlgw', 'Vacchindi Kada Avakasam','TELUGU', 'Brahmotsavam', 'Micky J Meyer'],
-      ['amL6PrkYtig', 'Arey Arey','TELUGU', 'Happy Days', 'Micky J Meyer'],
-      ['YuXLN23ZGQo', 'O Saathi','HINDI', 'Bhaagi 2', 'PRITAM'],
-      ['8xrqKab20DI', 'Sarvam Thaala Mayam','TAMIL', 'Sarvam Thaala Mayam', 'AR RAHMAN'],
+      // 
 
-
+      ['Heera', 'HINDI', '2014', 'AR RAHMAN', 'xn1nhR5Ayx0', 'Highway'],
+      ['Forever young','ENGLISH','2005','Youth Group','Nzdt9vBvSDE','The O.C.'],
+      ['Unakkenna Venum Sollu','TAMIL','2015','Harris Jayaraj','2OFuWfpBS-s','Yennai Arindhaal'],
+      ['Inconsolable', 'ENGLISH','2007', 'Backstreet Boys','c3955-vJ5Nw','Insomniac'],
+      ['Judaai','HINDI','2011','Sachin-Jigar','t2VaF0ZX65w','Badlapur'],
+      ['The Saltwater Room','ENGLISH','2008','Adam Young','qMp3TIVYwwk','Maybe', 'I am Dreaming'],
+      ['Padi Padi Leche Manasu','TELUGU','2018','Vishal Chandrasekhar','hwMvjAjeapM','Padi Padi Leche Manasu'],
 
     ],
     'informations': {}

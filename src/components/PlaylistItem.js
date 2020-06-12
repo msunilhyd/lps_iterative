@@ -144,7 +144,7 @@ class PlaylistItem extends Component {
 					{this.state.informations.composer && this.state.informations.composer} 
 				</div>
 
-				<div className="col-3 col-md-2 ">
+				<div className="col-2 col-md-2 ">
 					{this.renderPlayPauseButton()}
 					<br />
 				</div>

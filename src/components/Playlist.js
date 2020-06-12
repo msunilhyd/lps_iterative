@@ -197,7 +197,7 @@ class Playlist extends Component {
 			const playlistitems =  playlist.songs.map((song, index) => {
 				console.log('index is :- ' + index	)
 				return (
-					index % 6 === 0 && index > 0? 
+					index % 7 === 0 && index > 0? 
 					<div>
 					<br></br>
 					<br></br>
@@ -205,13 +205,13 @@ class Playlist extends Component {
 					
 					<div key={song[0]} className={`playlist-item`}>
 						<PlaylistItem 
-								key={song[0]}
-								title={song[1]} 
+								key={song[4]}
+								title={song[0]} 
 								index={index}
-								song={song[0]}
-								language={song[2]} 
-								composer={song[4]}
-								movie={song[3]}
+								song={song[4]}
+								language={song[1]} 
+								composer={song[3]}
+								movie={song[5]}
 								player={this.state.player}
 								playing={this.state.playing}
 								registerPlaying={this.setPlayingInformations}
@@ -224,13 +224,13 @@ class Playlist extends Component {
 					:
 					<div key={song[0]} className={`playlist-item`}>
 						<PlaylistItem 
-								key={song[0]}
-								title={song[1]} 
+								key={song[4]}
+								title={song[0]} 
 								index={index}
-								song={song[0]}
-								language={song[2]}
-								composer={song[4]}
-								movie={song[3]} 
+								song={song[4]}
+								language={song[1]}
+								composer={song[3]}
+								movie={song[5]} 
 								player={this.state.player}
 								playing={this.state.playing}
 								registerPlaying={this.setPlayingInformations}
