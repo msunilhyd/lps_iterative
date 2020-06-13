@@ -2,7 +2,8 @@ import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import PlaylistItem from './PlaylistItem'
 import YouTubePlayer  from 'youtube-player'
-
+// A BETTER WAY TO INTEGRATE YOUTUBE INTO REACT NATIVE
+// https://lonelycpp.github.io/2020/03/15/react-native-youtube/
 import '../css/Playlist.css'
 
 /**
