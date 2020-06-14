@@ -3,14 +3,30 @@ const playlists = {
     slug: 'my-uber-playlist',
     title: 'My Über Playlist!',
     songs: [
+      ['Don’u Don’u Don’u', 'TAMIL', '2015', 'Anirudh', 'Y0eErsVNK-I', 'Maari'],
+      ['Naan Nee', 'TAMIL', '2014', 'Santhosh Narayanan', 'VMYWqrlB7Gc', 'Madras'],
+      ['Alladhe Siragiye', 'TAMIL', '2016', 'Anirudh', 'qLghPlhluGI', 'Rum'],
+      ['Azhagiye', 'TAMIL', '2017', 'AR Rahman', 'TFUBlO-zJGg', 'Kaatru Veliyidai'],
+      ['Engeyum Kadhal', 'TAMIL', '2011', 'Harris Jayaraj ', 'Ue0EpN0q_Kc', 'Maryan'],
 
+
+      ['Innum Konjam Naeram', 'TAMIL', '2013', 'AR Rahman', 'jqCh3fSNog4', 'Maryan'],
+
+
+      ['Rishte Naate', 'HINDI', '2009', 'Pritam', 'c504EGCwQlU', 'De Dana Dan'],
+
+      ['Sun Saathiya', 'HINDI', '2015', 'Sachin - Jigar', '_NWaYjsz3qY', 'ABCD 2'],
+      ['Kadavulae Vidai', 'TAMIL', '2016', 'Anirudh', 'Hfh_dcVaN5o', 'Rum'],
+
+      ['Ilamai Thirumbudhe', 'TAMIL', '2019', 'Anirudh', '3QKgnA4uy30', 'Petta'],
       ['Maate Vinadhuga', 'TELUGU', '2018', 'Jakes Bejoy', 'KMocA8G_puU','Taxiwaala'],
       ['Radha', 'HINDI', '2017', 'Pritam', 'loRj95fRX1c', 'Jab Harry Met Sejal'],
       ["Seven nation army", 'ENGLISH', '2003', 'The White Stripes', 's2i82up9E1w', 'Elephant'],
       ['Soch Na Sake', 'HINDI', '2015', 'Amaal Mallik', 'IQ-IzgNhvhg', 'AIRLIFT'],
+      ['Tum Mile', 'HINDI', '2015', 'Pritam', 'C0S0PMpNybM', 'Tum Mile'],
 
       ["Chop suey", 'ENGLISH', '2001', 'System Of A Down', 'CtZ9j-UYI1w', 'Toxicity'],
-
+      ['Ullaallaa', 'TAMIL', '2019', 'Anirudh', 'UvQ9y4w8unE', 'Petta'],
       ["Toxicity", 'ENGLISH', '2001', 'System Of A Down', '0ukNUCQRPkI', 'Toxicity'],
       ["One love", 'ENGLISH', '2002', 'Blue', 'Rc7cK0jjpL8', 'One love'],
       ['Dil Diyan Gallan', 'HINDI', '2017', 'Vishal-Shekhar', 'mevO4I0f5lg', 'Tiger Zinda Hai'],
@@ -278,8 +294,7 @@ const playlists = {
       ['Raanjhanaa', 'HINDI', '2013', 'AR Rahman', 'OsTGp5n6w5E', 'Raanjhanaa'],
       ['Viva La Vida', 'ENGLISH', '2008', 'Coldplay', 'dvgZkm1xWPE', 'Viva La Vida or Death and All His Friends'],
 
-      // ['Jee Karda (Rock Version)', 'HINDI', '2011', 'Sachin-Jigar', 'qoc3h1NMWuo', 'Badlapur'],
-      // ['Jeena Jeena', 'HINDI', '2011', 'Sachin-Jigar', 'zFdi834FiZ4', 'Badlapur'],
+
       // ['Maga Dheera', 'TELUGU', '1999', 'A. R. Rahman', '7y2Ub1K925M', 'Oke Okkadu'] ,
       // ['Sarele Vooruko', 'TELUGU', '1996', 'Sri Kommineni', 'AHqGPlZ6wg0', 'Little Soldiers'] ,
       // ['Vennele Kuriseny Le', 'TELUGU', '2005', 'Vidyasagar', 'U1eF5SyidLE', 'muddula koduku'] ,
@@ -290,6 +305,9 @@ const playlists = {
       // ['Jashn-E-Bahaara', 'HINDI', '2008', 'A. R. Rahman', 'Mcn0iTUNqo0', 'Jodha Akabar'] ,
       // ['Kanave Kanave', 'TELUGU', '2013', 'Anirudh Ravichander', 'BF-0sbz4TU0', 'David'] ,
       // ['Kailove', 'TELUGU', '2000', 'A. R. Rahman', 'i_gGmIGnle0', 'Sakhi'] ,
+      // ['Jee Karda (Rock Version)', 'HINDI', '2011', 'Sachin-Jigar', 'qoc3h1NMWuo', 'Badlapur'],
+      // ['Jeena Jeena', 'HINDI', '2011', 'Sachin Jigar', 'bn4-yP92wcw', 'Badlapur'],
+      
     ],
     'informations': {}
   }

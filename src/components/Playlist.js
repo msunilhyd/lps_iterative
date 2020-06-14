@@ -194,7 +194,7 @@ class Playlist extends Component {
 		console.log('length of playlist is : ' + playlist.length)
 		if(playlist.songs){
 			console.log('playlist.songs is: ' + playlist.songs)
-			const chunkSize = 6
+			// const chunkSize = 6
 			const playlistitems =  playlist.songs.map((song, index) => {
 				console.log('index is :- ' + index	)
 				return (
