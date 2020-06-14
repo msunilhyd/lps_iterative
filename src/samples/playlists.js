@@ -3,6 +3,21 @@ const playlists = {
     slug: 'my-uber-playlist',
     title: 'My Über Playlist!',
     songs: [
+      ["Seven nation army", 'ENGLISH', '2003', 'The White Stripes', 's2i82up9E1w', 'Elephant'],
+
+      ["Chop suey", 'ENGLISH', '2001', 'System Of A Down', 'CtZ9j-UYI1w', 'Toxicity'],
+      ["Icky thump", 'ENGLISH', '2007', 'The White Stripes', 'm1KyC_LzvzQ', 'Icky Thump'],
+      ["Toxicity", 'ENGLISH', '2001', 'System Of A Down', '0ukNUCQRPkI', 'Toxicity'],
+      ["Lonely day", 'ENGLISH', '2005', 'System Of A Down', '9VBiJvJfC0Q', 'Hypnotize'],
+      ["One love", 'ENGLISH', '2002', 'Blue', 'Rc7cK0jjpL8', 'One love'],
+      ["All Rise", 'ENGLISH', '2001', 'Blue', 'tvIn3xTNO9Y', 'All Rise'],
+
+      ['Andamaina Premarani', 'TELUGU', '1994', 'A. R. Rahman', 'kqXTFX4mNOg','Premikudu'],
+      ["Hips don't lie", 'ENGLISH', '2005', 'Shakira', 'q0V1yQueYwY', 'Oral Fixation Vol. 2'],
+
+      ['Emai Poyave','TELUGU','2018','Vishal Chandrasekhar','QfF5ceRzrqI','Padi Padi Leche Manasu'],
+      ['Judaai','HINDI','2011','Sachin-Jigar','5Dnv-nIlwWo','Badlapur'],
+      ['Padi Padi Leche Manasu','TELUGU','2018','Vishal Chandrasekhar','uNLX3CffxTE','Padi Padi Leche Manasu'],
       ['Shape of you', 'ENGLISH', '2017', 'Ed Sheeran', 'VJ2rlci9PE0', 'Shape of You (Stormzy Remix)'],
       ['Stiches', 'ENGLISH', '2015', 'Shawn Mendes', 'M_yYWMOKjvE', 'Stitches (Seeb Remix)'],
       ['Sucker', 'ENGLISH', '2019', 'Jonas Brothers', 'Ty0WEJvlljs', 'Happiness Begins'],
