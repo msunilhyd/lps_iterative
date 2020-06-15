@@ -3,10 +3,30 @@ const playlists = {
     slug: 'my-uber-playlist',
     title: 'My Über Playlist!',
     songs: [
+      ['ROCK THA PARTY', 'HINDI', '2016', 'BOMBAY ROCKERS', 'areBR3RVBVc', 'ROCKY HANDSOME'] ,
+
+      ['Khoon Chala', 'TAMIL', '2006', 'AR RAHMAN', 'ezfrbmJuLBM', 'Rang De Basanti'] ,
+
+      ['Soniya', 'TAMIL', '1997', 'AR RAHMAN', 'sHbiwr5Ue6Y', 'Ratchagan'] ,
+
+      ['Taal Taal Se Taal (Western)', 'HINDI', '1999', 'AR RAHMAN', 'MelMTp_dxNQ', 'Taal'] ,
+      ['Maa Tujhe Salam', 'HINDI', '1997', 'AR RAHMAN', 'e60xy-jt_zI', 'Vande Mataram'] ,
+
+      ['Romeo Attam Pottal ', 'TAMIL', '1996', 'AR RAHMAN', 'mbVrnZt2Eu4', 'Mr Romeo'] ,
+
+      ['Sahana', 'TAMIL', '2007', 'AR RAHMAN', 'lTPQ6i0cSZM', 'Sivaji: The Boss'] ,
+      ['Anjali Anjali ', 'TAMIL', '1994', 'AR RAHMAN', 'B_iuts4M5ZE', 'Duet'] ,
+
+      ['Secret of Success ', 'TAMIL', '2003', 'AR RAHMAN', 'kjOrdWcybpg', 'Boys'] ,
+
+      ["Somebody That I Used To Know", 'ENGLISH', '2012', 'Gotye', 'Q7DtJJSVPsk', 'Making Mirrors'],
+      ["Holiday", 'ENGLISH', '2004', 'Green Day', 'sO-S32xnXA0', 'American Idiot'],
+      ["Black Sheep", 'ENGLISH', '2010', 'Metric', 'ArkDWrHmmXI', ' Scott Pilgrim vs. the World '],
+      ["Whatever", 'ENGLISH', '1994', 'Oasis', 'cAa4BN_Uadc', 'Definitely Maybe'],
+      ["Wicked Ones", 'ENGLISH', '2014', 'Dorothy', 'kOngAfP_2OE', 'DOROTHY'],
+     
       ['Takkunu Takkunu', 'TAMIL', '2019', 'Hiphop Tamizha', '7pVoLXgQkok', 'Mr.Local'] ,
-
       ['Yaanji', 'TAMIL', '2017', 'Anirudh Ravichander', 'bWK3EuroEk4', 'Vikram Vedha'] ,
-
       ['Kamariya', 'HINDI', '2018', 'Lijo George - Dj Chetas', 'nfrfUSuFlow', 'Mitron'],
       ["C'est La Vie", 'FRENCH-ARABIC', '2013', 'Cheb Khaled', 'defnPu0Jz3Y', 'Cest La Vie (Remixes)'],
       ['Chogada', 'HINDI', '2018', 'Lijo George - Dj Chetas', 'd4OGZZ0EsAI', 'Loveyatri'],
@@ -175,7 +195,7 @@ const playlists = {
       ['Dusk Till Dawn', 'ENGLISH', '2017', ' Zayn Malik', 'tt2k8PGm-TI', 'Icarus Falls'],
       ['Nenani Neevani', 'TELUGU', '2008', 'Mickey J. Meyer', 'x6HDlIGRk10', 'Kothabangarulokam'],
       ['Chahoon Bhi Toh', 'HINDI', '2011', 'Harris Jayaraj', 'SIfEDWGVwLs', 'Force'],
-      ['O My Friend', 'TELUGU', '2007', 'Mickey J. Meyer', 'uK5LolHVZ0w', 'Happy Days'],
+      ['O My Friend', 'TELUGU', '2007', 'Mickey J. Meyer', 'nYVrSXmdKNk', 'Happy Days'],
       ['Hey Ya!', 'HINDI', '2010', 'Shankar-Ehsaan-Loy', 'wLH4rrmIT60', 'Karthik Calling Karthik'],
       ['Ok Anesa', 'TELUGU', '2008', 'Mickey J. Meyer', '7saoh3n0fjY', 'Kothabangarulokam '],
       ['Singappenney', 'TAMIL', '2019', 'A.R Rahman', 'IiUNRYQ1Cak', 'Bigil'],
@@ -183,7 +203,7 @@ const playlists = {
       ['Sarvam Thaala Mayam', 'TAMIL', '2019', 'A.R Rahman', 'd3OZVsHG9TM', 'Sarvam Thaala Mayam'],
       ['Airplanes Pt II', 'ENGLISH', '2010', ' B.o.B', 'MK29MlRUt48', 'B.o.B Presents: The Adventures of Bobby Ray'],
       ['Kannanule', 'TELUGU', '1995', 'A. R. Rahman', 'p-1gysnu4MM', 'Bombay'],
-      ['Arey Arey', 'TELUGU', '2007', 'Mickey J. Meyer', 'amL6PrkYtig', 'Happy Days'],
+      ['Arey Arey', 'TELUGU', '2007', 'Mickey J. Meyer', 'ta8SNlHsEdk', 'Happy Days'],
       ['O Saathi', 'HINDI', '2018', 'Arko', 'YuXLN23ZGQo', 'Baaghi 2'],
       ['Mazhai Kuruvi', 'TAMIL', '2019', 'A.R. Rahman', 'bt4-FwVe1Fk', 'Chekka Chivantha Vaanam'],
       ['The Dewarists : I Believe', 'HINDI', '2011', 'Agnee + Parikrama + Shilpa Rao', 'o9Nq2Ww80zE'],
