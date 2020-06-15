@@ -3,18 +3,24 @@ const playlists = {
     slug: 'my-uber-playlist',
     title: 'My Über Playlist!',
     songs: [
+      ['Takkunu Takkunu', 'TAMIL', '2019', 'Hiphop Tamizha', '7pVoLXgQkok', 'Mr.Local'] ,
+
+      ['Yaanji', 'TAMIL', '2017', 'Anirudh Ravichander', 'bWK3EuroEk4', 'Vikram Vedha'] ,
+
+      ['Kamariya', 'HINDI', '2018', 'Lijo George - Dj Chetas', 'nfrfUSuFlow', 'Mitron'],
+      ["C'est La Vie", 'FRENCH-ARABIC', '2013', 'Cheb Khaled', 'defnPu0Jz3Y', 'Cest La Vie (Remixes)'],
+      ['Chogada', 'HINDI', '2018', 'Lijo George - Dj Chetas', 'd4OGZZ0EsAI', 'Loveyatri'],
+      ['Kanave Kanave', 'TAMIL', '2013', 'Anirudh Ravichander', 'qD53-RZpTOc', 'David'] ,
+      ['Kadhal Anukkal', 'TAMIL', '2010', 'AR RAHMAN', 'rH7VvU34NIU', 'Enthiran'],
+      ['Kundanapu Bomma ', 'TELUGU', '2010', 'AR RAHMAN', 'sgSDt4YX9P8', 'Yemaaya Chesave'],
+
       ['Don’u Don’u Don’u', 'TAMIL', '2015', 'Anirudh', 'Y0eErsVNK-I', 'Maari'],
       ['Naan Nee', 'TAMIL', '2014', 'Santhosh Narayanan', 'VMYWqrlB7Gc', 'Madras'],
       ['Alladhe Siragiye', 'TAMIL', '2016', 'Anirudh', 'qLghPlhluGI', 'Rum'],
       ['Azhagiye', 'TAMIL', '2017', 'AR Rahman', 'TFUBlO-zJGg', 'Kaatru Veliyidai'],
       ['Engeyum Kadhal', 'TAMIL', '2011', 'Harris Jayaraj ', 'Ue0EpN0q_Kc', 'Maryan'],
-
-
       ['Innum Konjam Naeram', 'TAMIL', '2013', 'AR Rahman', 'jqCh3fSNog4', 'Maryan'],
-
-
       ['Rishte Naate', 'HINDI', '2009', 'Pritam', 'c504EGCwQlU', 'De Dana Dan'],
-
       ['Sun Saathiya', 'HINDI', '2015', 'Sachin - Jigar', '_NWaYjsz3qY', 'ABCD 2'],
       ['Kadavulae Vidai', 'TAMIL', '2016', 'Anirudh', 'Hfh_dcVaN5o', 'Rum'],
 
@@ -303,7 +309,6 @@ const playlists = {
       // ['Ee Manase Se', 'TELUGU', '1998', ' Deva', '0oEy0LOffrY', 'Tholiprema'] ,
       // ['Dil Ko Tumse', 'HINDI', '2001', ' Harris Jayaraj', 'Pb0COSer6vY', 'Rehnaa Hai Terre Dil Mein'] ,
       // ['Jashn-E-Bahaara', 'HINDI', '2008', 'A. R. Rahman', 'Mcn0iTUNqo0', 'Jodha Akabar'] ,
-      // ['Kanave Kanave', 'TELUGU', '2013', 'Anirudh Ravichander', 'BF-0sbz4TU0', 'David'] ,
       // ['Kailove', 'TELUGU', '2000', 'A. R. Rahman', 'i_gGmIGnle0', 'Sakhi'] ,
       // ['Jee Karda (Rock Version)', 'HINDI', '2011', 'Sachin-Jigar', 'qoc3h1NMWuo', 'Badlapur'],
       // ['Jeena Jeena', 'HINDI', '2011', 'Sachin Jigar', 'bn4-yP92wcw', 'Badlapur'],
