@@ -4,6 +4,16 @@ const playlists = {
     title: 'My Über Playlist!',
     songs: [
 
+      ['Pompeii', 'ENGLISH', '2013', 'Bastille', 'ChP_alpzsH8', 'Bad Blood'],
+      ['Girls Like You', 'ENGLISH', '2018', 'Maroon 5', 'aJOTlE1K90k', 'Maroon 5'],
+      ['Happier', 'ENGLISH', '2018', 'Marshmello', 'm7Bc3pLyij0', 'Happier'],
+      ['Faded', 'ENGLISH', '2015', 'Alan Walker', 'qdpXxGPqW-Y', 'Faded'],
+      ['Chandelier', 'ENGLISH', '2014', 'Sia', '8nWdqiB6VqU', 'Voices'],
+
+      ["Don't You Worry Child", 'ENGLISH', '2012', 'Swedish House Mafia', 'rj8kxo0inp8', "Don't You Worry Child (Joris Voorn Dub)"],
+      ['Fix You', 'ENGLISH', '2005', 'Coldplay', 'SYmJ_YcC_Fg', 'X&Y'],
+      ["Sultans of Swing", 'ENGLISH', '1978', 'Dire straits', '89Qg_gYqkys', ' Sultans Of Swing / Eastbound Train'],
+      ["Dream on", 'ENGLISH', '1973', 'Aerosmith', '4Y0lAQomh9g', 'Aerosmith'],
       ["Stereo Love", 'ENGLISH', '2009', 'Edward Maya', 'sw5kcRjBkEY', 'Love Story'],
       ["Renegades", 'ENGLISH', '2015', 'X Ambassadors', '6tu4wWSbnIs', ' Renegades (Astrolith Remix)'],
       ["Going In Blind", 'ENGLISH', '2006', 'P.O.D', 'VH4YfGDild0', 'Greatest Hits: The Atlantic Years'],
@@ -142,7 +152,7 @@ const playlists = {
       ['Boochade Boochade', 'TELUGU', '2014', 'S. Thaman', 'P0dHPM0Gzzc', 'Race Gurram'],
       ['Party in the USA', 'ENGLISH', '2009', 'Miley Cyrus', 'BlHsvqzHvag', 'Party in the U.S.A.'],
       ['Aankhon mein teri', 'HINDI', '2007', 'Vishal-Shekhar', 'bdS6OoH1W2A', 'Om Shanti Om'],
-      ['Memories', 'ENGLISH', '2019', 'Maroon 5', 'o2DXt11SMNI', '-'],
+      ['Memories', 'ENGLISH', '2019', 'Maroon 5', 'o2DXt11SMNI', 'Memories'],
      
       ['The Fighter', 'ENGLISH', '2011', 'Gym Class Heroes', 'bxV-OOIamyk', 'The Papercut Chronicles II'],
       ['Love the way you lie', 'ENGLISH', '2010', 'Eminem', 'uelHwf8o7_U', 'Recovery'],
