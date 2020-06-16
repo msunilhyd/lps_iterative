@@ -3,25 +3,32 @@ const playlists = {
     slug: 'my-uber-playlist',
     title: 'My Über Playlist!',
     songs: [
+
+      ["Stereo Love", 'ENGLISH', '2009', 'Edward Maya', 'sw5kcRjBkEY', 'Love Story'],
+      ["Renegades", 'ENGLISH', '2015', 'X Ambassadors', '6tu4wWSbnIs', ' Renegades (Astrolith Remix)'],
+      ["Going In Blind", 'ENGLISH', '2006', 'P.O.D', 'VH4YfGDild0', 'Greatest Hits: The Atlantic Years'],
+
+      ["Rockabye", 'ENGLISH', '20120167', 'Clean Bandit', '2VDdP7lYiiI', 'Rockabye (Autograf Remix)'],
+      ["Falcon Eye", 'ENGLISH', '2017', 'Off Bloom', 'VASKfvfTePI', 'Falcon Eye'],
+      ["Fa la la", 'ENGLISH', '2011', 'Justin Bieber', 'PyoiR7jQhkg', 'Under the Mistletoe'],
+      ["Youth Of The Nation", 'ENGLISH', '2001', 'P.O.D', '1wNjBR_jZ9M', 'Satellite'],
+      ["Treat You Better", 'ENGLISH', '2016', 'Shawn Mendes', 'EvDz91ZmOD0', 'Illuminate'],
+      ["Hall of fame", 'ENGLISH', '2012', 'The Script', 'ds6o9in_y-o', 'Hall of Fame'],
+      ['Otha Sollaala', 'TAMIL', '2011', 'GV Prakash', 'FNLrzbv0Vdg', 'Aadukalam'],
+      ['Jimikki Kammal', 'MALAYALAM', '2017', 'Shaan Rahman', 'IvkVJt4lhGA', 'Velipadinte Pusthakam'],
+
       ['Pookkale Satru', 'TAMIL', '2017', 'AR Rahman', 'OCsrcPizVjA', 'I'],
       ['Sonapareeya', 'TAMIL', '2013', 'AR Rahman', 'HdBxoARI7E8', 'Maryan'],
-
       ['ROCK THA PARTY', 'HINDI', '2016', 'BOMBAY ROCKERS', 'areBR3RVBVc', 'ROCKY HANDSOME'] ,
-
       ['Khoon Chala', 'TAMIL', '2006', 'AR RAHMAN', 'ezfrbmJuLBM', 'Rang De Basanti'] ,
-
       ['Soniya', 'TAMIL', '1997', 'AR RAHMAN', 'sHbiwr5Ue6Y', 'Ratchagan'] ,
-
       ['Taal Taal Se Taal (Western)', 'HINDI', '1999', 'AR RAHMAN', 'MelMTp_dxNQ', 'Taal'] ,
       ['Maa Tujhe Salam', 'HINDI', '1997', 'AR RAHMAN', 'e60xy-jt_zI', 'Vande Mataram'] ,
-
       ['Romeo Attam Pottal ', 'TAMIL', '1996', 'AR RAHMAN', 'mbVrnZt2Eu4', 'Mr Romeo'] ,
-
+     
       ['Sahana', 'TAMIL', '2007', 'AR RAHMAN', 'lTPQ6i0cSZM', 'Sivaji: The Boss'] ,
       ['Anjali Anjali ', 'TAMIL', '1994', 'AR RAHMAN', 'B_iuts4M5ZE', 'Duet'] ,
-
       ['Secret of Success ', 'TAMIL', '2003', 'AR RAHMAN', 'kjOrdWcybpg', 'Boys'] ,
-
       ["Somebody That I Used To Know", 'ENGLISH', '2012', 'Gotye', 'Q7DtJJSVPsk', 'Making Mirrors'],
       ["Holiday", 'ENGLISH', '2004', 'Green Day', 'sO-S32xnXA0', 'American Idiot'],
       ["Black Sheep", 'ENGLISH', '2010', 'Metric', 'ArkDWrHmmXI', ' Scott Pilgrim vs. the World '],
@@ -195,7 +202,7 @@ const playlists = {
       ['Little Talks', 'ENGLISH', '2011', 'Of Monsters and Men', 'ghb6eDopW8I', 'My Head Is an Animal'],
 
       ['Pookkal Pookkum', 'TAMIL', '2010', 'G.V.Prakash Kumar', '9Wg2rk5AVqQ', 'Madrasapattinam'],
-      ['Dusk Till Dawn', 'ENGLISH', '2017', ' Zayn Malik', 'tt2k8PGm-TI', 'Icarus Falls'],
+      ['Dusk Till Dawn', 'ENGLISH', '2017', ' Zayn Malik', 'IgGylfWRI3I', 'Icarus Falls'],
       ['Nenani Neevani', 'TELUGU', '2008', 'Mickey J. Meyer', 'x6HDlIGRk10', 'Kothabangarulokam'],
       ['Chahoon Bhi Toh', 'HINDI', '2011', 'Harris Jayaraj', 'SIfEDWGVwLs', 'Force'],
       ['O My Friend', 'TELUGU', '2007', 'Mickey J. Meyer', 'nYVrSXmdKNk', 'Happy Days'],
