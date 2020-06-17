@@ -3,7 +3,7 @@ const playlists = {
     slug: 'my-uber-playlist',
     title: 'My Über Playlist!',
     songs: [
-
+      ['Eastside', 'ENGLISH', '2018', 'Benny Blanco', 'KFof8aaUvGY', 'Eastside'],
       ['Pompeii', 'ENGLISH', '2013', 'Bastille', 'ChP_alpzsH8', 'Bad Blood'],
       ['Girls Like You', 'ENGLISH', '2018', 'Maroon 5', 'aJOTlE1K90k', 'Maroon 5'],
       ['Happier', 'ENGLISH', '2018', 'Marshmello', 'm7Bc3pLyij0', 'Happier'],
