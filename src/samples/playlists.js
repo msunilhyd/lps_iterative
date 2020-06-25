@@ -3,106 +3,43 @@ const playlists = {
     slug: 'my-uber-playlist',
     title: 'My Über Playlist!',
     songs: [
+      ["Don't Fear The Reaper", 'ENGLISH', '1976', 'Blue Öyster Cult', 'RjMEzBMiTJ4', 'Agents of Fortune'],
+      ['Iris', 'ENGLISH', '1998', 'Goo Goo Dolls', 'CUbJQGqFoi0', 'City of Angels: Music from the Motion Picture'],
+      ['Whatever it takes', 'ENGLISH', '2017', 'Imagine Dragons', 'M66U_DuMCS8', 'Whatever It Takes (Miss Congeniality Remix)'],
+      ["Toxicity", 'ENGLISH', '2001', 'System Of A Down', '0ukNUCQRPkI', 'Toxicity'],
+      
       ['Eastside', 'ENGLISH', '2018', 'Benny Blanco', 'KFof8aaUvGY', 'Eastside'],
-      ['Pompeii', 'ENGLISH', '2013', 'Bastille', 'ChP_alpzsH8', 'Bad Blood'],
-      ['Girls Like You', 'ENGLISH', '2018', 'Maroon 5', 'aJOTlE1K90k', 'Maroon 5'],
-      ['Happier', 'ENGLISH', '2018', 'Marshmello', 'm7Bc3pLyij0', 'Happier'],
-      ['Faded', 'ENGLISH', '2015', 'Alan Walker', 'qdpXxGPqW-Y', 'Faded'],
-      ['Chandelier', 'ENGLISH', '2014', 'Sia', '8nWdqiB6VqU', 'Voices'],
-
-      ["Don't You Worry Child", 'ENGLISH', '2012', 'Swedish House Mafia', 'rj8kxo0inp8', "Don't You Worry Child (Joris Voorn Dub)"],
       ['Fix You', 'ENGLISH', '2005', 'Coldplay', 'SYmJ_YcC_Fg', 'X&Y'],
-      ["Sultans of Swing", 'ENGLISH', '1978', 'Dire straits', '89Qg_gYqkys', ' Sultans Of Swing / Eastbound Train'],
-      ["Dream on", 'ENGLISH', '1973', 'Aerosmith', '4Y0lAQomh9g', 'Aerosmith'],
-      ["Stereo Love", 'ENGLISH', '2009', 'Edward Maya', 'sw5kcRjBkEY', 'Love Story'],
       ["Renegades", 'ENGLISH', '2015', 'X Ambassadors', '6tu4wWSbnIs', ' Renegades (Astrolith Remix)'],
-      ["Going In Blind", 'ENGLISH', '2006', 'P.O.D', 'VH4YfGDild0', 'Greatest Hits: The Atlantic Years'],
-
-      ["Rockabye", 'ENGLISH', '20120167', 'Clean Bandit', '2VDdP7lYiiI', 'Rockabye (Autograf Remix)'],
-      ["Falcon Eye", 'ENGLISH', '2017', 'Off Bloom', 'VASKfvfTePI', 'Falcon Eye'],
-      ["Fa la la", 'ENGLISH', '2011', 'Justin Bieber', 'PyoiR7jQhkg', 'Under the Mistletoe'],
-      ["Youth Of The Nation", 'ENGLISH', '2001', 'P.O.D', '1wNjBR_jZ9M', 'Satellite'],
       ["Treat You Better", 'ENGLISH', '2016', 'Shawn Mendes', 'EvDz91ZmOD0', 'Illuminate'],
       ["Hall of fame", 'ENGLISH', '2012', 'The Script', 'ds6o9in_y-o', 'Hall of Fame'],
-      ['Otha Sollaala', 'TAMIL', '2011', 'GV Prakash', 'FNLrzbv0Vdg', 'Aadukalam'],
-      ['Jimikki Kammal', 'MALAYALAM', '2017', 'Shaan Rahman', 'IvkVJt4lhGA', 'Velipadinte Pusthakam'],
-
-      ['Pookkale Satru', 'TAMIL', '2017', 'AR Rahman', 'OCsrcPizVjA', 'I'],
-      ['Sonapareeya', 'TAMIL', '2013', 'AR Rahman', 'HdBxoARI7E8', 'Maryan'],
-      ['ROCK THA PARTY', 'HINDI', '2016', 'BOMBAY ROCKERS', 'areBR3RVBVc', 'ROCKY HANDSOME'] ,
-      ['Khoon Chala', 'TAMIL', '2006', 'AR RAHMAN', 'ezfrbmJuLBM', 'Rang De Basanti'] ,
-      ['Soniya', 'TAMIL', '1997', 'AR RAHMAN', 'sHbiwr5Ue6Y', 'Ratchagan'] ,
-      ['Taal Taal Se Taal (Western)', 'HINDI', '1999', 'AR RAHMAN', 'MelMTp_dxNQ', 'Taal'] ,
-      ['Maa Tujhe Salam', 'HINDI', '1997', 'AR RAHMAN', 'e60xy-jt_zI', 'Vande Mataram'] ,
-      ['Romeo Attam Pottal ', 'TAMIL', '1996', 'AR RAHMAN', 'mbVrnZt2Eu4', 'Mr Romeo'] ,
-     
-      ['Sahana', 'TAMIL', '2007', 'AR RAHMAN', 'lTPQ6i0cSZM', 'Sivaji: The Boss'] ,
-      ['Anjali Anjali ', 'TAMIL', '1994', 'AR RAHMAN', 'B_iuts4M5ZE', 'Duet'] ,
-      ['Secret of Success ', 'TAMIL', '2003', 'AR RAHMAN', 'kjOrdWcybpg', 'Boys'] ,
       ["Somebody That I Used To Know", 'ENGLISH', '2012', 'Gotye', 'Q7DtJJSVPsk', 'Making Mirrors'],
       ["Holiday", 'ENGLISH', '2004', 'Green Day', 'sO-S32xnXA0', 'American Idiot'],
+
       ["Black Sheep", 'ENGLISH', '2010', 'Metric', 'ArkDWrHmmXI', ' Scott Pilgrim vs. the World '],
       ["Whatever", 'ENGLISH', '1994', 'Oasis', 'cAa4BN_Uadc', 'Definitely Maybe'],
       ["Wicked Ones", 'ENGLISH', '2014', 'Dorothy', 'kOngAfP_2OE', 'DOROTHY'],
-     
-      ['Takkunu Takkunu', 'TAMIL', '2019', 'Hiphop Tamizha', '7pVoLXgQkok', 'Mr.Local'] ,
-      ['Yaanji', 'TAMIL', '2017', 'Anirudh Ravichander', 'bWK3EuroEk4', 'Vikram Vedha'] ,
-      ['Kamariya', 'HINDI', '2018', 'Lijo George - Dj Chetas', 'nfrfUSuFlow', 'Mitron'],
-      ["C'est La Vie", 'FRENCH-ARABIC', '2013', 'Cheb Khaled', 'defnPu0Jz3Y', 'Cest La Vie (Remixes)'],
-      ['Chogada', 'HINDI', '2018', 'Lijo George - Dj Chetas', 'd4OGZZ0EsAI', 'Loveyatri'],
-      ['Kanave Kanave', 'TAMIL', '2013', 'Anirudh Ravichander', 'qD53-RZpTOc', 'David'] ,
-      ['Kadhal Anukkal', 'TAMIL', '2010', 'AR RAHMAN', 'rH7VvU34NIU', 'Enthiran'],
-      ['Kundanapu Bomma ', 'TELUGU', '2010', 'AR RAHMAN', 'sgSDt4YX9P8', 'Yemaaya Chesave'],
-
-      ['Don’u Don’u Don’u', 'TAMIL', '2015', 'Anirudh', 'Y0eErsVNK-I', 'Maari'],
-      ['Naan Nee', 'TAMIL', '2014', 'Santhosh Narayanan', 'VMYWqrlB7Gc', 'Madras'],
-      ['Alladhe Siragiye', 'TAMIL', '2016', 'Anirudh', 'qLghPlhluGI', 'Rum'],
-      ['Azhagiye', 'TAMIL', '2017', 'AR Rahman', 'TFUBlO-zJGg', 'Kaatru Veliyidai'],
-      ['Engeyum Kadhal', 'TAMIL', '2011', 'Harris Jayaraj ', 'Ue0EpN0q_Kc', 'Engeyum Kadhal'],
-      ['Innum Konjam Naeram', 'TAMIL', '2013', 'AR Rahman', 'jqCh3fSNog4', 'Maryan'],
-      ['Rishte Naate', 'HINDI', '2009', 'Pritam', 'c504EGCwQlU', 'De Dana Dan'],
-      ['Sun Saathiya', 'HINDI', '2015', 'Sachin - Jigar', '_NWaYjsz3qY', 'ABCD 2'],
-      ['Kadavulae Vidai', 'TAMIL', '2016', 'Anirudh', 'Hfh_dcVaN5o', 'Rum'],
-
-      ['Ilamai Thirumbudhe', 'TAMIL', '2019', 'Anirudh', '3QKgnA4uy30', 'Petta'],
-      ['Maate Vinadhuga', 'TELUGU', '2018', 'Jakes Bejoy', 'KMocA8G_puU','Taxiwaala'],
-      ['Radha', 'HINDI', '2017', 'Pritam', 'loRj95fRX1c', 'Jab Harry Met Sejal'],
-      ["Seven nation army", 'ENGLISH', '2003', 'The White Stripes', 's2i82up9E1w', 'Elephant'],
-      ['Soch Na Sake', 'HINDI', '2015', 'Amaal Mallik', 'IQ-IzgNhvhg', 'AIRLIFT'],
-      ['Tum Mile', 'HINDI', '2015', 'Pritam', 'C0S0PMpNybM', 'Tum Mile'],
-
       ["Chop suey", 'ENGLISH', '2001', 'System Of A Down', 'CtZ9j-UYI1w', 'Toxicity'],
       ['Ullaallaa', 'TAMIL', '2019', 'Anirudh', 'UvQ9y4w8unE', 'Petta'],
-      ["Toxicity", 'ENGLISH', '2001', 'System Of A Down', '0ukNUCQRPkI', 'Toxicity'],
       ["One love", 'ENGLISH', '2002', 'Blue', 'Rc7cK0jjpL8', 'One love'],
       ['Dil Diyan Gallan', 'HINDI', '2017', 'Vishal-Shekhar', 'mevO4I0f5lg', 'Tiger Zinda Hai'],
-      ['Andamaina Premarani', 'TELUGU', '1994', 'A. R. Rahman', 'kqXTFX4mNOg','Premikudu'],
-      ["Hips don't lie", 'ENGLISH', '2005', 'Shakira', 'q0V1yQueYwY', 'Oral Fixation Vol. 2'],
-     
-      ['Channa Mereya', 'HINDI', '2016', 'Pritam', 'bzSTpdcs-EI', 'Ae Dil Hai Mushkil'],
-      ['Emai Poyave','TELUGU','2018','Vishal Chandrasekhar','QfF5ceRzrqI','Padi Padi Leche Manasu'],
-      ['Judaai','HINDI','2011','Sachin-Jigar','5Dnv-nIlwWo','Badlapur'],
-      ["Icky thump", 'ENGLISH', '2007', 'The White Stripes', 'm1KyC_LzvzQ', 'Icky Thump'],
 
-      ['Padi Padi Leche Manasu','TELUGU','2018','Vishal Chandrasekhar','uNLX3CffxTE','Padi Padi Leche Manasu'],
-      ['Stiches', 'ENGLISH', '2015', 'Shawn Mendes', 'M_yYWMOKjvE', 'Stitches (Seeb Remix)'],
-      ['Sucker', 'ENGLISH', '2019', 'Jonas Brothers', 'Ty0WEJvlljs', 'Happiness Begins'],
-      ['Hawayein', 'HINDI', '2017', 'Pritam', 'cYOB941gyXI', 'Jab Harry Met Sejal'],
-      ['Shape of you', 'ENGLISH', '2017', 'Ed Sheeran', 'VJ2rlci9PE0', 'Shape of You (Stormzy Remix)'],
+      ['One Last Breath', 'ENGLISH', '2001', 'Creed', 'BzamjXouX5w', 'Weathered'],
+      ['Kamariya', 'HINDI', '2018', 'Lijo George - Dj Chetas', 'nfrfUSuFlow', 'Mitron'],      
+      ['Faded', 'ENGLISH', '2015', 'Alan Walker', 'qdpXxGPqW-Y', 'Faded'],
+      ['Heera', 'HINDI', '2014', 'AR RAHMAN', 'xn1nhR5Ayx0', 'Highway'],
+      ['Raanjhanaa', 'HINDI', '2013', 'AR Rahman', 'OsTGp5n6w5E', 'Raanjhanaa'],
 
 
-      ['Starboy', 'ENGLISH', '2016', 'The Weeknd', 'dMMUH_ZpbB0', 'Starboy'],
-      ['Lighters', 'ENGLISH', '2011', 'Bad Meets Evil', 'qJHiMGomJ_A', 'Hell: The Sequel'],
-      ['Here without you', 'ENGLISH', '2002', '3 Doors Down', 'NxBl_q_NDas', 'Away from the Sun'],
-      ['Teri Deewani', 'HINDI', '2016', 'Kailash Kher', 'F_F6yC87-ts', 'Best of Bollywood: Sufi'],
+      ['Takkunu Takkunu', 'TAMIL', '2019', 'Hiphop Tamizha', '7pVoLXgQkok', 'Mr.Local'] ,
+      ['Chandelier', 'ENGLISH', '2014', 'Sia', '8nWdqiB6VqU', 'Voices'],
+      ['ROCK THA PARTY', 'HINDI', '2016', 'BOMBAY ROCKERS', 'areBR3RVBVc', 'ROCKY HANDSOME'] ,
+
+      
       ["I'm shipping up to Boston", 'ENGLISH', '2005', 'Dropkick Murphys', '1IIkaH2pY50', "The Warrior's Code"],
-      ['Cheap Thrills', 'ENGLISH', '2016', 'Sia', 'nEIHHydwec8', 'This Is Acting'],
       ['Tera Ban Jaunga', 'HINDI', '2019', 'Akhil Sachdeva', '39BOqZO8xaM', 'Kabir Singh'],
       ["Lonely day", 'ENGLISH', '2005', 'System Of A Down', '9VBiJvJfC0Q', 'Hypnotize'],
 
-      ['My Love', 'ENGLISH', '2000', 'Westlife', 'btUTQeto940', 'Coast to Coast'],
-      ['Wake Me Up', 'ENGLISH', '2013', 'Avicii', 'yVjjuOqMQIw', 'True'],
-      ['Tung Tung Baje', 'HINDI', '2015', '	Sneha Khanwalkar', 'u2VhHGAtr4g', 'Singh Is Bliing'],
       ['Perfect', 'ENGLISH', '2017', 'Ed Sheeran', 'iKzRIweSBLA', 'Divide'],
       ['Tujhe Kitna Chahne', 'HINDI', '2019', 'Mithoon', 'ABsafzlQN9Q', 'Kabir Singh'],
 
@@ -121,15 +58,64 @@ const playlists = {
       ['Tukur Tukur', 'HINDI', '2015', 'Pritam', 'hp0g6p2jjvo', 'Dilwale'],
       ['Bhaag DK Bose', 'HINDI', '2011', 'Ram Sampath', 'Vc1NR-cMchc', 'Delhi Belly'],
       ['Maahi Ve', 'HINDI', '2014', 'A.R Rahman', 'S1aQhVUy_9g', ' Highway'],
-      ['Beautiful', 'ENGLISH', '2009', 'Eminem', 'WDsWiUObdes', 'Relapse'],
-  
-      ['Zaalima', 'HINDI', '2017', 'Ram Sampath', 'hhdSyBHuI88', 'Raees'],
-      ['Magic', 'ENGLISH', '2014', 'Coldplay', '1PvBc2TOpE4', 'A Head Full of Dreams '],
+
+      ['Sun Saathiya', 'HINDI', '2015', 'Sachin - Jigar', '_NWaYjsz3qY', 'ABCD 2'],
+      ['Kadavulae Vidai', 'TAMIL', '2016', 'Anirudh', 'Hfh_dcVaN5o', 'Rum'],
+      
+
+      ['Khoon Chala', 'TAMIL', '2006', 'AR RAHMAN', 'ezfrbmJuLBM', 'Rang De Basanti'] ,
+      ['Chogada', 'HINDI', '2018', 'Lijo George - Dj Chetas', 'd4OGZZ0EsAI', 'Loveyatri'],
+      ['Kanave Kanave', 'TAMIL', '2013', 'Anirudh Ravichander', 'qD53-RZpTOc', 'David'] ,
+
+      ["Falcon Eye", 'ENGLISH', '2017', 'Off Bloom', 'VASKfvfTePI', 'Falcon Eye'],
+      ["Fa la la", 'ENGLISH', '2011', 'Justin Bieber', 'PyoiR7jQhkg', 'Under the Mistletoe'],
+      ['Rishte Naate', 'HINDI', '2009', 'Pritam', 'c504EGCwQlU', 'De Dana Dan'],
+      ['Engeyum Kadhal', 'TAMIL', '2011', 'Harris Jayaraj ', 'Ue0EpN0q_Kc', 'Engeyum Kadhal'],
+      ['Don’u Don’u Don’u', 'TAMIL', '2015', 'Anirudh', 'Y0eErsVNK-I', 'Maari'],
+      ['Naan Nee', 'TAMIL', '2014', 'Santhosh Narayanan', 'VMYWqrlB7Gc', 'Madras'],
+      ['Alladhe Siragiye', 'TAMIL', '2016', 'Anirudh', 'qLghPlhluGI', 'Rum'],
+
+      ['Channa Mereya', 'HINDI', '2016', 'Pritam', 'bzSTpdcs-EI', 'Ae Dil Hai Mushkil'],
+      ['Emai Poyave','TELUGU','2018','Vishal Chandrasekhar','QfF5ceRzrqI','Padi Padi Leche Manasu'],
+      ['Judaai','HINDI','2011','Sachin-Jigar','5Dnv-nIlwWo','Badlapur'],
+      ['Padi Padi Leche Manasu','TELUGU','2018','Vishal Chandrasekhar','uNLX3CffxTE','Padi Padi Leche Manasu'],
+      ['Stiches', 'ENGLISH', '2015', 'Shawn Mendes', 'M_yYWMOKjvE', 'Stitches (Seeb Remix)'],
+      ['Sucker', 'ENGLISH', '2019', 'Jonas Brothers', 'Ty0WEJvlljs', 'Happiness Begins'],
+      ['Hawayein', 'HINDI', '2017', 'Pritam', 'cYOB941gyXI', 'Jab Harry Met Sejal'],
+     
+
+      ['Ilamai Thirumbudhe', 'TAMIL', '2019', 'Anirudh', '3QKgnA4uy30', 'Petta'],
+      ['Maate Vinadhuga', 'TELUGU', '2018', 'Jakes Bejoy', 'KMocA8G_puU','Taxiwaala'],
+      ['Radha', 'HINDI', '2017', 'Pritam', 'loRj95fRX1c', 'Jab Harry Met Sejal'],
+      ["Seven nation army", 'ENGLISH', '2003', 'The White Stripes', 's2i82up9E1w', 'Elephant'],
+      ['Soch Na Sake', 'HINDI', '2015', 'Amaal Mallik', 'IQ-IzgNhvhg', 'AIRLIFT'],
+
+      ['Inconsolable', 'ENGLISH', '2007', 'Backstreet Boys', 'c3955-vJ5Nw', 'Unbreakable'],
+      ['Forever young', 'ENGLISH', '2005', 'Youth Group', 'Nzdt9vBvSDE', 'The O.C.'],
+      ['The Saltwater Room', 'ENGLISH', '2008', 'Adam Young', 'qMp3TIVYwwk', 'Maybe', 'I am Dreaming'],
+      ['Nachave Nizam Pori ', 'TELUGU', '2004', 'Devi Sri Prasad', 'xR85zCreXUo', 'Varsham'],
       ['Beera', 'HINDI', '2010', 'A.R Rahman', '9oN4ePKC0MQ', 'Raavan'],
       ['See You Again', 'ENGLISH', '2010', 'Charlie Puth', 'RgKAFK5djSk', 'See You Again'],
       ['Moongil Thottam', 'TAMIL', '2013', 'A.R Rahman', 'IOA4-EIhtLA', 'Kadal'],
-      ['Sky full of stars', 'ENGLISH', '2014', 'Coldplay', 'ot_snHDVTUU', 'Ghost Stories'],
-   
+
+      ['Girls Like You', 'ENGLISH', '2018', 'Maroon 5', 'aJOTlE1K90k', 'Maroon 5'],
+      ['Happier', 'ENGLISH', '2018', 'Marshmello', 'm7Bc3pLyij0', 'Happier'],
+      ['Starboy', 'ENGLISH', '2016', 'The Weeknd', 'dMMUH_ZpbB0', 'Starboy'],
+      ['Lighters', 'ENGLISH', '2011', 'Bad Meets Evil', 'qJHiMGomJ_A', 'Hell: The Sequel'],
+      ['Here without you', 'ENGLISH', '2002', '3 Doors Down', 'NxBl_q_NDas', 'Away from the Sun'],
+      ['Teri Deewani', 'HINDI', '2016', 'Kailash Kher', 'F_F6yC87-ts', 'Best of Bollywood: Sufi'],
+      ['Cheap Thrills', 'ENGLISH', '2016', 'Sia', 'nEIHHydwec8', 'This Is Acting'],
+      
+      ['My Love', 'ENGLISH', '2000', 'Westlife', 'btUTQeto940', 'Coast to Coast'],
+      ['Tung Tung Baje', 'HINDI', '2015', '	Sneha Khanwalkar', 'u2VhHGAtr4g', 'Singh Is Bliing'],
+      ['Magic', 'ENGLISH', '2014', 'Coldplay', '1PvBc2TOpE4', 'A Head Full of Dreams '],
+      ['Tum Mile', 'HINDI', '2015', 'Pritam', 'C0S0PMpNybM', 'Tum Mile'],
+      ['Yaanji', 'TAMIL', '2017', 'Anirudh Ravichander', 'bWK3EuroEk4', 'Vikram Vedha'] ,
+     
+      ["Icky thump", 'ENGLISH', '2007', 'The White Stripes', 'm1KyC_LzvzQ', 'Icky Thump'],
+      ['Shape of you', 'ENGLISH', '2017', 'Ed Sheeran', 'VJ2rlci9PE0', 'Shape of You (Stormzy Remix)'],
+
+
       ['Kun Faya Kun', 'HINDI', '2011', 'A.R Rahman', '0RDI9CMilhk', ' Rockstar'],
       ['Dil Ye Bekarar Kyun Hai', 'HINDI', '2012', 'Pritam', '5oKFcSeHTSU', ' Players'],
       ["It Ain't Me", 'ENGLISH', '2017', 'Selena Gomez', 'u3VTKvdAuIY', 'Stargazing'],
@@ -142,7 +128,6 @@ const playlists = {
       ['Love me like you do', 'ENGLISH', '2015', 'Ellie Goulding', '725WlG1idPc', 'DELIRIUM'],
       ['Allah Maaf Kare', 'HINDI', '2011', 'Pritam', 'BhtHOzkQRpI', 'Desi Boyz'],
       ['Burn', 'ENGLISH', '2013', 'Ellie Goulding', 'J5f27dW_AS0', 'Halcyon Days'],
-      ['Aalaporaan Thamizhan', 'TAMIL', '2017', 'A.R Rahman', '3XmrZaVVUpc', 'Mersal'],
       ['Danza Kuduro', 'Portuguese', '2010', 'Don Omar', 'YPlZ-nJewRE', 'Don Omar Presents: Meet the Orphans'],
       ['Abhi Mujh Mein Kahin', 'HINDI', '2012', 'Ajay-Atul', 'oWKgpB2zpgw', 'Agneepath'],
 
@@ -184,9 +169,7 @@ const playlists = {
       ['Airplanes', 'ENGLISH', '2010', ' B.o.B', 'Yy2aIH4XYpg', 'B.o.B Presents: The Adventures of Bobby Ra'],
       
       ['Ey Hairathe', 'HINDI', '2007', 'A. R. Rahman', '038jmlSH3iM', 'Guru'],
-      ['Hymn For The Weekend', 'ENGLISH', '2015', 'Coldplay', 'YykjpeuMNEk', 'A Head Full of Dreams'],
       ['Cheliya Cheliya', 'TELUGU', '2001', 'Mani Sharma', '_ruDPvH9_Eg', 'Kushi'],
-      ['Space Bound', 'ENGLISH', '2010', ' Eminem', 'JByDbPn6A1o', 'Recovery'],
       ['Kabhi Neem Neem', 'HINDI', '2004', 'A. R. Rahman', 'ALQ7MLtEwtI', 'Yuva'],
       ["When I'm Gone", 'ENGLISH', '2005', 'Eminem', '1wYNFfgrXTI', "When I'm Gone"],
      
@@ -196,15 +179,11 @@ const playlists = {
       ['Roja Kadale', 'TAMIL', '2015', 'Harris Jayaraj', '9hVjc3sUSjA', 'Anegan'],
       ['Dynamite', 'ENGLISH', '2009', 'Taio Cruz', 'XEh3zWQWuEk', 'Rokstarr '],
       ['Deivangal Ingae', 'TAMIL', '2015', 'Harris Jayaraj', 'K5yJ7eVMRUA', 'Anegan'],
-      ["DJ Got Us Fallin' In Love", 'ENGLISH', '2010', 'Usher', 'C-dvTjK_07c', 'Versus'],
  
       ['Afghan Jalebi', 'HINDI', '2015', 'Pritam', 'V_92Ry6aKe0', 'Phantom'],
       ['All Of The Lights', 'ENGLISH', '2010', 'Kanye West', 'HAfFfqiYLp0', 'My Beautiful Dark Twisted Fantasy'],
       ['Sawan Aaya Hai', 'HINDI', '2014', 'Tony Kakkar', 'B5_6jfGsyjA', ' Creature 3D'],
       ['Numb', 'ENGLISH', '2003', 'Linkin Park', '8P0vKLHbtMg', 'Meteora'],
-      ['Wake Me up When September Ends', 'ENGLISH', '2004', 'Green Day', 'ulRXvH8VOl8', 'American Idiot'],
-
-      ['21 Guns', 'ENGLISH', '2004', 'Green Day', 'w29aq_sgwxw', '21 Guns'],
       ['Enduko Madi', 'TELUGU', '2009', 'Achu & Dharan', '9sdzCtElP-8', 'Neenu Meeku Thelusa'],
       ['Cheerleader', 'ENGLISH', '2014', 'Omi', 'jGflUbPQfW8', 'Me 4 U'],
       ['Preyasi Kaavu', 'TELUGU', '2005', 'Mahesh Shankar', 'IXvri75YEPM', 'Vennela'],
@@ -217,8 +196,6 @@ const playlists = {
       ['Chahoon Bhi Toh', 'HINDI', '2011', 'Harris Jayaraj', 'SIfEDWGVwLs', 'Force'],
       ['O My Friend', 'TELUGU', '2007', 'Mickey J. Meyer', 'nYVrSXmdKNk', 'Happy Days'],
       ['Hey Ya!', 'HINDI', '2010', 'Shankar-Ehsaan-Loy', 'wLH4rrmIT60', 'Karthik Calling Karthik'],
-      ['Ok Anesa', 'TELUGU', '2008', 'Mickey J. Meyer', '7saoh3n0fjY', 'Kothabangarulokam '],
-      ['Singappenney', 'TAMIL', '2019', 'A.R Rahman', 'IiUNRYQ1Cak', 'Bigil'],
 
       ['Sarvam Thaala Mayam', 'TAMIL', '2019', 'A.R Rahman', 'd3OZVsHG9TM', 'Sarvam Thaala Mayam'],
       ['Airplanes Pt II', 'ENGLISH', '2010', ' B.o.B', 'MK29MlRUt48', 'B.o.B Presents: The Adventures of Bobby Ray'],
@@ -235,7 +212,6 @@ const playlists = {
       ['The Monster', 'ENGLISH', '2010', 'Eminem', 'EHkozMIXZ8w', 'The Marshall Mathers LP 2'],
       ['Orasaadha', 'TAMIL', '2018', 'Vivek–Mervin', '93Y_eCwdR5k', 'The Tamil EDM Mixtape'],
       ['Bailando', 'ENGLISH', '2013', 'Enrique Iglesias', 'b8I-7Wk_Vbc', 'Bailando (Remixes)'],
-      ['Udhungada Sangu', 'TAMIL', '2014', 'Anirudh Ravichander', 'RCXzH27eOIA', 'Velai Illa Pattadhaari'],
       ['Nee Yadalo Naaku', 'TELUGU', '2010', 'Yuvan Shankar Raja', 'VffosKXVZoY', 'Awaara'],
       ['Thalli Pogathey', 'TAMIL', '2016', 'A. R. Rahman', 'IarsrX60bZw', 'Achcham Yenbadhu Madamaiyada'],
 
@@ -248,14 +224,14 @@ const playlists = {
       ['Po Indru Neeyaga', 'TAMIL', '2014', 'Anirudh Ravichander', 'ADJSD_oh5nU', 'Velai Illa Pattadhaari'],
 
       ['Now We Are Free', ' ENGLISH', '2000', ' Hans Zimmer', 'PvrDI6U0mE4', 'Gladiator'],
-      ['Incomplete', 'ENGLISH', '2007', ' Backstreet Boys', 'QszbpWMsI5M', 'Insomniac'],
+      ['Incomplete', 'ENGLISH', '2007', ' Backstreet Boys', 'QszbpWMsI5M', 'Never Gone'],
       ['Roobaroo', 'HINDI', '2006', 'A. R. Rahman', 'BrfRB6aTZlM', 'Rang De Basanti'],
-      ['I want it that way', ' ENGLISH', '2007', ' Backstreet Boys', 'MwdSvchtKeA', 'Insomniac'],
+      ['I want it that way', ' ENGLISH', '2007', ' Backstreet Boys', 'MwdSvchtKeA', 'Millennium'],
       ['Yaarumilla', 'TAMIL', '2014', 'A. R. Rahman', 'idZ-5amTsHA', 'Kaaviyathalaivan'],
       ['My Life Be Like', 'ENGLISH', '2002', 'Grits', '83mhHOytg4U', 'The Art of Translation'],
       ['Tera Hone Laga Hoon', 'HINDI', '2009', 'Pritam', 'rTuxUAuJRyY', 'Ajab Prem Ki Ghazab Kahani'],
 
-      ['Something That I Already Know', ' ENGLISH', '2007', ' Backstreet Boys', 'm291VyX5dTQ', 'Insomniac'],
+      ['Something That I Already Know', ' ENGLISH', '2007', ' Backstreet Boys', 'm291VyX5dTQ', 'Unbreakable'],
       ['Tu Jaane Na', 'HINDI', '2009', 'Pritam', 'P8PWN1OmZOA', 'Ajab Prem Ki Ghazab Kahani'],
       ['Kaatu Mooliyo', 'MALAYALAM', '2015', 'eShaan Rahman', 'vilA6jt5w6Y', 'Ohm Shanthi Oshaana'],
       ['2U', 'ENGLISH', '2017', 'Justin Bieber', '3QAOqZPJgZE', '2U'],
@@ -320,26 +296,49 @@ const playlists = {
       ['Rude', 'ENGLISH', '2013', 'MAGIC!', 'aRtJqhe6YaY', 'Rude'],
       ['Preminche Premava', 'TELUGU', '2006', 'A. R. Rahman', 'FR3Febey_lI', 'Sillunu Nuvvu Nenu Prema'],
 
-      ['Pedavi Datani', 'TELUGU', '1999', 'Ramana Gogula', 'x6sO_Ew93LY', '1999'],
-      ['Chiguraku', 'TELUGU', '2004', 'Mani Sharma', 'Q0cugVv3K2Y', 'Gudumba Shankar'],
-      ['The Saltwater Room', 'ENGLISH', '2008', 'Adam Young', 'qMp3TIVYwwk', 'Maybe', 'I am Dreaming'],
+      ['Sahana', 'TAMIL', '2007', 'AR RAHMAN', 'lTPQ6i0cSZM', 'Sivaji: The Boss'] ,
+      ['Anjali Anjali ', 'TAMIL', '1994', 'AR RAHMAN', 'B_iuts4M5ZE', 'Duet'] ,
+      ['Secret of Success ', 'TAMIL', '2003', 'AR RAHMAN', 'kjOrdWcybpg', 'Boys'] ,
+      ["C'est La Vie", 'FRENCH-ARABIC', '2013', 'Cheb Khaled', 'defnPu0Jz3Y', 'Cest La Vie (Remixes)'],
+      
+
       ['Edhuta Nilichindhi', 'TELUGU', '2008', 'Kamalakar', 'rXumims1q98', 'Vaana'],
-      ['Inconsolable', 'ENGLISH', '2007', 'Backstreet Boys', 'c3955-vJ5Nw', 'Insomniac'],
       ['Nuvve Nuvve', 'TELUGU', '2015', 'S. S. Thaman', 'B-mW-XIYHGk', 'Kick 2'],
       ['Chirugali Veechane', 'TELUGU', '2003', 'Ilaiyaraaja', '9gC9ysiI2vA', 'Siva Putrudu '],
-      ['Nachave Nizam Pori ', 'TELUGU', '2004', 'Devi Sri Prasad', 'xR85zCreXUo', 'Varsham'],
-      ['Bagundey Bagundey', 'TELUGU', '2008', 'Vishal-Shekhar', 'VKRF3Y7Kfbc', 'Chintakayala Ravi'],
-      ['Forever young', 'ENGLISH', '2005', 'Youth Group', 'Nzdt9vBvSDE', 'The O.C.'],
-      ['Andala Akasamantha', 'TELUGU', '2005', 'Vidyasagar', 'Rp6ivvw89y8', 'Chandramukhi'],
-      ['Neeve', 'TELUGU', '2010', 'G.V. Prakash Kumar', '0Olv8zM_rps', 'Darling'],
-      ['One Last Breath', 'ENGLISH', '2001', 'Creed', 'BzamjXouX5w', 'Weathered'],
       ['Ayyayo', 'TAMIL', '2011', 'G.V.Prakash Kumar', 'uxb-TMoqb9k', 'Aadukalam'],
-      ['Heera', 'HINDI', '2014', 'AR RAHMAN', 'xn1nhR5Ayx0', 'Highway'],
-      ['O Sona', 'TELUGU', '1999', 'Deva', '5X-NctqvcBU', 'Vaali'],
-      ['Mellaga Mellaga', 'TELUGU', '1995', 'Deva', '_C_3rZDdSAY', 'Asha Asha Asha'],
-      ['Raanjhanaa', 'HINDI', '2013', 'AR Rahman', 'OsTGp5n6w5E', 'Raanjhanaa'],
-      ['Viva La Vida', 'ENGLISH', '2008', 'Coldplay', 'dvgZkm1xWPE', 'Viva La Vida or Death and All His Friends'],
 
+      ['Mellaga Mellaga', 'TELUGU', '1995', 'Deva', '_C_3rZDdSAY', 'Asha Asha Asha'],
+      ['Kundanapu Bomma ', 'TELUGU', '2010', 'AR RAHMAN', 'sgSDt4YX9P8', 'Yemaaya Chesave'],
+
+      ['Azhagiye', 'TAMIL', '2017', 'AR Rahman', 'TFUBlO-zJGg', 'Kaatru Veliyidai'],
+      ['Andamaina Premarani', 'TELUGU', '1994', 'A. R. Rahman', 'kqXTFX4mNOg','Premikudu'],
+      ['Innum Konjam Naeram', 'TAMIL', '2013', 'AR Rahman', 'jqCh3fSNog4', 'Maryan'],
+      ["Sultans of Swing", 'ENGLISH', '1978', 'Dire straits', '89Qg_gYqkys', ' Sultans Of Swing / Eastbound Train'],
+      ["Stereo Love", 'ENGLISH', '2009', 'Edward Maya', 'sw5kcRjBkEY', 'Love Story'],
+      ["Going In Blind", 'ENGLISH', '2006', 'P.O.D', 'VH4YfGDild0', 'Greatest Hits: The Atlantic Years'],
+      ['Pompeii', 'ENGLISH', '2013', 'Bastille', 'ChP_alpzsH8', 'Bad Blood'],
+
+      ["Youth Of The Nation", 'ENGLISH', '2001', 'P.O.D', '1wNjBR_jZ9M', 'Satellite'],
+      ["Rockabye", 'ENGLISH', '20120167', 'Clean Bandit', '2VDdP7lYiiI', 'Rockabye (Autograf Remix)'],
+
+      ['Otha Sollaala', 'TAMIL', '2011', 'GV Prakash', 'FNLrzbv0Vdg', 'Aadukalam'],
+      ['Jimikki Kammal', 'MALAYALAM', '2017', 'Shaan Rahman', 'IvkVJt4lhGA', 'Velipadinte Pusthakam'],
+      ["Dream on", 'ENGLISH', '1973', 'Aerosmith', '4Y0lAQomh9g', 'Aerosmith'],
+
+
+      ['Pookkale Satru', 'TAMIL', '2017', 'AR Rahman', 'OCsrcPizVjA', 'I'],
+      ['Sonapareeya', 'TAMIL', '2013', 'AR Rahman', 'HdBxoARI7E8', 'Maryan'],
+      ['Soniya', 'TAMIL', '1997', 'AR RAHMAN', 'sHbiwr5Ue6Y', 'Ratchagan'] ,
+      ['Taal Taal Se Taal (Western)', 'HINDI', '1999', 'AR RAHMAN', 'MelMTp_dxNQ', 'Taal'] ,
+      ['Ok Anesa', 'TELUGU', '2008', 'Mickey J. Meyer', '7saoh3n0fjY', 'Kothabangarulokam '],
+      ['Singappenney', 'TAMIL', '2019', 'A.R Rahman', 'IiUNRYQ1Cak', 'Bigil'],
+
+      ['Romeo Attam Pottal ', 'TAMIL', '1996', 'AR RAHMAN', 'mbVrnZt2Eu4', 'Mr Romeo'] ,
+     
+
+      ['Wake Me up When September Ends', 'ENGLISH', '2004', 'Green Day', 'ulRXvH8VOl8', 'American Idiot'],
+
+      ['21 Guns', 'ENGLISH', '2004', 'Green Day', 'w29aq_sgwxw', '21 Guns'],
 
       // ['Maga Dheera', 'TELUGU', '1999', 'A. R. Rahman', '7y2Ub1K925M', 'Oke Okkadu'] ,
       // ['Sarele Vooruko', 'TELUGU', '1996', 'Sri Kommineni', 'AHqGPlZ6wg0', 'Little Soldiers'] ,
