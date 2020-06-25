@@ -340,6 +340,26 @@ const playlists = {
 
       ['21 Guns', 'ENGLISH', '2004', 'Green Day', 'w29aq_sgwxw', '21 Guns'],
 
+      ['Beautiful', 'ENGLISH', '2009', 'Eminem', 'WDsWiUObdes', 'Relapse'],	
+  	
+      ['Zaalima', 'HINDI', '2017', 'Ram Sampath', 'hhdSyBHuI88', 'Raees'],	
+      ['Magic', 'ENGLISH', '2014', 'Coldplay', '1PvBc2TOpE4', 'A Head Full of Dreams '],
+      ['Sky full of stars', 'ENGLISH', '2014', 'Coldplay', 'ot_snHDVTUU', 'Ghost Stories'],	
+   
+
+      ['Aalaporaan Thamizhan', 'TAMIL', '2017', 'A.R Rahman', '3XmrZaVVUpc', 'Mersal'],
+      ['Hymn For The Weekend', 'ENGLISH', '2015', 'Coldplay', 'YykjpeuMNEk', 'A Head Full of Dreams'],	
+      ['Space Bound', 'ENGLISH', '2010', ' Eminem', 'JByDbPn6A1o', 'Recovery'],
+      ["DJ Got Us Fallin' In Love", 'ENGLISH', '2010', 'Usher', 'C-dvTjK_07c', 'Versus'],
+      ['Viva La Vida', 'ENGLISH', '2008', 'Coldplay', 'dvgZkm1xWPE', 'Viva La Vida or Death and All His Friends'],
+
+      ['Udhungada Sangu', 'TAMIL', '2014', 'Anirudh Ravichander', 'RCXzH27eOIA', 'Velai Illa Pattadhaari'],
+
+      ['Andala Akasamantha', 'TELUGU', '2005', 'Vidyasagar', 'Rp6ivvw89y8', 'Chandramukhi'],
+
+      ['O Sona', 'TELUGU', '1999', 'Deva', '5X-NctqvcBU', 'Vaali'],
+
+
       // ['Maga Dheera', 'TELUGU', '1999', 'A. R. Rahman', '7y2Ub1K925M', 'Oke Okkadu'] ,
       // ['Sarele Vooruko', 'TELUGU', '1996', 'Sri Kommineni', 'AHqGPlZ6wg0', 'Little Soldiers'] ,
       // ['Vennele Kuriseny Le', 'TELUGU', '2005', 'Vidyasagar', 'U1eF5SyidLE', 'muddula koduku'] ,
