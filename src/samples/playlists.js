@@ -85,6 +85,7 @@ const playlists = {
      
 
       ['Ilamai Thirumbudhe', 'TAMIL', '2019', 'Anirudh', '3QKgnA4uy30', 'Petta'],
+      ['Ghar More Pardesiya', 'HINDI', '2019', 'Pritam', 'uIrfVJuB4mE', 'Kalank'],
       ['Maate Vinadhuga', 'TELUGU', '2018', 'Jakes Bejoy', 'KMocA8G_puU','Taxiwaala'],
       ['Radha', 'HINDI', '2017', 'Pritam', 'loRj95fRX1c', 'Jab Harry Met Sejal'],
       ["Seven nation army", 'ENGLISH', '2003', 'The White Stripes', 's2i82up9E1w', 'Elephant'],
@@ -114,7 +115,6 @@ const playlists = {
      
       ["Icky thump", 'ENGLISH', '2007', 'The White Stripes', 'm1KyC_LzvzQ', 'Icky Thump'],
       ['Shape of you', 'ENGLISH', '2017', 'Ed Sheeran', 'VJ2rlci9PE0', 'Shape of You (Stormzy Remix)'],
-
 
       ['Kun Faya Kun', 'HINDI', '2011', 'A.R Rahman', '0RDI9CMilhk', ' Rockstar'],
       ['Dil Ye Bekarar Kyun Hai', 'HINDI', '2012', 'Pritam', '5oKFcSeHTSU', ' Players'],
