@@ -255,6 +255,8 @@ const playlists = {
       ['Stairway To Heaven', ' ENGLISH', '1971', ' Led Zeppelin', 'QkF3oxziUI4', ' The Song Remains the Same'],
       ['Yekommakakomma', 'TELUGU', '1999', 'Mani Sharma', '9eJgdZsUw8U', 'Seenu'],
       ['Satyameva Jayathe', ' ENGLISH', '2011', ' SuperHeavy', 'RNrDGaDU7ug', 'SuperHeavy'],
+      ['Enna Solla', 'TAMIL', '2015', 'Anirudh Ravichander', 'FdVuB15iR5V9sHEtQG2G_g', 'Thanga Magan'],
+
 
       ['Good Riddance', ' ENGLISH', '1997', ' Green Day', 'Nwhyj0zcD7M', ' Nimrod'],
       ['Paarthen', 'TAMIL', '2017', 'Sean Roldan', 'DZOpwL6t3Lw', '  Power Paandi'],
