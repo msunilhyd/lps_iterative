@@ -60,7 +60,6 @@ const playlists = {
       ['Maahi Ve', 'HINDI', '2014', 'A.R Rahman', 'S1aQhVUy_9g', ' Highway'],
 
       ['Sun Saathiya', 'HINDI', '2015', 'Sachin - Jigar', '_NWaYjsz3qY', 'ABCD 2'],
-      ['Kadavulae Vidai', 'TAMIL', '2016', 'Anirudh', 'Hfh_dcVaN5o', 'Rum'],
       
 
       ['Khoon Chala', 'TAMIL', '2006', 'AR RAHMAN', 'ezfrbmJuLBM', 'Rang De Basanti'] ,
@@ -109,7 +108,6 @@ const playlists = {
       
       ['My Love', 'ENGLISH', '2000', 'Westlife', 'btUTQeto940', 'Coast to Coast'],
       ['Tung Tung Baje', 'HINDI', '2015', '	Sneha Khanwalkar', 'u2VhHGAtr4g', 'Singh Is Bliing'],
-      ['Magic', 'ENGLISH', '2014', 'Coldplay', '1PvBc2TOpE4', 'A Head Full of Dreams '],
       ['Tum Mile', 'HINDI', '2015', 'Pritam', 'C0S0PMpNybM', 'Tum Mile'],
       ['Yaanji', 'TAMIL', '2017', 'Anirudh Ravichander', 'bWK3EuroEk4', 'Vikram Vedha'] ,
      
@@ -255,7 +253,7 @@ const playlists = {
       ['Stairway To Heaven', ' ENGLISH', '1971', ' Led Zeppelin', 'QkF3oxziUI4', ' The Song Remains the Same'],
       ['Yekommakakomma', 'TELUGU', '1999', 'Mani Sharma', '9eJgdZsUw8U', 'Seenu'],
       ['Satyameva Jayathe', ' ENGLISH', '2011', ' SuperHeavy', 'RNrDGaDU7ug', 'SuperHeavy'],
-      ['Enna Solla', 'TAMIL', '2015', 'Anirudh Ravichander', 'FdVuB15iR5V9sHEtQG2G_g', 'Thanga Magan'],
+      ['Enna Solla', 'TAMIL', '2015', 'Anirudh Ravichander', '5iR5V9sHEtQ', 'Thanga Magan'],
 
 
       ['Good Riddance', ' ENGLISH', '1997', ' Green Day', 'Nwhyj0zcD7M', ' Nimrod'],
