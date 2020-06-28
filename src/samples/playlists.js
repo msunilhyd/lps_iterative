@@ -3,6 +3,7 @@ const playlists = {
     slug: 'my-uber-playlist',
     title: 'My Über Playlist!',
     songs: [
+      ['Kohinoor', 'HINDI', '2019', 'Divine', 'FBYvyWvSY1M', 'Kohinoor'],
       ["Don't Fear The Reaper", 'ENGLISH', '1976', 'Blue Öyster Cult', 'RjMEzBMiTJ4', 'Agents of Fortune'],
       ['Iris', 'ENGLISH', '1998', 'Goo Goo Dolls', 'CUbJQGqFoi0', 'City of Angels: Music from the Motion Picture'],
       ['Whatever it takes', 'ENGLISH', '2017', 'Imagine Dragons', 'M66U_DuMCS8', 'Whatever It Takes (Miss Congeniality Remix)'],
@@ -16,7 +17,7 @@ const playlists = {
       ["Somebody That I Used To Know", 'ENGLISH', '2012', 'Gotye', 'Q7DtJJSVPsk', 'Making Mirrors'],
       ["Holiday", 'ENGLISH', '2004', 'Green Day', 'sO-S32xnXA0', 'American Idiot'],
 
-      ["Black Sheep", 'ENGLISH', '2010', 'Metric', 'ArkDWrHmmXI', ' Scott Pilgrim vs. the World '],
+      ["Black Sheep", 'ENGLISH', '2010', 'Metric', 'KifLmoUhbU8', ' Scott Pilgrim vs. the World'],
       ["Whatever", 'ENGLISH', '1994', 'Oasis', 'cAa4BN_Uadc', 'Definitely Maybe'],
       ["Wicked Ones", 'ENGLISH', '2014', 'Dorothy', 'kOngAfP_2OE', 'DOROTHY'],
       ["Chop suey", 'ENGLISH', '2001', 'System Of A Down', 'CtZ9j-UYI1w', 'Toxicity'],
@@ -108,7 +109,6 @@ const playlists = {
       
       ['My Love', 'ENGLISH', '2000', 'Westlife', 'btUTQeto940', 'Coast to Coast'],
       ['Tung Tung Baje', 'HINDI', '2015', '	Sneha Khanwalkar', 'u2VhHGAtr4g', 'Singh Is Bliing'],
-      ['Tum Mile', 'HINDI', '2015', 'Pritam', 'C0S0PMpNybM', 'Tum Mile'],
       ['Yaanji', 'TAMIL', '2017', 'Anirudh Ravichander', 'bWK3EuroEk4', 'Vikram Vedha'] ,
      
       ["Icky thump", 'ENGLISH', '2007', 'The White Stripes', 'm1KyC_LzvzQ', 'Icky Thump'],
@@ -241,14 +241,13 @@ const playlists = {
       ['Tareefan', 'HINDI', '2018', 'Qaran', 'RcbdKqBESz8', 'Veere Di Wedding'],
       ['A New Day Has Come', ' ENGLISH', '2000', ' Celine Dion', 'ZcEqCsDflY4', '2000 Collection'],
       ['Saibo', 'HINDI', '2011', 'Sachin-Jigar', 'GtNrQy90Ih4', 'Shor in the City'],
-      ['Flight', ' ENGLISH', '2013', ' Hans Zimmer', 'w4OdIOGBW2Q', 'Man of Steel'],
       ['Neruppu Da', 'TAMIL', '2016', 'Santhosh Narayanan', 'LHaGDT6Pdbk', 'Kabali'],
       ['Remember The Name', 'ENGLISH', '2005', 'Fort Minor', 'IqB5L9_sfbQ', 'Petrified'],
       ['O Re Piya', 'HINDI', '2007', 'Salim–Sulaiman', 'JyvX1LkNXz8', 'Aaja Nachle'],
 
       ['Kadavulae Vidai', 'TAMIL', '2017', 'Anirudh Ravichander', 'Hfh_dcVaN5o', 'Rum'],
       ['Khamoshiyan', 'HINDI', '2015', 'Mithoon', 'Mv3SZDP7QUo', ' Khamoshiyan'],
-      ['Cold Water (Diwali)', 'ENGLISH', '2016', 'Major Lazer', 'whwe0KD_rGw', ' Cold Water'],
+      ['Cold Water (Diwali)', 'ENGLISH', '2016', 'Major Lazer', 'vIm218Mhn9A', ' Cold Water'],
       ['Venpani Malare', 'TAMIL', '2017', 'Sean Roldan', '7KvLlA4g1so', '  Power Paandi'],
       ['Stairway To Heaven', ' ENGLISH', '1971', ' Led Zeppelin', 'QkF3oxziUI4', ' The Song Remains the Same'],
       ['Yekommakakomma', 'TELUGU', '1999', 'Mani Sharma', '9eJgdZsUw8U', 'Seenu'],
@@ -358,6 +357,7 @@ const playlists = {
       ['Andala Akasamantha', 'TELUGU', '2005', 'Vidyasagar', 'Rp6ivvw89y8', 'Chandramukhi'],
 
       ['O Sona', 'TELUGU', '1999', 'Deva', '5X-NctqvcBU', 'Vaali'],
+      ['Flight', ' ENGLISH', '2013', ' Hans Zimmer', 'w4OdIOGBW2Q', 'Man of Steel'],
 
 
       // ['Maga Dheera', 'TELUGU', '1999', 'A. R. Rahman', '7y2Ub1K925M', 'Oke Okkadu'] ,
