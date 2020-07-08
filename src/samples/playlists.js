@@ -83,7 +83,7 @@ const playlists = {
       ['Ciciliya', 'TELUGU', '2017', 'Harris Jayaraj', 'H252kIKffGg', 'Spyder'] ,
       ["Summer Of ’69", 'ENGLISH', '1988', 'Bryan Adams', 'HtipPCt317Y', 'Reckless'],
       ["Zombie", 'ENGLISH', '1994', 'The Cranberries', 'bZFbX19Q-R8', 'No Need to Argue'],
-      ['Ek Din Teri Raahon Mein', 'HINDI', '2007', '‎Pritam', '-4FC_WJjIsmk', 'Naqaab'],
+      ['Ek Din Teri Raahon Mein', 'HINDI', '2007', '‎Pritam', '4FC_WJjIsmk', 'Naqaab'],
       ['Burn', 'ENGLISH', '2013', 'Ellie Goulding', 'J5f27dW_AS0', 'Halcyon Days'],
       ['Padi Padi Leche Manasu','TELUGU','2018','Vishal Chandrasekhar','uNLX3CffxTE','Padi Padi Leche Manasu'],
       ['Remember The Name', 'ENGLISH', '2005', 'Fort Minor', 'IqB5L9_sfbQ', 'Petrified'],
