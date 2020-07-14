@@ -3,16 +3,7 @@ const playlists = {
     slug: 'my-uber-playlist',
     title: 'My Über Playlist!',
     songs: [
-      ['Kohinoor', 'HINDI', '2019', 'Divine', 'FBYvyWvSY1M', 'Kohinoor'],
-      ["Don't Fear The Reaper", 'ENGLISH', '1976', 'Blue Öyster Cult', 'RjMEzBMiTJ4', 'Agents of Fortune'],
-      ['Iris', 'ENGLISH', '1998', 'Goo Goo Dolls', 'CUbJQGqFoi0', 'City of Angels: Music from the Motion Picture'],
-      ['Tujhe Kitna Chahne', 'HINDI', '2019', 'Mithoon', 'ABsafzlQN9Q', 'Kabir Singh'],
-      ['Whatever it takes', 'ENGLISH', '2017', 'Imagine Dragons', 'M66U_DuMCS8', 'Whatever It Takes (Miss Congeniality Remix)'],
-      ['Eastside', 'ENGLISH', '2018', 'Benny Blanco', 'KFof8aaUvGY', 'Eastside'],
-      ["Renegades", 'ENGLISH', '2015', 'X Ambassadors', '6tu4wWSbnIs', ' Renegades (Astrolith Remix)'],
-      ["Hall of fame", 'ENGLISH', '2012', 'The Script', 'ds6o9in_y-o', 'Hall of Fame'],
-      ["Whatever", 'ENGLISH', '1994', 'Oasis', 'cAa4BN_Uadc', 'Definitely Maybe'],
-      ['Something Just Like This', 'ENGLISH', '2017', 'Coldplay-The Chainsmokers', 'FM7MFYoylVs', 'Something Just Like This'],
+      ['Karuppi', 'TAMIL', '2018', 'Santhosh Narayanan', '5IXdCWhQG78', 'Pariyerum Perumal'],
       ['Dil Diyan Gallan', 'HINDI', '2017', 'Vishal-Shekhar', 'mevO4I0f5lg', 'Tiger Zinda Hai'],
       ['Where Is My Mind?', 'ENGLISH', '1988', ' Pixies', 'N3oCS85HvpY', 'Surfer Rosa'],
       ['Takkunu Takkunu', 'TAMIL', '2019', 'Hiphop Tamizha', '7pVoLXgQkok', 'Mr.Local'] ,
@@ -113,7 +104,17 @@ const playlists = {
       ['All Of The Lights', 'ENGLISH', '2010', 'Kanye West', 'HAfFfqiYLp0', 'My Beautiful Dark Twisted Fantasy'],
       ['Kabhi Neem Neem', 'HINDI', '2004', 'A. R. Rahman', 'ALQ7MLtEwtI', 'Yuva'],
       ['Mirrors', 'ENGLISH', '2013', 'Justin Timberlake', '_1y7F0ZzXYo', 'The 20/20 Experience'],
-
+      ['Kohinoor', 'HINDI', '2019', 'Divine', 'FBYvyWvSY1M', 'Kohinoor'],
+      ["Don't Fear The Reaper", 'ENGLISH', '1976', 'Blue Öyster Cult', 'RjMEzBMiTJ4', 'Agents of Fortune'],
+      ['Iris', 'ENGLISH', '1998', 'Goo Goo Dolls', 'CUbJQGqFoi0', 'City of Angels: Music from the Motion Picture'],
+      ['Tujhe Kitna Chahne', 'HINDI', '2019', 'Mithoon', 'ABsafzlQN9Q', 'Kabir Singh'],
+      ['Whatever it takes', 'ENGLISH', '2017', 'Imagine Dragons', 'M66U_DuMCS8', 'Whatever It Takes (Miss Congeniality Remix)'],
+      ['Eastside', 'ENGLISH', '2018', 'Benny Blanco', 'KFof8aaUvGY', 'Eastside'],
+      ["Renegades", 'ENGLISH', '2015', 'X Ambassadors', '6tu4wWSbnIs', ' Renegades (Astrolith Remix)'],
+      ["Hall of fame", 'ENGLISH', '2012', 'The Script', 'ds6o9in_y-o', 'Hall of Fame'],
+      ["Whatever", 'ENGLISH', '1994', 'Oasis', 'cAa4BN_Uadc', 'Definitely Maybe'],
+      ['Something Just Like This', 'ENGLISH', '2017', 'Coldplay-The Chainsmokers', 'FM7MFYoylVs', 'Something Just Like This'],
+     
 
 
 
