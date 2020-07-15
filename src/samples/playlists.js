@@ -4,8 +4,10 @@ const playlists = {
     title: 'My Über Playlist!',
     songs: [
 
-      ['Yeh Aaina', 'HINDI', '2019', 'Amaal Mallik', 'UcOx6Bm3_4k', 'Kabir Singh'],
+      ["Hurt", 'ENGLISH', '2002', 'Johnny Cash', '8AHCfZTRGiI', 'American IV: The Man Comes Around'],
+      ["Trinity: titoli", 'ENGLISH', '1970', 'Annibale E I Cantori Moderni', 'IQPGNh_2vtw', 'Lo chiamavano Trinità'],
       ["I'm A Man", 'ENGLISH', '2007', 'Black Strobe', 'BWJuGYRW5_s', 'Burn Your Own Church'],
+      ['Yeh Aaina', 'HINDI', '2019', 'Amaal Mallik', 'UcOx6Bm3_4k', 'Kabir Singh'],
       ['Karuppi', 'TAMIL', '2018', 'Santhosh Narayanan', '5IXdCWhQG78', 'Pariyerum Perumal'],
 
 
