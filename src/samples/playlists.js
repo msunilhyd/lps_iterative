@@ -4,6 +4,18 @@ const playlists = {
     title: 'My Über Playlist!',
     songs: [
 
+
+      ["Now We Are Free", 'ENGLISH', '2000', 'Hans Zimmer ', 'PvrDI6U0mE4', 'Gladiator'],
+      ["Victory", 'ENGLISH', '2000', 'Hans Zimmer ', 'OLTZbJMQiD4', 'Gladiator'],
+      ["S.T.A.Y.", 'ENGLISH', '2014', 'Hans Zimmer ', 'N4o0qnSeVQQ', 'Interstellar'],
+      ["Protectors of the Earth", 'ENGLISH', '2014', 'Two Steps from Hell', 'uEEyhDcSXko', 'Invincible'],
+      ["Gravity Soundtrack ", 'ENGLISH', '2013 ', 'Steven Price', 'K3-YGVb6Tbw', 'Gravity'],
+      ["No Time for Caution", 'ENGLISH', '2014', 'Hans Zimmer ', 'lj8Q7jZOBgg', 'Interstellar'],
+      ["Final Frontier", 'ENGLISH', '2014', 'Thomas Bergersen ', 'BAzCf0ascW8', 'Sun'],
+      ["Pirates Of The Caribbean Main Theme", 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 'K3pU67zxPOM', 'Pirates Of The Caribbean'],
+      ["Promontory - The Last of the Mohicans", 'ENGLISH', '1992', 'Trevor Jones and Randy Edelman', '9tjdswqGGVg', 'The Last of the Mohicans'],
+      ["Let It Be", 'ENGLISH', '2009', 'The Beatles', 'QDYfEBY9NM4', 'Let It Be (Remastered 2009)'],
+      ["All Along The Watchtower", 'ENGLISH', '1968', 'The Jimi Hendrix Experience, Curtis Knight & Jimi Hendrix', 'PWSMeK28x3E', 'Electric Ladyland'],
       ["Hurt", 'ENGLISH', '2002', 'Johnny Cash', '8AHCfZTRGiI', 'American IV: The Man Comes Around'],
       ["Trinity: titoli", 'ENGLISH', '1970', 'Annibale E I Cantori Moderni', 'IQPGNh_2vtw', 'Lo chiamavano Trinità'],
       ["I'm A Man", 'ENGLISH', '2007', 'Black Strobe', 'BWJuGYRW5_s', 'Burn Your Own Church'],
