@@ -4,7 +4,8 @@ const playlists = {
     title: 'My Über Playlist!',
     songs: [
 
-
+      ["Another Brick In The Wall", 'ENGLISH', '1979', 'Pink Floyd', 'NoK1JmTUzCI', 'The Wall'],
+      ["Time Is On My Side", 'ENGLISH', '1964', 'The Rolling Stones', '_oSRvcdlgSI', '12 X 5'],
       ["Now We Are Free", 'ENGLISH', '2000', 'Hans Zimmer ', 'PvrDI6U0mE4', 'Gladiator'],
       ["Victory", 'ENGLISH', '2000', 'Hans Zimmer ', 'OLTZbJMQiD4', 'Gladiator'],
       ["S.T.A.Y.", 'ENGLISH', '2014', 'Hans Zimmer ', 'N4o0qnSeVQQ', 'Interstellar'],
