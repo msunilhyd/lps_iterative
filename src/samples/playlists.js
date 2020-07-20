@@ -4,6 +4,13 @@ const playlists = {
     title: 'My Über Playlist!',
     songs: [
 
+      ['Yaen Ennai Pirindhaai', 'TELUGU', '2019', 'Radhan', 'psxr4XFNBeo', 'Adithya varma'] ,
+      ['Kaho Na Kaho', 'HINDI', '2004', 'Anu Malik', '-r9HYetbqK8', 'Murder'],
+      ['Pookal Pookum', 'TAMIL', '2010', 'GV Prakash', 'meocisSQzkQ', 'Madrasapattinam'],
+      ['Raise Your Glass', 'ENGLISH', '2010', ' Pink', 'XjVNlG5cZyQ', 'Greatest Hits... So Far!!'],
+      ['So What', 'ENGLISH', '2008', ' Pink', 'GRwTi-uSiQg', 'Funhouse'],
+      ["Time", 'ENGLISH', '1973', 'Pink Floyd', '-EzURpTF5c8', 'The Dark Side of the Moon'],
+      ["Wish You Were Here", 'ENGLISH', '1975', 'Pink Floyd', 'RYhcfuiAdrA', 'Wish You Were Here'],
       ["Another Brick In The Wall", 'ENGLISH', '1979', 'Pink Floyd', 'NoK1JmTUzCI', 'The Wall'],
       ["Time Is On My Side", 'ENGLISH', '1964', 'The Rolling Stones', '_oSRvcdlgSI', '12 X 5'],
       ["Now We Are Free", 'ENGLISH', '2000', 'Hans Zimmer ', 'PvrDI6U0mE4', 'Gladiator'],
