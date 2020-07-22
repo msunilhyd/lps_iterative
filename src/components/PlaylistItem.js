@@ -24,7 +24,7 @@ class PlaylistItem extends Component {
 
 	fetchSongInfos = async (id, title, language, composer, movie) => {
 		// key = AIzaSyC_YtQto4iG4l5QkoBfLrKTFBWCIiDl9F8
-		console.log('id is : ' + id);
+		// console.log('id is : ' + id);
 		// let song = await fetch(`https://www.googleapis.com/youtube/v3/videos?id=${id}&key=AIzaSyBPBShIzTzRec5iwBl7FWqGWh83qYbr6hQ&part=snippet,contentDetails`)
 
 		// console.log('=${process.env.REACT_APP_API_KEY} is === ' + ${process.env.REACT_APP_API_KEY} )

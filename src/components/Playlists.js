@@ -61,8 +61,8 @@ class Playlists extends Component {
 				<div className="row heading">
 					<img  src={mainLogo} className="mainLogo" alt="fireSpot"/>
 				</div>
-				{console.log(items[0])}
-				{console.log(items[0].props.data.songs)}
+				{/* {console.log(items[0])}
+				{console.log(items[0].props.data.songs)} */}
 
 				<div className="row">
 					{items}		

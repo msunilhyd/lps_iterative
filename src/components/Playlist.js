@@ -191,12 +191,12 @@ class Playlist extends Component {
 	 */
 	renderSongs(){
 		const playlist = this.state.playlist
-		console.log('length of playlist is : ' + playlist.length)
+		// console.log('length of playlist is : ' + playlist.length)
 		if(playlist.songs){
-			console.log('playlist.songs is: ' + playlist.songs)
+			// console.log('playlist.songs is: ' + playlist.songs)
 			// const chunkSize = 6
 			const playlistitems =  playlist.songs.map((song, index) => {
-				console.log('index is :- ' + index	)
+				// console.log('index is :- ' + index	)
 				return (
 					index % 7 === 0 && index > 0? 
 					<div>
