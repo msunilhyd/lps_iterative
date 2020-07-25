@@ -4,8 +4,9 @@ const playlists = {
     title: 'My Über Playlist!',
     songs: [
 
-      ['Ice Cream Penne', 'TAMIL', '2016', 'Radhan', 'XrJtigZWtwM', 'Valeba Raja'],
+      ['Tujhe Bhula Diya', 'HINDI', '2010', 'Vishal-Shekhar', 'o-9VdyXZKsQ', 'Anjaana Anjaani'],
 
+      ['Ice Cream Penne', 'TAMIL', '2016', 'Radhan', 'XrJtigZWtwM', 'Valeba Raja'],
       ['Padana Teeyaga', 'TELUGU', '2002', 'Harris Jayaraj', 'rtvSNC_82Lk', 'Vaasu'] ,
       ['Feel my love', 'TELUGU', '2004', 'Devi Sri Prasad', 'vAqNDOeBGZk', 'Arya'] ,
       ['Aura Ammakuchella', 'TELUGU', '1992', 'M. M. Keeravani', 'gdxkviJ6IJY', 'Aapadbandhavudu'] ,
@@ -15,9 +16,7 @@ const playlists = {
       ['Raise Your Glass', 'ENGLISH', '2010', ' Pink', 'XjVNlG5cZyQ', 'Greatest Hits... So Far!!'],
       ['So What', 'ENGLISH', '2008', ' Pink', 'GRwTi-uSiQg', 'Funhouse'],
       ["Time", 'ENGLISH', '1973', 'Pink Floyd', '-EzURpTF5c8', 'The Dark Side of the Moon'],
-      ["Wish You Were Here", 'ENGLISH', '1975', 'Pink Floyd', 'RYhcfuiAdrA', 'Wish You Were Here'],
       ["Another Brick In The Wall", 'ENGLISH', '1979', 'Pink Floyd', 'NoK1JmTUzCI', 'The Wall'],
-      ["Time Is On My Side", 'ENGLISH', '1964', 'The Rolling Stones', '_oSRvcdlgSI', '12 X 5'],
       ["Now We Are Free", 'ENGLISH', '2000', 'Hans Zimmer ', 'PvrDI6U0mE4', 'Gladiator'],
       ["Victory", 'ENGLISH', '2000', 'Hans Zimmer ', 'OLTZbJMQiD4', 'Gladiator'],
       ["S.T.A.Y.", 'ENGLISH', '2014', 'Hans Zimmer ', 'N4o0qnSeVQQ', 'Interstellar'],
@@ -34,8 +33,6 @@ const playlists = {
       ["I'm A Man", 'ENGLISH', '2007', 'Black Strobe', 'BWJuGYRW5_s', 'Burn Your Own Church'],
       ['Yeh Aaina', 'HINDI', '2019', 'Amaal Mallik', 'UcOx6Bm3_4k', 'Kabir Singh'],
       ['Karuppi', 'TAMIL', '2018', 'Santhosh Narayanan', '5IXdCWhQG78', 'Pariyerum Perumal'],
-
-
       ['Dil Diyan Gallan', 'HINDI', '2017', 'Vishal-Shekhar', 'mevO4I0f5lg', 'Tiger Zinda Hai'],
       ['Where Is My Mind?', 'ENGLISH', '1988', ' Pixies', 'N3oCS85HvpY', 'Surfer Rosa'],
       ['Takkunu Takkunu', 'TAMIL', '2019', 'Hiphop Tamizha', '7pVoLXgQkok', 'Mr.Local'] ,
@@ -209,7 +206,6 @@ const playlists = {
       ['Lighters', 'ENGLISH', '2011', 'Bad Meets Evil', 'qJHiMGomJ_A', 'Hell: The Sequel'],
       ['Tukur Tukur', 'HINDI', '2015', 'Pritam', 'hp0g6p2jjvo', 'Dilwale'],
       ['One Last Breath', 'ENGLISH', '2001', 'Creed', 'BzamjXouX5w', 'Weathered'],   
-      ['Maate Vinadhuga', 'TELUGU', '2018', 'Jakes Bejoy', 'KMocA8G_puU','Taxiwaala'],
       ['Don’u Don’u Don’u', 'TAMIL', '2015', 'Anirudh', 'Y0eErsVNK-I', 'Maari'],
       ['Naan Nee', 'TAMIL', '2014', 'Santhosh Narayanan', 'VMYWqrlB7Gc', 'Madras'],
       ['Nachave Nizam Pori ', 'TELUGU', '2004', 'Devi Sri Prasad', 'xR85zCreXUo', 'Varsham'],
@@ -351,6 +347,8 @@ const playlists = {
       // ['Kailove', 'TELUGU', '2000', 'A. R. Rahman', 'i_gGmIGnle0', 'Sakhi'] ,
       // ['Jee Karda (Rock Version)', 'HINDI', '2011', 'Sachin-Jigar', 'qoc3h1NMWuo', 'Badlapur'],
       // ['Jeena Jeena', 'HINDI', '2011', 'Sachin Jigar', 'bn4-yP92wcw', 'Badlapur'],
+      // ["Wish You Were Here", 'ENGLISH', '1975', 'Pink Floyd', 'RYhcfuiAdrA', 'Wish You Were Here'],
+      // ["Time Is On My Side", 'ENGLISH', '1964', 'The Rolling Stones', '_oSRvcdlgSI', '12 X 5'],
       
     ],
     'informations': {}
