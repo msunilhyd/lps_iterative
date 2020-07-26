@@ -284,7 +284,9 @@ class Playlist extends Component {
 						</div>
 					</div>
 					<div className="card-block">
-						<div style={{display: this.state.showPlayer? 'block' : 'none'}}>
+						{/* <div style={{display: this.state.showPlayer? 'block' : 'none'}}> */}
+						<div style={{display:'block'}}>
+
 							<div id={`${playlist.slug}-player`}></div>
 							<hr/>
 						</div>
