@@ -49,7 +49,7 @@ class Playlist extends Component {
 		// Creating the YouTube player iFrame
 		const player = YouTubePlayer(`${this.props.data.slug}-player`, {
 			width: '100%',
-			height: '200',
+			height: '250',
 			playerVars: {
 				autoplay: 1,
 				videoId: this.props.data.songs[0][4]
