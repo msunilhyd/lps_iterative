@@ -23,7 +23,7 @@ class Playlist extends Component {
 		this.state = {
 			playlist: props.data || {}, // The informations about the playlist (title, description, songs ids, user informations ...)
 			playing: false, // The song which is played right now
-			showPlayer: false, // Showing player or not ?
+			showPlayer: true, // Showing player or not ?
 			hiddenSongs: true, // Are there too many songs to be shown ?
 			videoIndex: 0, // Index of the song played right now
 			prevIndex: 0
@@ -51,10 +51,12 @@ class Playlist extends Component {
 			width: '100%',
 			height: '200',
 			playerVars: {
-				autoplay: 0
+				autoplay: 1,
+				videoId: this.props.data.songs[0][4]
 			}
 		});
 
+		// player.playSong();
 		// Binding behaviors on every stateChange of the player
 		player.on('stateChange', this.handleStateChange)
 
@@ -89,6 +91,7 @@ class Playlist extends Component {
 	 */
 	handleStateChange = (state) => {
 
+		console.log('this.state.prevIndex is :- ' + this.state.prevIndex);
 
 		// if(this.state.prevIndex && state.data == -1) {
 		// 	if(state.prevIndex){
@@ -98,7 +101,7 @@ class Playlist extends Component {
 		// 	}
 		// }
 		// Identifying the current playlist item which is played
-		const currentPlaylistItem = this.childrenItems.filter(data => data.songId === this.state.playing).shift()
+		var currentPlaylistItem = this.childrenItems.filter(data => data.songId === this.state.playing).shift()
 
 		// Switch on the stateEvent data
 		// - 0: Stopped
@@ -110,8 +113,16 @@ class Playlist extends Component {
 	    switch(state.data){
 				case -1: // Playing
 					this.setState({paused: false})
-	      	currentPlaylistItem.item.playSong();
-	        break;
+					if (currentPlaylistItem === undefined){
+						this.state.player.loadVideoById(this.props.data.songs[0][0]);
+						this.setState({
+							playing: this.props.data.songs[0][4]
+						})
+						break;
+					}
+					currentPlaylistItem.item.playSong();
+					break;
+					
 				case 1: // Playing
 					this.setState({paused: false})
 	      	currentPlaylistItem.item.playSong();
@@ -284,9 +295,7 @@ class Playlist extends Component {
 						</div>
 					</div>
 					<div className="card-block">
-						{/* <div style={{display: this.state.showPlayer? 'block' : 'none'}}> */}
-						<div style={{display:'block'}}>
-
+						<div style={{display: this.state.showPlayer? 'block' : 'none'}}>
 							<div id={`${playlist.slug}-player`}></div>
 							<hr/>
 						</div>
