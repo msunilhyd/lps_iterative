@@ -114,7 +114,7 @@ class Playlist extends Component {
 				case -1: // Playing
 					this.setState({paused: false})
 					if (currentPlaylistItem === undefined){
-						this.state.player.loadVideoById(this.props.data.songs[0][0]);
+						this.state.player.loadVideoById(this.props.data.songs[0][4]);
 						this.setState({
 							playing: this.props.data.songs[0][4]
 						})
