@@ -2,6 +2,7 @@ import numpy
 import re
 
 sampleArray = [
+
         ['Perfect', 'ENGLISH', '2017', 'Ed Sheeran', 'iKzRIweSBLA', 'Divide'],
         ["Protectors of the Earth", 'ENGLISH', '2014', 'Two Steps from Hell', 'uEEyhDcSXko', 'Invincible'],
         ['Takkunu Takkunu', 'TAMIL', '2019', 'Hiphop Tamizha', '7pVoLXgQkok', 'Mr.Local'] ,
@@ -142,16 +143,6 @@ sampleArray = [
         ["Hall of fame", 'ENGLISH', '2012', 'The Script', 'ds6o9in_y-o', 'Hall of Fame'],
         ["Whatever", 'ENGLISH', '1994', 'Oasis', 'cAa4BN_Uadc', 'Definitely Maybe'],
         ['Something Just Like This', 'ENGLISH', '2017', 'Coldplay-The Chainsmokers', 'FM7MFYoylVs', 'Something Just Like This'],
-       
-  
-  
-  
-  
-  
-  
-  
-  
-  
         ['Vachindamma', 'TELUGU', '2018', 'Gopi Sunder', 'kpWHXkkFmpc', 'Geetha Govindam'],
         ['Telusa Telusa', 'TELUGU', '2016', 'S. Thaman', 'NUWmsA5z5yk', 'Sarrainodu'],
         ['Despocito Remix', 'SPANGLISH', '2016', 'Luis Fonsi', 'whwe0KD_rGw', 'Vida'],
@@ -333,11 +324,9 @@ sampleArray = [
         ['Mellaga Mellaga', 'TELUGU', '1995', 'Deva', '_C_3rZDdSAY', 'Asha Asha Asha'],   
         ['Whenever Wherever', 'ENGLISH', '2001', 'Shakira', 'cZhli2OT5Rg', 'Laundry Service'],
         ['Ayyayo', 'TAMIL', '2011', 'G.V.Prakash Kumar', 'uxb-TMoqb9k', 'Aadukalam'],
-        ['Flight', ' ENGLISH', '2013', ' Hans Zimmer', 'w4OdIOGBW2Q', 'Man of Steel'],  
-      ]
+        ['Flight', ' ENGLISH', '2013', ' Hans Zimmer', 'w4OdIOGBW2Q', 'Man of Steel'],     
+]
 newArray = numpy.random.shuffle(sampleArray)
 # print(sampleArray)
 
-sampleArray = "".join(sampleArray)
-line = re.sub('ENGLISH','bar', sampleArray)
 print(sampleArray)
