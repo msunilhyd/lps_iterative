@@ -3,6 +3,12 @@ const playlists = {
     slug: 'my-uber-playlist',
     title: 'My Über Playlist!',
     songs: [
+
+      ['My Heart Will Go On', 'ENGLISH', '2013', 'Celine Dion', 'pZk_YV7yqeA', 'Let\'s talk about love'],
+      ['Sadda Haq', 'HINDI', '2011', 'A R Rahman', 'QTQVG5rSMkQ', 'Rockstar'],
+      ['Agar Tum Saath Ho', 'HINDI', '2015', 'A R Rahman', 'sK7riqg2mr4', 'Tamasha'],
+      ['Channa Mereya Unplugged', 'HINDI', '2016', 'Pritam', 'PYzFp5o4lhE', 'Ae Dil Hai Mushkil'],
+      ['A New Day Has Come (Radio Remix)', ' ENGLISH', '2000', ' Celine Dion', '8fmCwPLi954', '2000 Collection'],
       ['Khalbali', 'TELUGU', '2006', 'A R Rahman', 'wfNxbB_EG1s', 'Rang De Basanti'],
       ['Tera Hua', 'HINDI', '2018', 'Tanishk Bagichi', '-4JV4hur1PM', 'Loveyatri'],
       ['Zara si dil me de jagah tu', 'HINDI', '2008', 'Pritam', 'oiD-rVWEXjM', 'Jannat'],
