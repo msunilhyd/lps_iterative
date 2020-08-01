@@ -3,7 +3,8 @@ const playlists = {
     slug: 'my-uber-playlist',
     title: 'My Über Playlist!',
     songs: [
-
+      ['ALLAH VE', 'HINDI', '2019', 'Jassie Gill', '2E4h4KuULag', 'Allah Ve'],
+      ['DIL CHEEZ TUJHE DEDI', 'HINDI', '2016', 'Ankit Tiwari', 'Q-OU6l16YRo', 'AIRLIFT'],
       ['My Heart Will Go On', 'ENGLISH', '2013', 'Celine Dion', 'pZk_YV7yqeA', 'Let\'s talk about love'],
       ['Sadda Haq', 'HINDI', '2011', 'A R Rahman', 'QTQVG5rSMkQ', 'Rockstar'],
       ['Agar Tum Saath Ho', 'HINDI', '2015', 'A R Rahman', 'sK7riqg2mr4', 'Tamasha'],
