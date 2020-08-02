@@ -3,6 +3,8 @@ const playlists = {
     slug: 'my-uber-playlist',
     title: 'My Über Playlist!',
     songs: [
+      ['All I Want (Part 2)', ' ENGLISH', '2014', 'Kodaline', 'RzuXZfKg2YM', 'In a Perfect World'],
+      ['All I Want (Part 1)', ' ENGLISH', '2014', 'Kodaline', 'mtf7hC17IBM', 'In a Perfect World'],
       ['The Nights', ' ENGLISH', '2014', 'Avicii', 'UtF6Jej8yb4', ' FIFA 15 Soundtrack'],
       ['ALLAH VE', 'HINDI', '2019', 'Jassie Gill', '2E4h4KuULag', 'Allah Ve'],
       ['DIL CHEEZ TUJHE DEDI', 'HINDI', '2016', 'Ankit Tiwari', 'Q-OU6l16YRo', 'AIRLIFT'],
