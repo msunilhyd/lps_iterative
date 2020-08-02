@@ -3,6 +3,7 @@ const playlists = {
     slug: 'my-uber-playlist',
     title: 'My Über Playlist!',
     songs: [
+      ['The Nights', ' ENGLISH', '2014', 'Avicii', 'UtF6Jej8yb4', ' FIFA 15 Soundtrack'],
       ['ALLAH VE', 'HINDI', '2019', 'Jassie Gill', '2E4h4KuULag', 'Allah Ve'],
       ['DIL CHEEZ TUJHE DEDI', 'HINDI', '2016', 'Ankit Tiwari', 'Q-OU6l16YRo', 'AIRLIFT'],
       ['My Heart Will Go On', 'ENGLISH', '2013', 'Celine Dion', 'pZk_YV7yqeA', 'Let\'s talk about love'],
@@ -409,7 +410,6 @@ const playlists = {
       ['Memories', 'ENGLISH', '2019', 'Maroon 5', 'o2DXt11SMNI', 'Memories'],
       ['Iris', 'ENGLISH', '1998', 'Goo Goo Dolls', 'CUbJQGqFoi0', 'City of Angels: Music from the Motion Picture'],
       ["It Ain't Me", 'ENGLISH', '2017', 'Selena Gomez', 'u3VTKvdAuIY', 'Stargazing'],
-      ["What I've done", 'ENGLISH', '2007', 'Linkin Park', '4v97gsFRMlE', "What I've Done"],
       ['Ey Hairathe', 'HINDI', '2007', 'A. R. Rahman', '038jmlSH3iM', 'Guru'],
       ['Chumma Kizhi', 'TAMIL', '2020', 'Anirudh Ravichander', 'FdVuB1G2G_g', 'Darbar'],
       ['Airplanes Pt II', 'ENGLISH', '2010', ' B.o.B', 'MK29MlRUt48', 'B.o.B Presents: The Adventures of Bobby Ray'],
