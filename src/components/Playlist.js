@@ -51,8 +51,8 @@ class Playlist extends Component {
 		const player = YouTubePlayer(`${this.props.data.slug}-player`, {
 			// width: '100%',
 			// height: '250',
-			width:"710",
-			height:"400",
+			width:"855",
+			height:"480",
 			playerVars: {
 				autoplay: 1,
 				videoId: this.props.data.songs[0][4],
@@ -299,7 +299,7 @@ class Playlist extends Component {
 						</div>
 					</div>
 					<div className="card-block">
-						<div style={{display: this.state.showPlayer? 'block' : 'none'}}>
+						<div className="videowrapper" style={{display: 'block'}}>
 							<div id={`${playlist.slug}-player`}></div>
 							<hr/>
 						</div>
