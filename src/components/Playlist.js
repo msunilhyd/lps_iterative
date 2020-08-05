@@ -1,3 +1,4 @@
+
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import PlaylistItem from './PlaylistItem'
@@ -48,17 +49,20 @@ class Playlist extends Component {
 	componentDidMount(){
 		// Creating the YouTube player iFrame
 		const player = YouTubePlayer(`${this.props.data.slug}-player`, {
-			width: '100%',
-			height: '250',
+			// width: '100%',
+			// height: '250',
+			width:"710",
+			height:"400",
 			playerVars: {
 				autoplay: 1,
-				videoId: this.props.data.songs[0][4]
+				videoId: this.props.data.songs[0][4],
 			}
 		});
 
 		// player.playSong();
 		// Binding behaviors on every stateChange of the player
 		player.on('stateChange', this.handleStateChange)
+		player.loadVideoById(this.props.data.songs[0][4])
 
 		// Populating our state here with the player, the playlist data (title, songs ids, user informations, ...)
 		this.setState({
