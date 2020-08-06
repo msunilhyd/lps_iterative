@@ -3,18 +3,20 @@ const playlists = {
     slug: 'my-uber-playlist',
     title: 'My Über Playlist!',
     songs: [
-
+      ['O Re Piya-Rolling in the deep Cover', 'HINDI', '2007', 'Salim–Sulaiman', 'zizcSmgszxI', 'Aaja Nachle'],
+      ['Nothing Else Matters Cover', 'ENGLISH', '1992', 'Metallica-Thaikkudam Bridge', 'PqEr-03xbkU', 'Metallica'],
+      ['Munbe Vaa-Masala Coffee', 'TAMIL', '2006', 'A. R. Rahman', 'X9RKX4IzNVw', 'Sillunu Oru Kaadhal'],
+      ['Gerua/Kabira', 'HINDI', '2016', 'Bryden-Parth', 'pns3P7DNad8', 'Dilwale'],
+      ['Manmohini', 'HINDI', '2011', 'A R Rahman', 'FWCswftLz34', 'Yuvvraj'],
+      ['Munbe Vaa', 'TAMIL', '2006', 'A. R. Rahman', 'aAn3tUbBg3Q', 'Sillunu Oru Kaadhal'],
+      ['Manmohini-Aditya Rao', 'HINDI', '2011', 'A R Rahman', '6RBdF1ZZZ_I', 'Yuvvraj'],
+      ['Kolaveri-R&B', 'ENGLISH', '2011', 'Arjun ', 'o6gHlK-Mm2Y', '3'],
       ['Something Just Like This (Cover)', 'ENGLISH', '2017', 'Chainsmokers', '2LBBaD1aQuw', 'Something Just Like This'],
-
       ['Premalekhanu Raasenu', 'TELUGU', '2010', 'Salim–Sulaiman', 'yk4n-KXFj2E', 'Anaganaga Oka Dheerudu'],
       ['All Along The Watchtower - Guitar', 'ENGLISH', '2016', 'Jimi Hendrix', 'JZXRB9BuLhk', 'Electric Ladyland'],
       ['All along the Watchtower / Don\'t fear the Reaper', 'ENGLISH', '2015', 'Jimi Hendrix', 'U7APCoFNtRs', 'The Monkey Biscuits'],
-
       ['Somebody That I Used To Know - X Factor', 'ENGLISH', '2012', 'Gotye', 'WWdblzKflc4', 'Making Mirrors'],
-
       ['Stairway To Heaven - Live', ' ENGLISH', '1971', ' Led Zeppelin', 'xbhCPt6PZIU', ' The Song Remains the.. '],
-
-
       ['O Humdum Suniyo Re', 'TELUGU', '2016', 'A R Rahman', '_9geEbZIAJM', 'Saathiya'],
       ['Just a dream', 'ENGLISH', '2010', 'Nelly', '64ObKHp33i4', '5.0'],
       ['Doorie', 'HINDI', '2006', 'Atif Aslam', 'Jv2Z9KJgYjU', 'Doorie'],
