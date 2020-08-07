@@ -4,6 +4,13 @@ const playlists = {
     title: 'My Über Playlist!',
     songs: [
 
+      ['Do You Know', 'HINDI', '2007', ' Enrique Iglesias', 'ibSKivYOPpI', 'Insomniac'],
+      ['Forever young', 'ENGLISH', '2009', 'JAY-Z · Mr Hudson', 'Nzdt9vBvSDE', 'The Blueprint 3'],
+      ['Chain (Acoustic)', 'JAPANESE', '2006', 'BACK-ON', 'HEZPvtxDj4A', 'Chain'],
+      ['Numb / Encore', 'ENGLISH', '2003', 'Linkin Park', 'sCRRRofQ4tI', 'Meteora'],
+      ['Chain', 'JAPANESE', '2006', 'BACK-ON', '_SIkmrODH4U', 'Chain'],
+      ['Boulevard Of Broken Dreams', 'ENGLISH', '2004', 'Green Day', '0LJCEROH4u0', 'American Idiot'],
+      ['Thunderstruck', ' ENGLISH', '1990', 'AC/DC', 'n_GFN3a0yj0', 'Live at Donington'],
       ['Samjhawan', 'HINDI', '2014', 'Sachin-Jigar', 'H2f7MZaw3Yo', 'Humpty Sharma Ki'],
       ['Judai', 'HINDI', '2008', 'Pritam', '_yOrZ9dKAzI', 'Jannat'],
       ['Gale Lag Ja', 'HINDI', '2009', 'Pritam', 'VwAAtZp3XZ8', 'De Dana Dan'],
@@ -41,7 +48,7 @@ const playlists = {
       ['Ek Din Teri Raahon Mein', 'HINDI', '2007', 'Pritam', '4FC_WJjIsmk', 'Naqaab'],
       ['Hey Ya!', 'HINDI', '2010', 'Shan-Ehsa-Loy.', 'wLH4rrmIT60', 'Karthik Calling Karthik'],
       ['Gravity Soundtrack ', 'ENGLISH', '2013 ', 'Steven Price', 'K3-YGVb6Tbw', 'Gravity'],
-      ['21 Guns', 'ENGLISH', '2004', 'Green Day', 'w29aq_sgwxw', '21 Guns'],
+      ['21 Guns', 'ENGLISH', '2009', 'Green Day', 'w29aq_sgwxw', '21 Guns'],
       ['Don’u Don’u Don’u', 'TAMIL', '2015', 'Anirudh', 'Y0eErsVNK-I', 'Maari'],
       ['MARJAANI', 'HINDI', '2009', 'Pritam', 'xYyV1ZXLVdA', 'Billu'],
       ['Aha Allari', 'TELUGU', '2002', ' Devi Sri Prasad', '5sqMIH_F5ks', 'Kadgam'],
