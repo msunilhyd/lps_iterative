@@ -3,7 +3,16 @@ const playlists = {
     slug: 'my-uber-playlist',
     title: 'My Über Playlist!',
     songs: [
-
+      ['Mera Mann Kehne Laga', 'HINDI', '2013', 'Falak Shabir', '8kxufj_snhI', 'Nautanki Saala!'],
+      ['Khabar Nahi', 'HINDI', '2008', 'Vishal-Shekhar', 'tTqaMRea9GM', 'Dostana'],
+      ['Wake Up Sid! (Club Mix)', 'HINDI', '2009', 'Shankar-Ehsaan-Loy', 'Jqzz8K6mMVs', 'Wake Up Sid'],
+      ['Haan Tu Hain', 'HINDI', '2008', 'Pritam', 'plcI5i3uuTs', 'Jannat'],
+      ['Yeh Ishq Hai', 'HINDI', '2007', 'Pritam', 'b_sCZbYyuO4', ' Jab We Met'],
+      ['Wake Up Sid', 'HINDI', '2009', 'Shankar-Ehsaan-Loy', 'Jqzz8K6mMVs', 'Wake Up Sid'],
+      ['Iktara', 'HINDI', '2009', 'Amit Trivedi', 'pdB7v1z8PJk', 'Wake Up Sid'],
+      ['Aaoge Jab Tum', 'HINDI', '2007', 'Pritam', 'CNZMIhckaA0', ' Jab We Met'],
+      ['Daayre', 'HINDI', '2015', 'Pritam', '59esPpakrGs', 'Dilwale'],
+      ['Saree Ke Fall Sa', 'HINDI', '2014', 'Pritam', 'EkxOXF9J77w', 'R...Rajkumar'],
       ['Do You Know', 'HINDI', '2007', ' Enrique Iglesias', 'ibSKivYOPpI', 'Insomniac'],
       ['Forever young', 'ENGLISH', '2009', 'JAY-Z · Mr Hudson', 'Nzdt9vBvSDE', 'The Blueprint 3'],
       ['Chain (Acoustic)', 'JAPANESE', '2006', 'BACK-ON', 'HEZPvtxDj4A', 'Chain'],
