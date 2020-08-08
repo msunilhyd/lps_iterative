@@ -4,8 +4,12 @@ const playlists = {
     title: 'My Über Playlist!',
     songs: [
 
+      ['Then Then Then', 'TAMIL', '2008', 'Vidyasagar', 'iIQTmOq2Jgc', 'Jersey'],
+      ['Padhe Padhe', 'TELUGU', '2019', 'Anirudh', 'VVxPv5yA4w8', 'Jersey'],
+      ['Petta Paraak', 'TAMIL', '2019', 'Anirudh', '1GmIp526v0M', 'Petta'],
+      ['Nenjae Yezhu', 'TAMIL', '2013', 'AR Rahman', 'SWnVTMdQVbk', 'Maryan'],
+      ['Naa Manasuki', 'TELUGU', '2007', 'Yuvan Shankar Raja', '1sbynj51qpI', 'Aadavari Matalaku Ardhalu Veruley'],
       ['Remo - BGM', 'TAMIL', '2016', 'Anirudh', 'Bf67mfzqb50', 'Remo'],
-
       ['Thalapathi BGM', 'TAMIL', '1991', 'IlayaRaaja', 'rZzTVf8udgw', 'Thalapathi'],
       ['Marana Mass', 'TAMIL', '2019', 'Anirudh', '88iypMO9H7g', 'Petta'],
       ['Petta-BGM', 'TAMIL', '2019', 'Anirudh', 'f3qvrOjOD9M', 'Petta'],
