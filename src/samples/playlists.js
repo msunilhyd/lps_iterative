@@ -3,6 +3,13 @@ const playlists = {
     slug: 'my-uber-playlist',
     title: 'My Über Playlist!',
     songs: [
+
+      ['Remo - BGM', 'TAMIL', '2016', 'Anirudh', 'Bf67mfzqb50', 'Remo'],
+
+      ['Thalapathi BGM', 'TAMIL', '1991', 'IlayaRaaja', 'rZzTVf8udgw', 'Thalapathi'],
+      ['Marana Mass', 'TAMIL', '2019', 'Anirudh', '88iypMO9H7g', 'Petta'],
+      ['Petta-BGM', 'TAMIL', '2019', 'Anirudh', 'f3qvrOjOD9M', 'Petta'],
+      ['Kaali Theme', 'TAMIL', '2019', 'Anirudh', 'lAUUTzmQy0Y', 'Petta'],
       ['Bachna Ae Haseeno', 'HINDI', '2008', 'Vishal-Shekhar', 'bh2O4oyB1UM', 'Bachna Ae Haseeno'],
       ['Tattad Tattad', 'HINDI', '2013', 'Vishal-Shekhar', 'sIooFGRBZJY', 'Sanjay Leela Bhansali'],
       ['Mandaara', 'TELUGU', '2018', 'S. Thaman', 'fdgAMPzwqnU', 'Bhaagamathie'],
@@ -461,6 +468,7 @@ const playlists = {
       ["Don't You Worry Child", 'ENGLISH', '2012', 'Swedish House Mafia', '3mWbRB3Y4R8', 'Until Now'],
       ['AADAT', 'HINDI', '2007', 'JAL', 'wJJBUtzjfgg', 'AADAT'],
       ['The Fighter', 'ENGLISH', '2011', 'Gym Class Heroes', 'bxV-OOIamyk', 'The Papercut Chronicles II'],
+      ['Hamsaro', 'TELUGU', '2017', 'AR Rahman', 'Hz7wk-5KmAc', 'Cheliyaa'],
       ['Azhagiye', 'TAMIL', '2017', 'AR Rahman', 'TFUBlO-zJGg', 'Kaatru Veliyidai'],
       ['Dil Diyan Gallan', 'HINDI', '2017', 'Vishal-Shekhar', 'mevO4I0f5lg', 'Tiger Zinda Hai'],
       ['Aye Udi Udi Udi', 'HINDI', '2002', 'A. R. Rahman', '3BsFE3WD0kA', 'Saathiya'],
