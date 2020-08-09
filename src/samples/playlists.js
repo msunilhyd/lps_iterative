@@ -4,7 +4,10 @@ const playlists = {
     title: 'My Über Playlist!',
     songs: [
 
-      ['Then Then Then', 'TAMIL', '2008', 'Vidyasagar', 'iIQTmOq2Jgc', 'Jersey'],
+      
+      ['Lecture', 'TAMIL', '2008', 'Vidyasagar', 'ShpWuDX9fM', 'Kuruvi'],
+      
+      ['Then Then Then', 'TAMIL', '2008', 'Vidyasagar', 'iIQTmOq2Jgc', 'Kuruvi'],
       ['Padhe Padhe', 'TELUGU', '2019', 'Anirudh', 'VVxPv5yA4w8', 'Jersey'],
       ['Petta Paraak', 'TAMIL', '2019', 'Anirudh', '1GmIp526v0M', 'Petta'],
       ['Nenjae Yezhu', 'TAMIL', '2013', 'AR Rahman', 'SWnVTMdQVbk', 'Maryan'],
