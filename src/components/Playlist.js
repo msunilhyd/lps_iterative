@@ -23,7 +23,7 @@ class Playlist extends Component {
 		// The state here is very important
 		this.state = {
 			playlist: props.data || {}, // The informations about the playlist (title, description, songs ids, user informations ...)
-			playing: false, // The song which is played right now
+			playing: true, // The song which is played right now
 			showPlayer: true, // Showing player or not ?
 			hiddenSongs: true, // Are there too many songs to be shown ?
 			videoIndex: 0, // Index of the song played right now
@@ -63,8 +63,7 @@ class Playlist extends Component {
 		// Binding behaviors on every stateChange of the player
 		player.on('stateChange', this.handleStateChange)
 		player.loadVideoById(this.props.data.songs[0][4])
-		player.autoplay = 1;
-		
+
 		// Populating our state here with the player, the playlist data (title, songs ids, user informations, ...)
 		this.setState({
 			player,
