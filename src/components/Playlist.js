@@ -23,7 +23,7 @@ class Playlist extends Component {
 		// The state here is very important
 		this.state = {
 			playlist: props.data || {}, // The informations about the playlist (title, description, songs ids, user informations ...)
-			playing: true, // The song which is played right now
+			playing: false, // The song which is played right now
 			showPlayer: true, // Showing player or not ?
 			hiddenSongs: true, // Are there too many songs to be shown ?
 			videoIndex: 0, // Index of the song played right now
