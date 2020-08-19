@@ -63,7 +63,8 @@ class Playlist extends Component {
 		// Binding behaviors on every stateChange of the player
 		player.on('stateChange', this.handleStateChange)
 		player.loadVideoById(this.props.data.songs[0][4])
-
+		player.autoplay = 1;
+		
 		// Populating our state here with the player, the playlist data (title, songs ids, user informations, ...)
 		this.setState({
 			player,
