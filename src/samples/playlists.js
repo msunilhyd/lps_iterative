@@ -3,9 +3,8 @@ const playlists = {
     slug: 'my-uber-playlist',
     title: 'My Über Playlist!',
     songs: [
- ['Zaalima', 'HINDI', '2017', 'Ram Sampath', 'hhdSyBHuI88', 'Raees'],
  ['Apologize', 'ENGLISH', '2006', 'OneRepublic', '5ub14kkXKKc', ' Apologize'],
- ['Khalbali', 'TELUGU', '2006', 'A R Rahman', 'wfNxbB_EG1s', 'Rang De Basanti'],
+ ['Zaalima', 'HINDI', '2017', 'Ram Sampath', 'hhdSyBHuI88', 'Raees'],
  ['Jadu Hai Nasha Hai', 'HINDI', '2003', 'M. M. Keeravani', 'Iwa0Z9roM7g', 'Jism'],
  ['Tukur Tukur', 'HINDI', '2015', 'Pritam', 'hp0g6p2jjvo', 'Dilwale'],
  ['Ainvayi Ainvayi', 'HINDI', '2010', 'Salim–Sulaiman', 'Ou3C8HcPgHw', 'Band Baaja Baaraat'],
