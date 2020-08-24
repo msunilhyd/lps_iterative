@@ -3,6 +3,8 @@ import PropTypes from 'prop-types';
 import Playlist from './Playlist'
 import playlists from '../samples/playlists.js'
 // import mainLogo from'./logo_main.jpg';
+import ScrollUpButton from "react-scroll-up-button";
+
 
 import mainLogo from'./logo_main_transparent.png';
 
@@ -67,6 +69,8 @@ class Playlists extends Component {
 				<div className="row">
 					{items}		
 				</div>
+				<ScrollUpButton style={{width: 75}} ToggledStyle={{right: 100}}/>
+
 			</div>
 		)
 	}

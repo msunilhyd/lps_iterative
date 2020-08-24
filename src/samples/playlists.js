@@ -3,6 +3,7 @@ const playlists = {
     slug: 'my-uber-playlist',
     title: 'My Über Playlist!',
     songs: [
+ ['Manikya Malaraya', 'MALAYALAM', '2018', 'Shaan Rahman', 'W0fKl43QmIE', 'Oru Adaar Love'],
  ['Anbil Avan', 'TAMIL', '2010', 'A R Rahman', 'bXa-wbiXiOw', 'Vinnaithaandi Varuvaayaa'],
  ['AAO MILO CHALO', 'HINDI', '2007', 'Pritam', 'U0JYkRqU6eY', 'Jab We Met'],
  ['DOORIYAN', 'HINDI', '2009', 'Pritam', '-7z3YeFqd7xQ', 'Love Aaj Kal'],
@@ -164,7 +165,7 @@ const playlists = {
  ['Preminche Premava', 'TELUGU', '2006', 'A. R. Rahman', 'FR3Febey_lI', 'Sillunu Nuvvu Nenu Prema'],
  ['Allah Maaf Kare', 'HINDI', '2011', 'Pritam', 'BhtHOzkQRpI', 'Desi Boyz'],
  ['Victory', 'ENGLISH', '2000', 'Hans Zimmer ', 'OLTZbJMQiD4', 'Gladiator'],
- ['Kaatu Mooliyo', 'MALAYALAM', '2015', 'eShaan Rahman', 'vilA6jt5w6Y', 'Ohm Shanthi Oshaana'],
+ ['Kaatu Mooliyo', 'MALAYALAM', '2015', 'Shaan Rahman', 'vilA6jt5w6Y', 'Ohm Shanthi Oshaana'],
  ['Sun Saathiya', 'HINDI', '2015', 'Sachin - Jigar', '_NWaYjsz3qY', 'ABCD 2'],
  ['Venpani Malare', 'TAMIL', '2017', 'Sean Roldan', '7KvLlA4g1so', '  Power Paandi'],
  ['Purple Yellow Red & Blue', 'ENGLISH', '2013', 'Portugal. The Man', 'q5x_YoweEg8', 'Evil Friends'],
