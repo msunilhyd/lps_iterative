@@ -572,7 +572,11 @@ const playlists = {
         ['Cheliya Cheliya', 'TELUGU', '2001', 'Mani Sharma', '_ruDPvH9_Eg', 'Kushi'],
         ['Bin Tere', 'HINDI', '2010', 'Vishal-Shekhar', '5IX-nUxDtJI', 'I Hate Luv Storys'],
         ['Remember The Name', 'ENGLISH', '2005', 'Fort Minor', 'IqB5L9_sfbQ', 'Petrified'],
-        ['Now We Are Free', 'ENGLISH', '2000', 'Hans Zimmer ', 'PvrDI6U0mE4', 'Gladiator']
+        ['Now We Are Free', 'ENGLISH', '2000', 'Hans Zimmer ', 'PvrDI6U0mE4', 'Gladiator'],
+        ['Hay Rey Hai', 'TELUGU', '2003', 'Mani Sharma', 'CcYZTrEe4TE', 'Okkadu'],
+        ['Hare Rama', 'TELUGU', '2003', 'Mani Sharma', 'NFADCq_qWik', 'Okkadu'],
+
+
        
   ],
     'informations': {}
