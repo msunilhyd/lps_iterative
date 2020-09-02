@@ -576,6 +576,7 @@ const playlists = {
         ['Hay Rey Hai', 'TELUGU', '2003', 'Mani Sharma', 'CcYZTrEe4TE', 'Okkadu'],
         ['Hare Rama', 'TELUGU', '2003', 'Mani Sharma', 'NFADCq_qWik', 'Okkadu'],
         ['Zara Zara', 'HINDI', '2001', 'Harris Jayaraj ', 'rSIxWoxvIZ4', 'Rehna Hai Tere Dil Mein'],
+        ['Andhala rakshasive', 'TELUGU', '1999', 'A.R Rahman', 'o3gheB5EmBA', 'oke okkadu'],
 
   ],
     'informations': {}
