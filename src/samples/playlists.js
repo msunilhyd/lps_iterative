@@ -575,9 +575,8 @@ const playlists = {
         ['Now We Are Free', 'ENGLISH', '2000', 'Hans Zimmer ', 'PvrDI6U0mE4', 'Gladiator'],
         ['Hay Rey Hai', 'TELUGU', '2003', 'Mani Sharma', 'CcYZTrEe4TE', 'Okkadu'],
         ['Hare Rama', 'TELUGU', '2003', 'Mani Sharma', 'NFADCq_qWik', 'Okkadu'],
+        ['Zara Zara', 'HINDI', '2001', 'Harris Jayaraj ', 'rSIxWoxvIZ4', 'Rehna Hai Tere Dil Mein'],
 
-
-       
   ],
     'informations': {}
   }
