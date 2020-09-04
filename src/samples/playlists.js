@@ -578,6 +578,7 @@ const playlists = {
         ['Zara Zara', 'HINDI', '2001', 'Harris Jayaraj ', 'rSIxWoxvIZ4', 'Rehna Hai Tere Dil Mein'],
         ['Andhala rakshasive', 'TELUGU', '1999', 'A.R Rahman', 'o3gheB5EmBA', 'oke okkadu'],
         ['Yemito', 'TELUGU', '2012', 'Radhan', 'Gi7qgVoiYt4', 'Andala Rakshasi'],
+        ['Ye Mantramo', 'TELUGU', '2012', 'Radhan', 'eYPCqely7lg', 'Andala Rakshasi'],
 
   ],
     'informations': {}
