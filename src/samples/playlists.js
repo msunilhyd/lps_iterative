@@ -579,6 +579,7 @@ const playlists = {
         ['Andhala rakshasive', 'TELUGU', '1999', 'A.R Rahman', 'o3gheB5EmBA', 'oke okkadu'],
         ['Yemito', 'TELUGU', '2012', 'Radhan', 'Gi7qgVoiYt4', 'Andala Rakshasi'],
         ['Ye Mantramo', 'TELUGU', '2012', 'Radhan', 'eYPCqely7lg', 'Andala Rakshasi'],
+        ['Noonday Sun', 'MISC', '1997', 'Deep Forest', '89w0y7x67tc', 'Comparsa'],
 
   ],
     'informations': {}
