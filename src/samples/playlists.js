@@ -97,6 +97,7 @@ const playlists = {
         ['Anjali Anjali ', 'TAMIL', '1994', 'AR RAHMAN', 'B_iuts4M5ZE', 'Duet'],
         ['Cheerleader', 'ENGLISH', '2014', 'Omi', 'jGflUbPQfW8', 'Me 4 U'],
         ['O Priya Priya', 'TELUGU', '1989', 'IlayaRaaja', 'nkkC4PpxCCU', 'Geethanjali'],
+        ['O Priya Priya', 'TELUGU', '1989', 'IlayaRaaja', 'nkkC4PpxCCU', 'Geethanjali'],
         ['A New Day Has Come (Radio Remix)', ' ENGLISH', '2000', ' Celine Dion', '8fmCwPLi954', '2000 Collection'],
         ['Kailove Chedugudu', 'TELUGU', '2000', 'A. R. Rahman', '0rIXXuwnSFQ', 'Sakhi'],
         ["Don't You Worry Child", 'ENGLISH', '2012', 'Swedish House Mafia', '3mWbRB3Y4R8', 'Until Now'],
@@ -307,7 +308,7 @@ const playlists = {
         ['A New Day Has Come', ' ENGLISH', '2000', ' Celine Dion', 'ZcEqCsDflY4', '2000 Collection'],
         ['Hurt', 'ENGLISH', '2002', 'Johnny Cash', '8AHCfZTRGiI', 'American IV: The Man Comes Around'],
         ['Maate vinadhu ga', 'TELUGU', '2018', 'Jakes Bejoy', 'KMocA8G_puU', 'Taxiwaala'],
-        ['Maula Mere Maula', 'HINDI', '2007', 'Mithoon', 'ptdVuijIQQE', 'Anwar'],
+        ['Maula Mere Maula', 'HINDI', '2007', 'Mithoon', 'mU2e2ct9Vhg', 'Anwar'],
         ['Sky full of stars', 'ENGLISH', '2014', 'Coldplay', 'ot_snHDVTUU', 'Ghost Stories'],
         ['Guzaarish', 'HINDI', '2008', 'A. R. Rahman', 'clzuRgaV5dw', 'Ghajini'],
         ['Naluguriki', 'TELUGU', '2002', 'Mani Sharma', 'xZ4bjreAXj0', 'Takkari Donga'],
@@ -415,7 +416,7 @@ const playlists = {
         ['Dilko Tumse Pyar Hua', 'HINDI', '2001', 'Harris Jayaraj ', 'ZiJgkQLunUM', 'Rehna Hai Tere Dil Mein'],
         ['Airplanes Pt II', 'ENGLISH', '2010', ' B.o.B', 'MK29MlRUt48', 'B.o.B Presents: The Adventures of Bobby Ray'],
         ['Falak Tak', 'HINDI', '2008', 'Vishal-Shekhar', 'PfcwlfCm7fc', 'Tashan'],
-        ['Yun Hi Chala Chal', 'HINDI', '2004', 'A. R. Rahman', 'eEeX2QMlSlo', 'Swades'],
+        ['Yun Hi Chala Chal', 'HINDI', '2004', 'A. R. Rahman', 'vTBbi3qIC0s', 'Swades'],
         ['Sinne Sinne Korikaladaga', 'TELUGU', '1987', 'Ramesh Naidu', 'rqIoB1cMvUM', 'Swayam Krushi'],
         ['Kadhalikkum Pennin', 'TAMIL', '1994', 'A R Rahman', 'MxR4WXFyYNE', 'Kaadhalan'],
         ['Bombay Theme', 'TAMIL', '1995', 'A R Rahman', 'q2aj_qLScm8', 'Bombay'],
@@ -580,10 +581,21 @@ const playlists = {
         ['Noonday Sun', 'MISC', '1997', 'Deep Forest', '89w0y7x67tc', 'Comparsa'],
         ['Masakali', 'HINDI', '2009', 'AR Rahman', 'WjL2vOoYmBM', 'Dilli 6'],
         ['Manam Virumbuthe', 'TELUGU', 'Tamil', 'Deva', 'oQHqKNTl_8Q', 'Naerukku Naer'],
-
+        ['Pray For Me Brother Instrumental', 'ENGLISH', '2007', 'A.R Rahman', 's9eAWMAqNnU', 'Pray For Me Brother'],
+        ['High Hopes', 'ENGLISH', '1994', 'Pink Floyd', '7jMlFXouPk8', 'The Division Bell'],
+        ['Madhura Madhuratara', 'TELUGU', '2004', 'Mani Sharma', '4PZ4LkLVQx0', 'Arjun'],
+        ['Mustafa', 'TAMIL', '1996', 'A.R Rahman', 'tfZLxLlCgUk', 'Kadhal Desam'],
+        ['Thendrale Thendrale', 'TAMIL', '1996', 'A.R Rahman', 'k8Xgln3yp_w', 'Kadhal Desam'],
+        ['Enna Vilai Azhake', 'TAMIL', '1999', 'A.R Rahman', 'c2PGWrDh3zU', 'Kadhalar Dhinam'],
+        ['Nuvve Na Shwasa', 'TELUGU', '2003', 'M.M.Keeravani', 't_rrenXqs3o', 'Okariki Okaru'],
+        ['Kalalonaina', 'TELUGU', '2000', 'S.A.Raj Kumar', 'dqcCG1p3K', 'Nuvvu Vasthavani'],
+        ['Edo Oka Raagam', 'TELUGU', '1999', 'S.A.Raj Kumar', 'ew_PdDxS004', 'Raja'],
+        ['Annula Minnala', 'TELUGU', '1992', 'IlayaRaaja', '6_FWLYuFsT8', 'Chanti'],
+        ['Mitwa', 'HINDI', '2006', 'Shankar-Ehsaan-Loy', 'AsieVqOTRs0', 'Kabhi Alvida Naa Kehna'],
+        ['Such Keh Raha Hai', 'HINDI', '2001', 'Harris Jayaraj ', 'zV7pfxeh5dY', 'Rehna Hai Tere Dil Mein'],
   ],
     'informations': {}
   }
 }
 
-export default playlists
+export default playlists;
