@@ -97,7 +97,6 @@ const playlists = {
       ['Anjali Anjali ', 'TAMIL', '1994', 'AR RAHMAN', 'B_iuts4M5ZE', 'Duet'],
       ['Cheerleader', 'ENGLISH', '2014', 'Omi', 'jGflUbPQfW8', 'Me 4 U'],
       ['O Priya Priya', 'TELUGU', '1989', 'IlayaRaaja', 'nkkC4PpxCCU', 'Geethanjali'],
-      ['O Priya Priya', 'TELUGU', '1989', 'IlayaRaaja', 'nkkC4PpxCCU', 'Geethanjali'],
       ['A New Day Has Come (Radio Remix)', ' ENGLISH', '2000', ' Celine Dion', '8fmCwPLi954', '2000 Collection'],
       ['Kailove Chedugudu', 'TELUGU', '2000', 'A. R. Rahman', '0rIXXuwnSFQ', 'Sakhi'],
       ["Don't You Worry Child", 'ENGLISH', '2012', 'Swedish House Mafia', '3mWbRB3Y4R8', 'Until Now'],
