@@ -579,6 +579,7 @@ const playlists = {
         ['Ye Mantramo', 'TELUGU', '2012', 'Radhan', 'eYPCqely7lg', 'Andala Rakshasi'],
         ['Noonday Sun', 'MISC', '1997', 'Deep Forest', '89w0y7x67tc', 'Comparsa'],
         ['Masakali', 'HINDI', '2009', 'AR Rahman', 'WjL2vOoYmBM', 'Dilli 6'],
+        ['Manam Virumbuthe', 'TELUGU', 'Tamil', 'Deva', 'oQHqKNTl_8Q', 'Naerukku Naer'],
 
   ],
     'informations': {}
