@@ -327,7 +327,7 @@ const playlists = {
       ['Party in the USA', 'ENGLISH', '2009', 'Miley Cyrus', 'BlHsvqzHvag', 'Party in the U.S.A.'],
       ['Am I Wrong', 'ENGLISH', '2013', 'Nico & Vinz', '3oUPGbRazaA', 'Am I Wrong'],
       ['Black Sheep', 'ENGLISH', '2010', 'Metric', 'KifLmoUhbU8', ' Scott Pilgrim vs. the World'],
-      ['Alupannadi', 'TELUGU', '1993', 'Sri', 'lI7Y8bYzpn4', 'Gaayam'],
+      ['Alupannadi', 'TELUGU', '1993', 'Sri', 'sl9p70aBxac', 'Gaayam'],
       ['Manmadha', 'TELUGU', '2004', 'Yuvan Shankar Raja', 'kwaPZrvwjs4', 'Manmadha'],
       ['Thalapathi BGM', 'TAMIL', '1991', 'IlayaRaaja', 'rZzTVf8udgw', 'Thalapathi'],
       ['Something Just Like This', 'ENGLISH', '2017', 'Coldplay-The Chainsmokers', 'FM7MFYoylVs', 'Something Just Like This'],
