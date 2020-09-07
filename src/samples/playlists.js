@@ -591,10 +591,11 @@ const playlists = {
       ['Kanave Kanave', 'TAMIL', '2013', 'Anirudh ', 'qD53-RZpTOc', 'David'],
       ['Kaali Theme', 'TAMIL', '2019', 'Anirudh', 'lAUUTzmQy0Y', 'Petta'],
       ['Despocito Remix', 'SPANGLISH', '2016', 'Luis Fonsi', 'whwe0KD_rGw', 'Vida'],
-      ['Bombay Theme', 'TAMIL', '1995', 'A R Rahman', 'q2aj_qLScm8', 'Bombay']
-
-
-
+      ['Bombay Theme', 'TAMIL', '1995', 'A R Rahman', 'q2aj_qLScm8', 'Bombay'],
+      ['Ekkada Ekkada', 'TELUGU', '2001', 'Mani Sharma', 'wc_-QeNJzz4', 'Murari'],
+      ['Andhanikey', 'TELUGU', '2001', 'Mani Sharma', 'XRxhz4qyM2k', 'Murari'],
+      ['TADAP TADAP', 'HINDI', '1999', 'ISMAIL DARBAR', 'YT-PUXH_yI', 'HUM DIL DE CHUKE SANAM'],
+      ['Konchum Mainakale', 'TAMIL', '2000', 'A R Rahman', 'q2aj_qLScm8', 'Kandukondein Kandukondein'],
     ],
     'informations': {}
   }
