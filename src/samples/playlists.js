@@ -596,6 +596,8 @@ const playlists = {
       ['Andhanikey', 'TELUGU', '2001', 'Mani Sharma', 'XRxhz4qyM2k', 'Murari'],
       ['TADAP TADAP', 'HINDI', '1999', 'ISMAIL DARBAR', 'YT-PUXH_yI', 'HUM DIL DE CHUKE SANAM'],
       ['Konchum Mainakale', 'TAMIL', '2000', 'A R Rahman', 'q2aj_qLScm8', 'Kandukondein Kandukondein'],
+      ['Lamha Lamha', 'HINDI', '2006', 'Pritam', 'VGYfbc6qWFM', 'Gangster'],
+
     ],
     'informations': {}
   }
