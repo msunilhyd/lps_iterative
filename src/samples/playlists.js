@@ -10,7 +10,7 @@ const playlists = {
       ['Chahoon Bhi Toh', 'HINDI', '2011', 'Harris Jayaraj', 'SIfEDWGVwLs', 'Force'],
       ['Aaoge Jab Tum', 'HINDI', '2007', 'Pritam', 'CNZMIhckaA0', ' Jab We Met'],
       ['Yamaha Nagari', 'TELUGU', '1998', 'Mani Sharma', 'L2E5G4koMnk', 'Choodalani Undi'],
-      ['I want it that way', ' ENGLISH', '2007', ' Backstreet Boys', 'MwdSvchtKeA', 'Millennium'],
+      ['I want it that way', ' ENGLISH', '2007', ' Backstreet Boys', 'LwkrXybZ1uo', 'Millennium'],
       ['Vaale Vaale', 'TELUGU', '2002', 'Harris Jayaraj', 'g9-S8-8Artk', 'Vaasu'],
       ['Mattilanti Nannu', 'TELUGU', '2004', 'Joshua Sridhar', '_-JdC_Gccco', 'Premisthe'],
       ['Columbus ', 'TAMIL', '1998', 'AR RAHMAN', 'qd26FnQz0yU', 'Jeans'],
@@ -604,6 +604,7 @@ const playlists = {
       ['Egirey Mabbulona', 'TELUGU', '2006', 'Yuvan Shankar Raja', 'W-NFkJat4XA', 'Happy'],
       ['Neekosam', 'TELUGU', '2004', 'M.M.Keeravani', 'wnYY3S-C2sA', 'Nenunnanu'],
       ['Nenunnanani', 'TELUGU', '2004', 'M.M.Keeravani', 'SbqFZHzwDoI', 'Nenunnanu'],
+      ['Perfect Duet', 'ENGLISH', '2017', 'Ed Sheeran - Beyoncé', '817P8W8-mGE', 'Divide'],
 
 
     ],
