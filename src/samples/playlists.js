@@ -597,6 +597,14 @@ const playlists = {
       ['TADAP TADAP', 'HINDI', '1999', 'ISMAIL DARBAR', 'YT-PUXH_yI', 'HUM DIL DE CHUKE SANAM'],
       ['Konchum Mainakale', 'TAMIL', '2000', 'A R Rahman', 'q2aj_qLScm8', 'Kandukondein Kandukondein'],
       ['Lamha Lamha', 'HINDI', '2006', 'Pritam', 'UoHTLxPgdKw', 'Gangster'],
+      ['Masthura', 'TELUGU', '2003', 'A R Rahman', 'OwMGQ7j1ozQ', 'Nee Manasu Naaku Telusu'],
+      ['Askava', 'TELUGU', '2003', 'A R Rahman', 'wRPMfgNPl-Q', 'Nee Manasu Naaku Telusu'],
+      ['Samajavaragamana Cover', 'TELUGU', '2019', 'S. Thaman', 'guj4nJFvLo4', 'Ala Vaikunthapurramloo'],
+      ['Neekosam', 'TELUGU', '2006', 'Yuvan Shankar Raja', 'JuQucW4cJ4Y', 'Happy'],
+      ['Egirey Mabbulona', 'TELUGU', '2006', 'Yuvan Shankar Raja', 'W-NFkJat4XA', 'Happy'],
+      ['Neekosam', 'TELUGU', '2004', 'M.M.Keeravani', 'wnYY3S-C2sA', 'Nenunnanu'],
+      ['Nenunnanani', 'TELUGU', '2004', 'M.M.Keeravani', 'SbqFZHzwDoI', 'Nenunnanu'],
+
 
     ],
     'informations': {}
