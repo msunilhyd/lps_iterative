@@ -598,13 +598,16 @@ const playlists = {
       ['Konchum Mainakale', 'TAMIL', '2000', 'A R Rahman', 'q2aj_qLScm8', 'Kandukondein Kandukondein'],
       ['Lamha Lamha', 'HINDI', '2006', 'Pritam', 'UoHTLxPgdKw', 'Gangster'],
       ['Masthura', 'TELUGU', '2003', 'A R Rahman', 'OwMGQ7j1ozQ', 'Nee Manasu Naaku Telusu'],
-      ['Askava', 'TELUGU', '2003', 'A R Rahman', 'wRPMfgNPl-Q', 'Nee Manasu Naaku Telusu'],
+      ['TiK ToK', ' ENGLISH', '2009', ' Kesha', 'iP6XpLQM2Cs', 'TiK ToK'],
       ['Samajavaragamana Cover', 'TELUGU', '2019', 'S. Thaman', 'guj4nJFvLo4', 'Ala Vaikunthapurramloo'],
+      ['Perfect Duet', 'ENGLISH', '2017', 'Ed Sheeran - Beyoncé', '817P8W8-mGE', 'Divide'],
       ['Neekosam', 'TELUGU', '2006', 'Yuvan Shankar Raja', 'JuQucW4cJ4Y', 'Happy'],
       ['Egirey Mabbulona', 'TELUGU', '2006', 'Yuvan Shankar Raja', 'W-NFkJat4XA', 'Happy'],
+      ['Shake It Off', 'ENGLISH', '2014', 'Taylor Swift', 'nfWlot6h_JM', ' 1989'],
       ['Neekosam', 'TELUGU', '2004', 'M.M.Keeravani', 'wnYY3S-C2sA', 'Nenunnanu'],
+      ['Wake Me Up', ' ENGLISH', '2013', 'Avicii', 'IcrbM1l_BoI', 'True'],
       ['Nenunnanani', 'TELUGU', '2004', 'M.M.Keeravani', 'SbqFZHzwDoI', 'Nenunnanu'],
-      ['Perfect Duet', 'ENGLISH', '2017', 'Ed Sheeran - Beyoncé', '817P8W8-mGE', 'Divide'],
+      ['Askava', 'TELUGU', '2003', 'A R Rahman', 'wRPMfgNPl-Q', 'Nee Manasu Naaku Telusu'],
 
 
     ],
