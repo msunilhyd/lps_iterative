@@ -608,6 +608,7 @@ const playlists = {
       ['Beautiful', 'ENGLISH', '2009', 'Eminem', 'WDsWiUObdes', 'Relapse'],
       ['Numb / Encore', 'ENGLISH', '2003', 'Linkin Park', 'sCRRRofQ4tI', 'Meteora'],
       ['What Makes You Beautiful', 'ENGLISH', '2011', 'One Direction', 'QJO3ROT-A4E', 'Up All Night'],
+      ['Jesus Walks', 'ENGLISH', '2004', 'Kanye West', 'f9wJBdFy6sQ', 'The College Dropout'],
     ],
     'informations': {}
   }
