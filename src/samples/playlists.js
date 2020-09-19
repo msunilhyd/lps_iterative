@@ -24,7 +24,7 @@ const playlists = {
       ['Wake Up Sid', 'HINDI', '2009', 'Shankar-Ehsaan-Loy', 'Jqzz8K6mMVs', 'Wake Up Sid'],
       ['Aei Vennella Sona', 'TAMIL', '2001', 'Harris Jayaraj', 'UCDm1iR9y7Y', 'Cheli'],
       ['Sarvam Thaala Mayam', 'TAMIL', '2019', 'A.R Rahman', 'd3OZVsHG9TM', 'Sarvam Thaala Mayam'],
-      ['Yaen Ennai Pirindhaai', 'TAMIL', '2019', 'Radhan', 'psxr4XFNBeo', 'Adithya varma'],
+      ['Yaen Ennai Pirindhaai', 'TAMIL', '2019', 'Radhan', '0N7vZlaRHZ0', 'Adithya varma'],
       ['Soul Sister', 'ENGLISH', '2009', 'Train', 'JloUN9j9cJ8', 'Hey, Soul Sister: Remixes EP'],
       ['Hey Ya!', 'HINDI', '2010', 'Shan-Ehsa-Loy.', 'wLH4rrmIT60', 'Karthik Calling Karthik'],
       ['The Nights', ' ENGLISH', '2014', 'Avicii', 'UtF6Jej8yb4', ' FIFA 15 Soundtrack'],
@@ -33,7 +33,7 @@ const playlists = {
       ['Enduko Madi', 'TELUGU', '2009', 'Achu & Dharan', '9sdzCtElP-8', 'Neenu Meeku Thelusa'],
       ['Ek Din Teri Raahon Mein', 'HINDI', '2007', 'Pritam', '4FC_WJjIsmk', 'Naqaab'],
       ['Dream on', 'ENGLISH', '1973', 'Aerosmith', '4Y0lAQomh9g', 'Aerosmith'],
-      ['DOORIYAN', 'HINDI', '2009', 'Pritam', '-7z3YeFqd7xQ', 'Love Aaj Kal'],
+      ['DOORIYAN', 'HINDI', '2009', 'Pritam', 'Zl2qSYFWiv8', 'Love Aaj Kal'],
       ['Nothing Else Matters', 'ENGLISH', '1992', 'Metallica', 'tAGnKpE4NCI', 'Metallica'],
       ['Victory', 'ENGLISH', '2000', 'Hans Zimmer ', 'OLTZbJMQiD4', 'Gladiator'],
       ['Saware', 'HINDI', '2015', 'Pritam', 'CsOsmgUmT9U', 'Phantom'],
@@ -221,7 +221,7 @@ const playlists = {
       ['Kannulu Neevi', 'TAMIL', '2001', 'Harris Jayaraj', 'VJ8yLmkRzd0', 'Cheli'],
       ['Naa Pranama', 'TELUGU', '2001', 'S.A.Raj Kumar', 'dqcC56cqyiY', 'Daddy'],
       ['Manasaa', 'TELUGU', '2010', 'A R Rahman', 'Tqx6BtVsEH8', 'Yemaaya Chesave'],
-      ['Pehli Nazar Mein', 'HINDI', '2008', 'Pritam', 'JBCx0QyP8VQ', ' Race'],
+      ['Pehli Nazar Mein', 'HINDI', '2008', 'Pritam', 'AfxW-HpnRJg', ' Race'],
       ['Allah Maaf Kare', 'HINDI', '2011', 'Pritam', 'BhtHOzkQRpI', 'Desi Boyz'],
       ['Sunn Raha Hai (Female) ', 'HINDI', '2013', 'Ankit Tiwari', '49Yo4_9zNQ8', ' Aashiqui 2'],
       ['Main Agar Kahoon', 'HINDI', '2007', 'Vishal-Shekhar', 'DAYszemgPxc', 'Om Shanti Om'],
@@ -235,7 +235,7 @@ const playlists = {
       ['Judaai', 'HINDI', '2011', 'Sachin-Jigar', '5Dnv-nIlwWo', 'Badlapur'],
       ['Chandelier', 'ENGLISH', '2014', 'Sia', '8nWdqiB6VqU', 'Voices'],
       ['Something Just Like This', 'ENGLISH', '2017', 'Coldplay-The Chainsmokers', 'FM7MFYoylVs', 'Something Just Like This'],
-      ['Marudhaani', 'TAMIL', '2008', 'A. R. Rahman', 'fuiVf41YbLE', 'Sakkarakatti'],
+      ['Marudhaani', 'TAMIL', '2008', 'A. R. Rahman', 'RKZNPx-K1AA', 'Sakkarakatti'],
       ['Hymn For The Weekend', 'ENGLISH', '2015', 'Coldplay', 'YykjpeuMNEk', 'A Head Full of Dreams'],
       ['Preminche Premava', 'TELUGU', '2006', 'A. R. Rahman', 'FR3Febey_lI', 'Nuvvu Nenu Prema'],
       ['Aa Jao Meri Tamanna', 'HINDI', '2009', 'Pritam', '-enLn27qpSg', 'Ajab Prem Ki Ghazab Kahani'],
@@ -284,7 +284,7 @@ const playlists = {
       ['Saibo', 'HINDI', '2011', 'Sachin-Jigar', 'GtNrQy90Ih4', 'Shor in the City'],
       ['All Along The Watchtower', 'ENGLISH', '1968', 'The Jimi Hendrix Experience, Curtis Knight & Jimi Hendrix', 'PWSMeK28x3E', 'Electric Ladyland'],
       ['Channa Mereya Unplugged', 'HINDI', '2016', 'Pritam', 'PYzFp5o4lhE', 'Ae Dil Hai Mushkil'],
-      ['Tum Mile', 'HINDI', 'a2009', 'Pritam', 'odVptmgIcD0', ' Tum Mile'],
+      ['Tum Mile', 'HINDI', '2009', 'Pritam', 'odVptmgIcD0', ' Tum Mile'],
       ['Sinne Sinne Korikaladaga', 'TELUGU', '1987', 'Ramesh Naidu', 'rqIoB1cMvUM', 'Swayam Krushi'],
       ['Naluguriki', 'TELUGU', '2002', 'Mani Sharma', 'xZ4bjreAXj0', 'Takkari Donga'],
       ['Ainvayi Ainvayi', 'HINDI', '2010', 'Salim–Sulaiman', 'Ou3C8HcPgHw', 'Band Baaja Baaraat'],
@@ -609,6 +609,28 @@ const playlists = {
       ['Numb / Encore', 'ENGLISH', '2003', 'Linkin Park', 'sCRRRofQ4tI', 'Meteora'],
       ['What Makes You Beautiful', 'ENGLISH', '2011', 'One Direction', 'QJO3ROT-A4E', 'Up All Night'],
       ['Jesus Walks', 'ENGLISH', '2004', 'Kanye West', 'f9wJBdFy6sQ', 'The College Dropout'],
+    
+      ['Shankerdada M B B S', 'TELUGU', '2004', 'Devi Sri Prasad', 'qNgevDkZERQ', 'Shankardada M B B S '],
+      ['Chandamama', 'TELUGU', '2007', 'Devi Sri Prasad', 'nSW0ksiTWyQ', 'Shankardada Zindabad'],
+      ['Dole dole', 'TELUGU', '2006', 'Mani Sharma', 'vxXIvXBq_EA', 'Pokiri'],
+      ['Choododdantunna', 'TELUGU', '2006', 'Mani Sharma', '5Wo9W2lMs9A', 'Pokiri'],
+      ['Noppi Noppi', 'TELUGU', '2006', 'Mani Sharma', 'hrUb8daQpXs', 'Pokiri'],
+      ['Vastha Nee Venuka', 'TELUGU', '2006', 'A. R. Rahman', 'D_4nLWISLu4', 'Naani'],
+      ['Vaalu Kanuladaanaa', 'TELUGU', '1999', 'A. R. Rahman', 'feAFaX8qtWg', 'Premikula Roju'],
+      ['Oh Maria', 'TAMIL', '1999', 'A. R. Rahman', 'osiqTrV2J04', 'Kadhalar Dhinam'],
+
+      ['Chammak Challo', 'HINDI', '2011', 'Vishal-Shekhar', 'oAVhUAaVCVQ', 'Ra One'],
+      ['PEE LOON', 'HINDI', '2010', 'Pritam', 'FYHKeHYlVA4', 'Once Upon a Time in Mumbaai'],
+      
+      ['Kal Ho Naa Ho', 'HINDI', '2003', 'Shankar-Ehsaan-Loy', 'r_oBWnz7wLE', 'Kal Ho Naa Ho'],
+      ['Uff Teri Adaa', 'HINDI', '2010', 'Shan-Ehsaan-Loy', '-rSOvmWRG4Y', 'Karthik Calling Karthik'],
+      ['Bheegi Si', 'HINDI', '2010', 'Pritam', 'ooH9UqewI7A', 'Raajneeti'],
+      ['Tum Mile Rock', 'HINDI', '2009', 'Pritam', 'TvfRfddB5rc', ' Tum Mile'],
+
+      ['Tere Bin', 'HINDI', '2006', 'Mithoon', 'yIrU21hoHys', 'Bas Ek Pal'],
+
+      ['Yeh DOORIYAN', 'HINDI', '2009', 'Pritam', 'WnnLiBgzsyM', 'Love Aaj Kal 2020'],
+
     ],
     'informations': {}
   }
