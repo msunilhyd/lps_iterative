@@ -642,7 +642,8 @@ const playlists = {
       ['Niddura Potunna', 'TELUGU', '2002', 'Koti', 'WJkCZTWLdN0', 'Nuvve Nuvve'],
       ['Mari Antaga', 'TELUGU', '2013', 'Mickey J. Meyer', 'hCs8x7-67lk', 'Seethamma Vakitlo Sirimalle Chettu'],
       ['Anaganaga Kadala', 'TELUGU', '2004', 'Devi Sri Prasad', 'licnf9o83yc', 'Venky'],
-
+      ['Panchadaara', 'TELUGU', '2009', 'M.M.Keeravani', 'TRpvgGWjAUM', 'Okariki Okaru'],
+      ['Konte Chooputho', 'TELUGU', '2008', 'James Vasanthan', 'dhIrlFsz50w', 'Anantapuram 1980'],
     ],
     'informations': {}
   }
