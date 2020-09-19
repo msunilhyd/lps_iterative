@@ -482,7 +482,7 @@ const playlists = {
       ['Ainvayi Ainvayi', 'HINDI', '2010', 'Salim–Sulaiman', 'Ou3C8HcPgHw', 'Band Baaja Baaraat'],
       ['Madhura Madhuratara', 'TELUGU', '2004', 'Mani Sharma', '4PZ4LkLVQx0', 'Arjun'],
       ['Nenjukkul Peidhidum', 'TAMIL', '2008', 'Harris Jayaraj', 'FzLpP8VBC6E', 'Vaaranam Aayiram'],
-      ['O Sathiya', 'HINDI', '2012', '\tChakri', 'WLizJz1Wi4Y', 'Billu'],
+      ['O Sathiya', 'HINDI', '2012', 'Chakri', 'WLizJz1Wi4Y', 'Billu'],
       ['Kanulu Therichina', 'TELUGU', '2001', 'Devi Sri Prasad', 'BXkdXtwFd_0', 'Aanandham'],
       ['Yemito', 'TELUGU', '2012', 'Radhan', 'Gi7qgVoiYt4', 'Andala Rakshasi'],
       ['Konchum Mainakale', 'TAMIL', '2000', 'A R Rahman', 'q2aj_qLScm8', 'Kandukondein Kandukondein'],
@@ -625,8 +625,24 @@ const playlists = {
       ['High Hopes', 'ENGLISH', '1994', 'Pink Floyd', '7jMlFXouPk8', 'The Division Bell'],
       ['Taal Taal Se Taal (Western)', 'HINDI', '1999', 'AR RAHMAN', 'MelMTp_dxNQ', 'Taal'],
       ['Life In Color', 'ENGLISH', '2013', 'OneRepublic', '-c8m66tf7Rk', 'Native'],
-      ['S.T.A.Y.', 'ENGLISH', '2014', 'Hans Zimmer ', 'N4o0qnSeVQQ', 'Interstellar']
-    
+      ['S.T.A.Y.', 'ENGLISH', '2014', 'Hans Zimmer ', 'N4o0qnSeVQQ', 'Interstellar'],
+      ['Gundu Sudhi', 'TELUGU', '2005', 'M. M. Keeravani', 'qwxmSWBkwzY', 'Chatrapathi'],
+      ['Naa Kosame', 'TELUGU', '2001', 'Mani Sharma', '0gU9kx2hDVE', 'Subbu'],
+      ['Kadhalikkum Aasai', 'TAMIL', '2004', 'Harris Jayaraj', 'w8yE93WuTnQ', 'Chellame'],
+      ['Maate mantramu', 'TELUGU', '1981', 'IlayaRaaja', 'pxD69QG9GAA', 'Seethakoka chiluka'],
+      ['Chukkallara Choopullara', 'TELUGU', '1992', 'M. M. Keeravani', 'htGOXmZtmXU', 'Aapadbandhavudu'],
+      ['Kinnerasani', 'TELUGU', '1984', 'IlayaRaaja', 'w0mSgwvXkxE', 'Sitara'],
+      ['Venello Hai', 'TELUGU', '2002', 'Chakri', '_EEw4ft1Z0Y', 'Avunu Validdharu Istapaddaru'],
+      ['Cheppave Chirugali', 'TELUGU', '2003', 'Mani Sharma', 'DX9u4QEPy0g', 'Okkadu'],
+      ['Nuvvunte', 'TELUGU', '2004', 'Devi Sri Prasad', 'Tn3UTYATiqw', 'Arya'],
+      ['Nijanga Nenena', 'TELUGU', '2008', 'Mickey J. Meyer', 'z2CDmSOubqc', 'Kothabangarulokam'],
+      ['Kalasalalo', 'TELUGU', '2008', 'Mickey J. Meyer', 'sz9265SpFG8', 'Kothabangarulokam'],
+      ['Hrudayam Ekkadunnadi', 'TELUGU', '2005', 'Harris Jayaraj', 'mMvmAwnMBDk', 'Ghajini'],
+      ['Kadavulae Vidai Reprise', 'TAMIL', '2017', 'Anirudh ', 'y6DOhiLT3xA', 'Rum'],
+      ['Niddura Potunna', 'TELUGU', '2002', 'Koti', 'WJkCZTWLdN0', 'Nuvve Nuvve'],
+      ['Mari Antaga', 'TELUGU', '2013', 'Mickey J. Meyer', 'hCs8x7-67lk', 'Seethamma Vakitlo Sirimalle Chettu'],
+      ['Anaganaga Kadala', 'TELUGU', '2004', 'Devi Sri Prasad', 'licnf9o83yc', 'Venky'],
+
     ],
     'informations': {}
   }
