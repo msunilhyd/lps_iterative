@@ -257,7 +257,7 @@ const playlists = {
       ['Ghar More Pardesiya', 'HINDI', '2019', 'Pritam', 'pp8vAFFc5E0', 'Kalank'],
       ['Tung Tung Baje', 'HINDI', '2015', '\tSneha Khanwalkar', 'u2VhHGAtr4g', 'Singh Is Bliing'],
       ['Oy..Oy..', 'TELUGU', '2009', 'Yuvan Shankar Raja', 'dGH-YczynDc', 'Oy'],
-      ['Girl Friend', 'TAMIL', '2003', 'A R Rahman', 'dif1k6ktatU', 'Boys'],
+      ['Girl Friend', 'TAMIL', '2003', 'A R Rahman', 'nLltchYVDmc', 'Boys'],
       ['Nidhare Kala', 'TELUGU', '2008', 'Harris Jayaraj', 'ie4cp9GK75s', 'Surya S/o Krishnan'],
       ['Nuvve Na Shwasa', 'TELUGU', '2003', 'M.M.Keeravani', 't_rrenXqs3o', 'Okariki Okaru'],
       ['Naan Nee', 'TAMIL', '2014', 'Santhosh Narayanan', 'VMYWqrlB7Gc', 'Madras'],
@@ -670,6 +670,11 @@ const playlists = {
       ['Iru Vizhi Unadhu', 'TAMIL', '2001', 'Harris Jayaraj', 'eFXQAIysMZI', 'Minnale'],
       ['Mudhal Mazhai', 'TAMIL', '2008', 'Harris Jayaraj', 'TjF5t5MNjQI', 'Bheema'],
       ['Mona Gasolina Cover', 'TAMIL', '2014', 'A. R. Rahman', '99FMOcFP7-A', 'Lingaa'],
+      ['Montages Music Bit', 'TELUGU', '2002', 'Harris Jayaraj', 'H9jczk_LA8g', 'Vaasu'],
+      ['Music Bit - Vasu', 'TELUGU', '2002', 'Harris Jayaraj', 'XoqXEdsB74c', 'Vaasu'],
+      ['Interval Bang Music Bit', 'TELUGU', '2002', 'Harris Jayaraj', 'zhfvbBgv6z0', 'Vaasu'],
+      ['PYAR KARKE', 'HINDI', '2006', 'Pritam', 'otV2SK65MmA', 'PYAR KE SIDE EFFECTS'],
+      ['DIL TOD KE NA JA', 'HINDI', '2006', 'Pritam', 'QTHZIWjB5Cw', 'PYAR KE SIDE EFFECTS'],
     ],
     'informations': {}
   }
