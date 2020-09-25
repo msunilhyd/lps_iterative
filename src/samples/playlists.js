@@ -26,7 +26,7 @@ const playlists = {
       ['Sarvam Thaala Mayam', 'TAMIL', '2019', 'A.R Rahman', 'd3OZVsHG9TM', 'Sarvam Thaala Mayam'],
       ['Yaen Ennai Pirindhaai', 'TAMIL', '2019', 'Radhan', '0N7vZlaRHZ0', 'Adithya varma'],
       ['Soul Sister', 'ENGLISH', '2009', 'Train', 'JloUN9j9cJ8', 'Hey, Soul Sister: Remixes EP'],
-      ['Hey Ya!', 'HINDI', '2010', 'Shan-Ehsa-Loy.', 'wLH4rrmIT60', 'Karthik Calling Karthik'],
+      ['Hey Ya!', 'HINDI', '2010', 'Shan-Ehsan-Loy.', 'wLH4rrmIT60', 'Karthik Calling Karthik'],
       ['The Nights', ' ENGLISH', '2014', 'Avicii', 'UtF6Jej8yb4', ' FIFA 15 Soundtrack'],
       ['Whenever Wherever', 'ENGLISH', '2001', 'Shakira', 'cZhli2OT5Rg', 'Laundry Service'],
       ['En Kadhal Solla', 'TAMIL', '2010', 'Yuvan Shankar Raja', '61U0e-i4jSw', 'Paiya'],
@@ -295,9 +295,7 @@ const playlists = {
       ['Mukkala Mukabula ', 'TAMIL', '1994', 'A R Rahman', 'qfcx50xu9qU', 'Kaadhalan'],
       ['Marana Mass', 'TAMIL', '2019', 'Anirudh', '88iypMO9H7g', 'Petta'],
       ['Chill Bro', 'TAMIL', '2020', 'Vivek–Mervin', 'pHxz8l1iWU4', 'Pattas'],
-      ['O Sathiya', 'HINDI', '2012', 'Chakri', 'WLizJz1Wi4Y', 'Billu'],
       ['Not Afraid', 'ENGLISH', '2010', ' Eminem', 'j5-yKhDd64s', 'Road to Recovery: Withdrawal'],
-      ['Hare Rama', 'TELUGU', '2003', 'Mani Sharma', 'NFADCq_qWik', 'Okkadu'],
       ['Gal Mitthi Mitthi', 'HINDI', '2010', ' Amit Trivedi', 'iKs0WgXjTKI', 'Aisha'],
       ['Kalasalalo', 'TELUGU', '2008', 'Mickey J. Meyer', 'sz9265SpFG8', 'Kothabangarulokam'],
       ['Tujh Mein Rab Dikhta Hai', 'HINDI', '2008', 'Salim-Sulaiman', 'Vq8lbcb0Lcw', 'Rab Ne Bana Di Jodi'],
@@ -677,8 +675,11 @@ const playlists = {
       ['Kaatu Mooliyo', 'MALAYALAM', '2015', 'Shaan Rahman', 'vilA6jt5w6Y', 'Ohm Shanthi Oshaana'],
       ['Nammave Ammai ', 'TELUGU', '2002', 'Harris Jayaraj', '0X76GY-iKFU', 'Vaasu'],
       ['Gulabi Kallu', 'TELUGU', '2014', 'Yuvan Shankar Raja', 'I4oP0mlkAs8', 'Govindudu Andarivadele'],
-      ['Petta Paraak', 'TAMIL', '2019', 'Anirudh', '1GmIp526v0M', 'Petta']
+      ['Petta Paraak', 'TAMIL', '2019', 'Anirudh', '1GmIp526v0M', 'Petta'],
      
+      ['Bulleya', 'HINDI', '2016', 'Pritam', 'zJ0KO4Kec3w', 'Ae Dil Hai Mushkil'],
+
+      ['Mere Naseeb Mein', 'HINDI', '2006', '-', 'bnjYVnQ_cPA', '-'],
 
     ],
     'informations': {}

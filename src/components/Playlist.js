@@ -299,9 +299,13 @@ class Playlist extends Component {
 						</div>
 					</div>
 					<div className="card-block">
+					<div class="frame-container">
+   
 						<div className="videowrapper" style={{display: 'block'}}>
 							<div id={`${playlist.slug}-player`}></div>
 							<hr/>
+						</div>
+
 						</div>
 						<div id={`${playlist.slug}-songs`} className="songs">
 							{this.renderSongs()}
