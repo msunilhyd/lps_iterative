@@ -700,6 +700,8 @@ const playlists = {
       ['Matarani Mounamidi', 'TELUGU', '1988', 'IlayaRaaja', 'kzAs4ErMs08', 'Maharshi'],
       ['Subhalekha Rasukunna', 'TELUGU', '1990', 'IlayaRaaja', 'mKzXohdSc4c', 'Kondaveeti Donga'],
       ['Chiluka Kshemama', 'TELUGU', '1991', 'Bappi Lahiri', 'WeTFUAe7Rvs', 'Rowdy Alludu'],
+      ['New York Nagaram', 'TELUGU', '2006', 'A. R. Rahman', 'CMNHVLbC9As', 'Nuvvu Nenu Prema'],
+      ['I love You', 'HINDI', '2011', 'Pritam', 'UKQ0BuFErq4', 'Bodyguard'],
     ],
     'informations': {}
   }
