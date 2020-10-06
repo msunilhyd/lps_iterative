@@ -693,7 +693,9 @@ const playlists = {
       ['The Dark Knight Main Theme', 'ENGLISH', '2008', 'Hans Zimmer ', 'iGx5a1ifSDs', 'The Dark Knight'],
       ['Why so Serious?', 'ENGLISH', '2008', 'Hans Zimmer ', 's2Lo047gK0U', 'The Dark Knight'],
       ['Skyfall', 'ENGLISH', '2012', 'Adele', 's2Lo047gK0U', 'Skyfall'],
-
+      ['Requiem For A Dream', 'ENGLISH', '2000', 'Clint Mansell', 'yVIRcnlRKF8', 'Requiem For A Dream'],
+      ['Baarish Atif Aslam', 'HINDI', '2008', 'Tanishk Bagchi', 'e-ZZRdTAcXg', 'Half Girlfriend'],
+      ['Kannu Kottina', 'TELUGU', '2005', 'Mani Sharma', 'Yej_WEzAjSI', 'Balu'],
     ],
     'informations': {}
   }
