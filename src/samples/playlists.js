@@ -696,6 +696,10 @@ const playlists = {
       ['Requiem For A Dream', 'ENGLISH', '2000', 'Clint Mansell', 'yVIRcnlRKF8', 'Requiem For A Dream'],
       ['Baarish Atif Aslam', 'HINDI', '2008', 'Tanishk Bagchi', 'e-ZZRdTAcXg', 'Half Girlfriend'],
       ['Kannu Kottina', 'TELUGU', '2005', 'Mani Sharma', 'Yej_WEzAjSI', 'Balu'],
+      ['Evare', 'TELUGU', '2016', 'Rajesh Murugesan', 'KG5UfTiBrAo', 'Premam'],
+      ['Matarani Mounamidi', 'TELUGU', '1988', 'IlayaRaaja', 'kzAs4ErMs08', 'Maharshi'],
+      ['Subhalekha Rasukunna', 'TELUGU', '1990', 'IlayaRaaja', 'mKzXohdSc4c', 'Kondaveeti Donga'],
+      ['Chiluka Kshemama', 'TELUGU', '1991', 'Bappi Lahiri', 'WeTFUAe7Rvs', 'Rowdy Alludu'],
     ],
     'informations': {}
   }
