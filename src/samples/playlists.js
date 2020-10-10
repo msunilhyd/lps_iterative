@@ -703,6 +703,7 @@ const playlists = {
       ['Allukonava', 'TELUGU', '2005', 'Vidyasagar', 'd86hdqZvNm0', 'Majaa'],
       ['Velipomaake', 'TELUGU', '2016', 'A. R. Rahman', 'DQ1mCl7JauI', 'Saahasam Swaasaga Saagipo'],
       ['Is This Love', 'HINDI', '2008', 'Pritam', 'bCZ8F-QweM8', 'Kismat Konnection'],
+      ['Rang De', 'TELUGU', '2016', 'Mickey J. Meyer', 'f-NHlc5xLKg', 'A Aa'],
     ],
     'informations': {}
   }
