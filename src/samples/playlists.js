@@ -225,7 +225,6 @@ const playlists = {
       ['Allah Maaf Kare', 'HINDI', '2011', 'Pritam', 'BhtHOzkQRpI', 'Desi Boyz'],
       ['Sunn Raha Hai (Female) ', 'HINDI', '2013', 'Ankit Tiwari', '49Yo4_9zNQ8', ' Aashiqui 2'],
       ['Main Agar Kahoon', 'HINDI', '2007', 'Vishal-Shekhar', 'DAYszemgPxc', 'Om Shanti Om'],
-      ['Neekosam', 'TELUGU', '2004', 'M.M.Keeravani', 'wnYY3S-C2sA', 'Nenunnanu'],
       ['Jimikki Kammal', 'MALAYALAM', '2017', 'Shaan Rahman', 'IvkVJt4lhGA', 'Velipadinte Pusthakam'],
       ['Neruppu Da', 'TAMIL', '2016', 'Santhosh Narayanan', 'LHaGDT6Pdbk', 'Kabali'],
       ['Whatever', 'ENGLISH', '1994', 'Oasis', 'cAa4BN_Uadc', 'Definitely Maybe'],
@@ -278,7 +277,6 @@ const playlists = {
       ['Stairway To Heaven', ' ENGLISH', '1971', ' Led Zeppelin', 'QkF3oxziUI4', 'The Song Remains Same'],
       ["It's Rocking ", 'HINDI', '2007', 'Pritam', 'TF5PU-0zyIY', 'Kya Love Story Hai'],
       ['Lighters', 'ENGLISH', '2011', 'Bad Meets Evil', 'qJHiMGomJ_A', 'Hell: The Sequel'],
-      ['Vastha Nee Venuka', 'TELUGU', '2006', 'A. R. Rahman', 'D_4nLWISLu4', 'Naani'],
       ['Raanjhanaa', 'HINDI', '2013', 'AR Rahman', 'OsTGp5n6w5E', 'Raanjhanaa'],
       ['Roja Kadale', 'TAMIL', '2015', 'Harris Jayaraj', '9hVjc3sUSjA', 'Anegan'],
       ['Roobaroo', 'HINDI', '2006', 'A. R. Rahman', 'BrfRB6aTZlM', 'Rang De Basanti'],
@@ -441,7 +439,7 @@ const playlists = {
       ['On Our Way', 'ENGLISH', '2013', 'The Royal Concept', '976Hiy4M6lE', 'Goldrushed'],
       ['Hay Rey Hai', 'TELUGU', '2003', 'Mani Sharma', 'CcYZTrEe4TE', 'Okkadu'],
       ['Try', 'ENGLISH', '2012', ' Pink', 'pPtlSF4TlJE', 'The Truth About Love'],
-      ['Neekosam', 'TELUGU', '2006', 'Yuvan Shankar Raja', 'JuQucW4cJ4Y', 'Happy'],
+      ['Neekosam oka', 'TELUGU', '2006', 'Yuvan Shankar Raja', 'JuQucW4cJ4Y', 'Happy'],
       ['Sweety', 'TELUGU', '2014', 'S. Thaman', 'FqfQVtbClQM', 'Race Gurram'],
       ['Tum Mile Rock', 'HINDI', '2009', 'Pritam', 'TvfRfddB5rc', ' Tum Mile'],
       ['Gundu Sudhi', 'TELUGU', '2005', 'M. M. Keeravani', 'qwxmSWBkwzY', 'Chatrapathi'],
@@ -588,7 +586,7 @@ const playlists = {
       ['Tujh Mein Rab Dikhta Hai Female', 'HINDI', '2008', 'Salim-Sulaiman', 'LlB3Oo6rckI', 'Rab Ne Bana Di Jodi'],
       ['Shankerdada M B B S', 'TELUGU', '2004', 'Devi Sri Prasad', 'qNgevDkZERQ', 'Shankardada M B B S '],
       ['O Prema', 'TELUGU', '2002', 'Harris Jayaraj', 'Q1HHRvWksE8', 'Vaasu'],
-      ['Tere Bin', 'HINDI', '2006', 'Mithoon', 'yIrU21hoHys', 'Bas Ek Pal'],
+      ['Tere Bin Kaise', 'HINDI', '2006', 'Mithoon', 'yIrU21hoHys', 'Bas Ek Pal'],
       ['Konte Chooputho', 'TELUGU', '2008', 'James Vasanthan', 'dhIrlFsz50w', 'Anantapuram 1980'],
       ['Bailamos', 'HINDI', '1999', ' Enrique Iglesias', '5sye_VxmNZA', 'Cosas del Amor'],
       ['Little Talks', 'ENGLISH', '2011', 'Of Monsters and Men', 'ghb6eDopW8I', 'My Head Is an Animal'],
@@ -710,7 +708,6 @@ const playlists = {
       ['Aathadi Aathadi', 'TAMIL', '2015', 'Harris Jayaraj', 'fv56eF3f1sk', 'Anegan'],
       ['Nallai Allai', 'TAMIL', '2017', 'AR Rahman', 'Ixiq9ysnqos', 'Kaatru Veliyidai'],
       ['Memories (Cover)', 'ENGLISH', '2019', 'Maroon 5', 'XB6yjGVuzVo', 'Memories'],
-
     ],
     'informations': {}
   }
