@@ -293,7 +293,7 @@ const playlists = {
       ['Chukkallara Choopullara', 'TELUGU', '1992', 'M. M. Keeravani', 'htGOXmZtmXU', 'Aapadbandhavudu'],
       ['High Hopes', 'ENGLISH', '1994', 'Pink Floyd', '7jMlFXouPk8', 'The Division Bell'],
       ['Mukkala Mukabula ', 'TAMIL', '1994', 'A R Rahman', 'qfcx50xu9qU', 'Kaadhalan'],
-      ['Marana Mass', 'TAMIL', '2019', 'Anirudh', '88iypMO9H7g', 'Petta'],
+      ['Marana Mass', 'TAMIL', '2019', 'Anirudh', 'HHk-Fk7wTfo', 'Petta'],
       ['Chill Bro', 'TAMIL', '2020', 'Vivek–Mervin', 'pHxz8l1iWU4', 'Pattas'],
       ['Not Afraid', 'ENGLISH', '2010', ' Eminem', 'j5-yKhDd64s', 'Road to Recovery: Withdrawal'],
       ['Gal Mitthi Mitthi', 'HINDI', '2010', ' Amit Trivedi', 'iKs0WgXjTKI', 'Aisha'],
@@ -704,6 +704,13 @@ const playlists = {
       ['Velipomaake', 'TELUGU', '2016', 'A. R. Rahman', 'DQ1mCl7JauI', 'Saahasam Swaasaga Saagipo'],
       ['Is This Love', 'HINDI', '2008', 'Pritam', 'bCZ8F-QweM8', 'Kismat Konnection'],
       ['Rang De', 'TELUGU', '2016', 'Mickey J. Meyer', 'f-NHlc5xLKg', 'A Aa'],
+      ['Naa Hrudayam', 'TELUGU', '2004', 'Devi Sri Prasad', 'MsymghOuogg', 'Yamudu'],
+      ['Chandrullo Unde', 'TELUGU', '2005', 'Devi Sri Prasad', 'ay6IUF_nfWk', 'Nuvvostanante Nenoddantana'],
+      ['Niluvaddham Ninu', 'TELUGU', '2005', 'Devi Sri Prasad', '6ehEgqavu7I', 'Nuvvostanante Nenoddantana'],
+      ['Aathadi Aathadi', 'TAMIL', '2015', 'Harris Jayaraj', 'fv56eF3f1sk', 'Anegan'],
+      ['Nallai Allai', 'TAMIL', '2017', 'AR Rahman', 'Ixiq9ysnqos', 'Kaatru Veliyidai'],
+      ['Memories (Cover)', 'ENGLISH', '2019', 'Maroon 5', 'XB6yjGVuzVo', 'Memories'],
+
     ],
     'informations': {}
   }
