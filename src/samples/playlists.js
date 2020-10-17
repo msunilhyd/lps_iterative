@@ -783,6 +783,7 @@ const playlists = {
       ['Senorita', 'HINDI', '2011', 'Shankar-Ehsaan-Loy', '2Z0Put0teCM', 'Zindagi Na Milegi Dobara'],
       ['Ik Junoon (Paint It Red)', 'HINDI', '2011', 'Shankar-Ehsaan-Loy', 'ivUXoV0qLpE', 'Zindagi Na Milegi Dobara'],
       ['Sarfira', 'HINDI', '2015', 'Shankar-Ehsaan-Loy', 'WMQIl6nAR00', 'Katti Batti'],
+      ['Say Na Say Na', 'HINDI', '2005', 'Vishal-Shekhar', 'sbBgxwf6pJs', 'Bluff Master'],
     ],
     'informations': {}
   }
