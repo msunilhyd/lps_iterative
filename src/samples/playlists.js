@@ -784,6 +784,21 @@ const playlists = {
       ['Ik Junoon (Paint It Red)', 'HINDI', '2011', 'Shankar-Ehsaan-Loy', 'ivUXoV0qLpE', 'Zindagi Na Milegi Dobara'],
       ['Sarfira', 'HINDI', '2015', 'Shankar-Ehsaan-Loy', 'WMQIl6nAR00', 'Katti Batti'],
       ['Say Na Say Na', 'HINDI', '2005', 'Vishal-Shekhar', 'sbBgxwf6pJs', 'Bluff Master'],
+      ['Foxey Lady', 'ENGLISH', '1968', 'Jimi Hendrix', '_PVjcIO4MT4', 'The Jimi Hendrix Experience'],
+      ['Iru Vizhili & Nenjukkul Peidhidum', 'TAMIL', '2014', 'Devan Ekambaram', 'm_tmtqfHj2E', 'Sammy\'s Live Lounge '],
+      ['Mellisaye (Reprise) Manonmani', 'TAMIL', '2018', 'Yeshwanth | Nikhil Mathew', 'Jv477p7GpfM', '-'],
+      ['Munbe Vaa IndoSoul cover', 'TAMIL', '2019', 'A. R. Rahman', 'XwpzrHuwrUQ', 'Sillunu Oru Kaadhal'],
+      ['Harris Jayaraj Flute ', 'TAMIL', '2019', 'Harris Jayaraj', 'arYTVSKYf4Y', '-'],
+      ['Munbe vaa (BGM - All Versions) ', 'TAMIL', '2020', 'A. R. Rahman', '5OunSxegSOA', 'Sillunu Oru Kaadhal'],
+      ['Thalli Pogathey BGM - All Versions', 'TAMIL', '2020', 'A. R. Rahman', '180Vtd5pq1M', 'Achcham Yenbadhu Madamaiyada'],
+      ['Tu Hai BGM - All Versions', 'TAMIL', '2020', 'A. R. Rahman', 'AZ50nf3BxsU', 'MohenjoDaro'],
+      ['TaareGinn-Variant ', 'HINDI', '2005', 'A. R. Rahman', 'f9Ek79iZ05M', 'Dil Bechara'],
+      ['Newyork Nagaram (All Versions)', 'TAMIL', '2020', 'A. R. Rahman', 'XgtkRItub3c', 'Sillunu Oru Kaadhal'],
+      ['Newyork Nagaram Acapella', 'TAMIL', '2020', 'A. R. Rahman', '99cC8x47jdE', 'Sillunu Oru Kaadhal'],
+      ['Ennodu ( Original & Reprise) ', 'TAMIL', '2014', 'AR Rahman', 'M-kH96zWPxM', 'Hummingjays.com'],
+      ['Elay-Bit', 'TAMIL', '2020', 'A. R. Rahman', 'TDsBz8_UvdY', 'Kadal'],
+      ['Masakali Original Theme', 'HINDI', '2020', 'AR Rahman', 'hHehTGHkDTU', 'Dilli 6'],
+
     ],
     'informations': {}
   }
