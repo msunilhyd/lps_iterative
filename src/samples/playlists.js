@@ -798,7 +798,9 @@ const playlists = {
       ['Ennodu ( Original & Reprise) ', 'TAMIL', '2014', 'AR Rahman', 'M-kH96zWPxM', 'Hummingjays.com'],
       ['Elay-Bit', 'TAMIL', '2020', 'A. R. Rahman', 'TDsBz8_UvdY', 'Kadal'],
       ['Masakali Original Theme', 'HINDI', '2020', 'AR Rahman', 'hHehTGHkDTU', 'Dilli 6'],
-
+      ['International Love', 'ENGLISH', '2012', 'Pitbull - Chris Brown', 'mxTuDbJt3VA', '-'],
+      ['Yeah 3x', 'ENGLISH', '2012', 'Chris Brown', 'JKBlEIcqXRo', '-'],
+      ['Good Time', 'ENGLISH', '2008', 'Owl City & Carly Rae Jepsen', 'cmLSizwDGj4', 'Maybe', '-'],
     ],
     'informations': {}
   }
