@@ -5,10 +5,10 @@ const playlists = {
     songs: [
       // Narasimha
       // \, \[ replace with ,\n \[
-      ['Evare Nuvvu', 'TELUGU', '2007', 'Yuvan Shankar Raja', 'CcPXolTwGoI', 'Raju Bhai', 1, 248],
-      ['Karuppi', 'TAMIL', '2018', 'Santhosh Narayanan', '5IXdCWhQG78', 'Pariyerum Perumal', 1, 240],
-      ['Andamaina Premarani', 'TELUGU', '1994', 'A. R. Rahman', 'kqXTFX4mNOg', 'Premikudu', 1, 285],
-      ['Chahoon Bhi Toh', 'HINDI', '2011', 'Harris Jayaraj', 'SIfEDWGVwLs', 'Force', 1, 310],
+      ['Evare Nuvvu', 'TELUGU', '2007', 'Yuvan Shankar Raja', 'CcPXolTwGoI', 'Raju Bhai', 0, 10],
+      ['Karuppi', 'TAMIL', '2018', 'Santhosh Narayanan', '5IXdCWhQG78', 'Pariyerum Perumal', 10, 15],
+      ['Andamaina Premarani', 'TELUGU', '1994', 'A. R. Rahman', 'kqXTFX4mNOg', 'Premikudu', 0, 5],
+      ['Chahoon Bhi Toh', 'HINDI', '2011', 'Harris Jayaraj', 'SIfEDWGVwLs', 'Force', 1, 10],
       ['Aaoge Jab Tum', 'HINDI', '2007', 'Pritam', 'CNZMIhckaA0', ' Jab We Met'],
       ['Yamaha Nagari', 'TELUGU', '1998', 'Mani Sharma', 'L2E5G4koMnk', 'Choodalani Undi'],
       ['I want it that way', ' ENGLISH', '2007', ' Backstreet Boys', 'LwkrXybZ1uo', 'Millennium'],

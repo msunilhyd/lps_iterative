@@ -52,9 +52,15 @@ class PlaylistItem extends Component {
 	    if(this.state.playing === false || this.props.playing !== this.props.song){
 	    	document.title = `Now playing : ${this.state.informations.title}`
 	    	this.props.registerPlaying({informations: this.state.informations, index: this.props.index})
-	      	this.setState({playing: this.props.song})
-			  this.props.player.loadVideoById(this.props.song)
-			//   var songId = this.props.song;
+		 
+			this.setState({playing: this.props.song})
+			  var songId = this.props.song;
+			  this.props.player.seekTo(0);
+			  this.props.player.loadVideoById({videoId: songId, startSeconds: this.props.start, endSeconds: this.props.end})
+			  // this.props.player.loadVideoById({videoId: songId})
+			  this.props.player.playVideo();
+		
+			  //   var songId = this.props.song;
 			//   this.props.player.loadVideoById({videoId: songId, startSeconds: 10, endSeconds: 20})
 
 	    }

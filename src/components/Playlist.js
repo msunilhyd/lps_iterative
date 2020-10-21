@@ -2,7 +2,7 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import PlaylistItem from './PlaylistItem'
-import YouTubePlayer  from 'youtube-player'
+import YouTubePlayer from 'youtube-player'
 import '../css/Playlist.css'
 
 // A BETTER WAY TO INTEGRATE YOUTUBE INTO REACT NATIVE
@@ -17,16 +17,16 @@ class Playlist extends Component {
 	 * We need a state here
 	 * @param  {Object} props 
 	 */
-	constructor(props){
+	constructor(props) {
 		super(props)
 
 		// The state here is very important
 		this.state = {
 			playlist: props.data || {}, // The informations about the playlist (title, description, songs ids, user informations ...)
-			playing: false, // The song which is played right now
+			playing: this.props.data.songs[0][4], // The song which is played right now
 			showPlayer: true, // Showing player or not ?
 			hiddenSongs: true, // Are there too many songs to be shown ?
-			videoIndex: 0, // Index of the song played right now
+			videoIndex: true, // Index of the song played right now
 			prevIndex: 0
 		}
 
@@ -46,13 +46,13 @@ class Playlist extends Component {
 	/**
 	 * Handling several things when the component is mounted
 	 */
-	componentDidMount(){
+	componentDidMount() {
 		// Creating the YouTube player iFrame
 		const player = YouTubePlayer(`${this.props.data.slug}-player`, {
 			// width: '100%',
 			// height: '250',
-			width:"855",
-			height:"480",
+			width: "855",
+			height: "480",
 			playerVars: {
 				autoplay: 1,
 				videoId: this.props.data.songs[0][4],
@@ -61,9 +61,14 @@ class Playlist extends Component {
 
 		// player.playSong();
 		// Binding behaviors on every stateChange of the player
+		player.on('onReady', this.onPlayerReady)
 		player.on('stateChange', this.handleStateChange)
-		player.loadVideoById(this.props.data.songs[0][4])
+		player.loadVideoById({
+			videoId: this.props.data.songs[0][4],
+			startSeconds: this.props.data.songs[0][6], endSeconds: this.props.data.songs[0][7]
+		})
 
+		player.playVideo();
 		// Populating our state here with the player, the playlist data (title, songs ids, user informations, ...)
 		this.setState({
 			player,
@@ -77,22 +82,27 @@ class Playlist extends Component {
 	 * @param  {Object} data The informations about the song which is played
 	 */
 	setPlayingInformations = (data) => {
-		const playlist        = this.state.playlist
-		const playing         = this.state.playing
+		const playlist = this.state.playlist
+		const playing = this.state.playing
 		playlist.informations = data.informations;
 
-		if(playing){
+		if (playing) {
 			const currentPlaylistItem = this.childrenItems.filter(child => child.songId === playing).shift()
-			currentPlaylistItem.item.clearProgressInterval();			
+			currentPlaylistItem.item.clearProgressInterval();
 		}
 
-		this.setState({playlist, prevIndex: playing, playing: data.informations.id, videoIndex: data.index});
+		this.setState({ playlist, prevIndex: playing, playing: data.informations.id, videoIndex: data.index });
 	}
 
 	/**
 	 * Handling every state change on the youtube player to apply it to our components (play, pause, end ...)
 	 * @param  {YouTubeAPIEvent} state The changeState event from the YouTube Player
 	 */
+
+	onPlayerReady = (state) => {
+		this.state.player.playVideo();
+	}
+
 	handleStateChange = (state) => {
 
 		console.log('this.state.prevIndex is :- ' + this.state.prevIndex);
@@ -114,37 +124,29 @@ class Playlist extends Component {
 		// - 5: Ended
 		console.log('state.data is : ' + state.data);
 		console.log('this.state.playing is : ' + this.state.playing);
-	    switch(state.data){
-				case -1: // Playing
-					this.setState({paused: false})
-					if (currentPlaylistItem === undefined){
-						this.state.player.loadVideoById(this.props.data.songs[0][4]);
-						this.setState({
-							playing: this.props.data.songs[0][4]
-						})
-						break;
-					}
-					currentPlaylistItem.item.playSong();
-					break;
-					
-				case 1: // Playing
-					this.setState({paused: false})
-	      	currentPlaylistItem.item.playSong();
-	        break;
-				case 2: // Pause
-	      	this.setState({paused: true})
-	      	currentPlaylistItem.item.pause();
-	        break;
-	      case 0: // Ending
-	      	const index = currentPlaylistItem.index + 1;
-	      	currentPlaylistItem.item.pause();
-	      	const nextPlaylistItem = this.childrenItems.filter(data => data.index === index).shift()
-	      	if(nextPlaylistItem) nextPlaylistItem.item.playSong();
-	        break;
-	      default:
-	        break;
-	    }
-	  }
+		switch (state.data) {
+			case 1: // Playing
+				this.setState({ paused: false })
+				currentPlaylistItem.item.playSong();
+				break;
+			case -1: // Playing
+				this.setState({ paused: false })
+				currentPlaylistItem.item.playSong();
+				break;
+			case 2: // Pause
+				this.setState({ paused: true })
+				currentPlaylistItem.item.pause();
+				break;
+			case 0: // Ending
+				const index = currentPlaylistItem.index + 1;
+				currentPlaylistItem.item.pause();
+				const nextPlaylistItem = this.childrenItems.filter(data => data.index === index).shift()
+				if (nextPlaylistItem) nextPlaylistItem.item.playSong();
+				break;
+			default:
+				break;
+		}
+	}
 
 	/**
 	 * Registering <PlaylistItem /> children everytime they pop !
@@ -153,7 +155,7 @@ class Playlist extends Component {
 	 * @param  {PlaylistItem} item   The <PlaylistItem />
 	 */
 	registerChild = (index, songId, item) => {
-		this.childrenItems.push({index, songId, item});
+		this.childrenItems.push({ index, songId, item });
 	}
 
 	/**
@@ -172,16 +174,16 @@ class Playlist extends Component {
 	 */
 	removeSong = (id) => {
 		const currentPlaylistItem = this.getChildByVideoId(id) //this.childrenItems.filter(data => data.songId === this.state.playing).shift()
-		if(currentPlaylistItem && currentPlaylistItem.songId === id){
+		if (currentPlaylistItem && currentPlaylistItem.songId === id) {
 			currentPlaylistItem.item.clearProgressInterval();
 			const nextPlaylistItem = this.getChildByVideoId(currentPlaylistItem.index + 1) //this.childrenItems.filter(data => data.index === currentPlaylistItem.index + 1).shift()
-			if(nextPlaylistItem) {
+			if (nextPlaylistItem) {
 				this.state.player.cueVideoById(nextPlaylistItem.songId)
 			};
 		}
-		const playlist = {...this.state.playlist}
+		const playlist = { ...this.state.playlist }
 		playlist.songs = playlist.songs.filter(song => song !== id);
-		this.setState({playlist});
+		this.setState({ playlist });
 	}
 
 	/**
@@ -189,7 +191,7 @@ class Playlist extends Component {
 	 */
 	togglePlayer = () => {
 		this.setState((prevState, props) => {
-			return {showPlayer: !prevState.showPlayer}
+			return { showPlayer: !prevState.showPlayer }
 		})
 	}
 
@@ -197,64 +199,68 @@ class Playlist extends Component {
 	 * Handling the songs visibiliy
 	 */
 	toggleHidden = () => {
-		this.setState({hiddenSongs: false})
+		this.setState({ hiddenSongs: false })
 	}
 
 	/**
 	 * Rendering all the <PlaylistItem /> 
 	 * @return {JSX/HTML} Each song in our playlist become a <PlaylistItem /> component
 	 */
-	renderSongs(){
+	renderSongs() {
 		const playlist = this.state.playlist
 		// console.log('length of playlist is : ' + playlist.length)
-		if(playlist.songs){
+		if (playlist.songs) {
 			// console.log('playlist.songs is: ' + playlist.songs)
 			// const chunkSize = 6
-			const playlistitems =  playlist.songs.map((song, index) => {
+			const playlistitems = playlist.songs.map((song, index) => {
 				// console.log('index is :- ' + index	)
 				return (
-					index % 7 === 0 && index > 0? 
-					<div>
-					<br></br>
-					<br></br>
-					<br></br>
-					
-					<div key={song[0]} className={`playlist-item`}>
-						<PlaylistItem 
+					index % 7 === 0 && index > 0 ?
+						<div>
+							<br></br>
+							<br></br>
+							<br></br>
+
+							<div key={song[0]} className={`playlist-item`}>
+								<PlaylistItem
+									key={song[4]}
+									title={song[0]}
+									index={index}
+									song={song[4]}
+									language={song[1]}
+									composer={song[3]}
+									movie={song[5]}
+									start={song[6]}
+                  					end={song[7]}
+									player={this.state.player}
+									playing={this.state.playing}
+									registerPlaying={this.setPlayingInformations}
+									registerAsChild={this.registerChild}
+									removeSong={this.removeSong}
+								/>
+							</div>
+						</div>
+
+						:
+						<div key={song[0]} className={`playlist-item`}>
+							<PlaylistItem
 								key={song[4]}
-								title={song[0]} 
-								index={index}
-								song={song[4]}
-								language={song[1]} 
-								composer={song[3]}
-								movie={song[5]}
-								player={this.state.player}
-								playing={this.state.playing}
-								registerPlaying={this.setPlayingInformations}
-								registerAsChild={this.registerChild}
-								removeSong={this.removeSong}
-							/>
-					</div>
-					</div>
-					
-					:
-					<div key={song[0]} className={`playlist-item`}>
-						<PlaylistItem 
-								key={song[4]}
-								title={song[0]} 
+								title={song[0]}
 								index={index}
 								song={song[4]}
 								language={song[1]}
 								composer={song[3]}
-								movie={song[5]} 
+								movie={song[5]}
+								start={song[6]}
+                  				end={song[7]}
 								player={this.state.player}
 								playing={this.state.playing}
 								registerPlaying={this.setPlayingInformations}
 								registerAsChild={this.registerChild}
 								removeSong={this.removeSong}
 							/>
-					</div>
-					
+						</div>
+
 				)
 			})
 			return playlistitems
@@ -271,7 +277,7 @@ class Playlist extends Component {
 	 * Rendering the Playlist component
 	 * @return {JSX/HTML} The playlist template
 	 */
-	render(){
+	render() {
 		const playlist = this.state.playlist
 
 		return (
@@ -299,12 +305,12 @@ class Playlist extends Component {
 						</div>
 					</div>
 					<div className="card-block">
-					<div class="frame-container">
-   
-						<div className="videowrapper" style={{display: 'block'}}>
-							<div id={`${playlist.slug}-player`}></div>
-							<hr/>
-						</div>
+						<div class="frame-container">
+
+							<div className="videowrapper" style={{ display: 'block' }}>
+								<div id={`${playlist.slug}-player`}></div>
+								<hr />
+							</div>
 
 						</div>
 						<div id={`${playlist.slug}-songs`} className="songs">
