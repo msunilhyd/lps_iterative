@@ -5,8 +5,8 @@ const playlists = {
     songs: [
       // Narasimha
       // \, \[ replace with ,\n \[
-      ['Evare Nuvvu', 'TELUGU', '2007', 'Yuvan Shankar Raja', 'CcPXolTwGoI', 'Raju Bhai', 0, 246],
-      ['Karuppi', 'TAMIL', '2018', 'Santhosh Narayanan', '5IXdCWhQG78', 'Pariyerum Perumal', 0, 240],
+      ['Evare Nuvvu', 'TELUGU', '2007', 'Yuvan Shankar Raja', 'CcPXolTwGoI', 'Raju Bhai', 0, 248],
+      ['Karuppi', 'TAMIL', '2018', 'Santhosh Narayanan', '5IXdCWhQG78', 'Pariyerum Perumal', 0, 241],
       ['Andamaina Premarani', 'TELUGU', '1994', 'A. R. Rahman', 'kqXTFX4mNOg', 'Premikudu', 0, 286],
       ['Chahoon Bhi Toh', 'HINDI', '2011', 'Harris Jayaraj', 'SIfEDWGVwLs', 'Force', 0, 290],
       ['Aaoge Jab Tum', 'HINDI', '2007', 'Pritam', 'CNZMIhckaA0', ' Jab We Met', 0, 352],
