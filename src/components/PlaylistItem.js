@@ -54,7 +54,9 @@ class PlaylistItem extends Component {
 	    	this.props.registerPlaying({informations: this.state.informations, index: this.props.index})
 		 
 			this.setState({playing: this.props.song})
-			  var songId = this.props.song;
+			  var songIdMain = this.props.song.split(" ");
+			  console.log(songIdMain);
+			  var songId = songIdMain[0];
 			  this.props.player.seekTo(0);
 			  this.props.player.loadVideoById({videoId: songId, startSeconds: this.props.start, endSeconds: this.props.end})
 			  // this.props.player.loadVideoById({videoId: songId})

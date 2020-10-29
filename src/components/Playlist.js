@@ -65,7 +65,8 @@ class Playlist extends Component {
 		player.on('stateChange', this.handleStateChange)
 		player.loadVideoById({
 			videoId: this.props.data.songs[0][4],
-			startSeconds: this.props.data.songs[0][6], endSeconds: this.props.data.songs[0][7]
+			startSeconds: this.props.data.songs[0][6], 
+			endSeconds: this.props.data.songs[0][7]
 		})
 
 		player.playVideo();
@@ -73,7 +74,6 @@ class Playlist extends Component {
 		this.setState({
 			player,
 			playlist: this.props.data,
-			hiddenSongs: this.props.data.songs && this.props.data.songs.length > 3
 		});
 	}
 
@@ -88,7 +88,6 @@ class Playlist extends Component {
 
 		if (playing) {
 			const currentPlaylistItem = this.childrenItems.filter(child => child.songId === playing).shift()
-			currentPlaylistItem.item.clearProgressInterval();
 		}
 
 		this.setState({ playlist, prevIndex: playing, playing: data.informations.id, videoIndex: data.index });
@@ -223,7 +222,7 @@ class Playlist extends Component {
 
 							<div key={song[0]} className={`playlist-item`}>
 								<PlaylistItem
-									key={song[4]}
+									key={song[0]}
 									title={song[0]}
 									index={index}
 									song={song[4]}
@@ -244,7 +243,7 @@ class Playlist extends Component {
 						:
 						<div key={song[0]} className={`playlist-item`}>
 							<PlaylistItem
-								key={song[4]}
+								key={song[0]}
 								title={song[0]}
 								index={index}
 								song={song[4]}
@@ -305,7 +304,7 @@ class Playlist extends Component {
 						</div>
 					</div>
 					<div className="card-block">
-						<div class="frame-container">
+						<div className="frame-container">
 
 							<div className="videowrapper" style={{ display: 'block' }}>
 								<div id={`${playlist.slug}-player`}></div>
