@@ -4,7 +4,6 @@ const playlists = {
     title: 'playlistKi',
     songs: [
       // \, \[ replace with ,\n \[
-        ['Get Low', 'ENGLISH', '2014', 'Dillon Francis, DJ Snake', '12CeaxLiMgE', 'Get Low'],
         ['The Karma Theme', 'TELUGU', '2018', 'Anirudh', '1himtoWeA_U', 'U Turn', 7, ],
         ['Home', 'ENGLISH', '2012', 'Phillip Phillips', 'HoRkntoHkIE', 'The World from the Side of the Moon'],
         ['Gone, Gone, Gone', 'ENGLISH', '2012', 'Phillip Phillips', 'oozQ4yV__Vw', 'The World from the Side of the Moon', 5],
@@ -23,6 +22,7 @@ const playlists = {
         ['Good Feeling', 'ENGLISH', '2011', 'Flo Rida', '3OnnDqH6Wj8', 'Absolute Hits 2011'],
         ['Drive By', 'ENGLISH', '2012', 'Train', 'oxqnFJ3lp5k', 'California 37'],
         ['Unnattundi Gundey BGM 1', 'TELUGU', '2017', 'Gopi Sunder', 'AuLFjwS2sIU', 'Ninnu Kori', 0, 46],
+        ['Get Low', 'ENGLISH', '2014', 'Dillon Francis, DJ Snake', '12CeaxLiMgE', 'Get Low'],
         ['Unnattundi Gundey BGM 2', 'TELUGU', '2017', 'Gopi Sunder', 'z8N-KUVG9Uk', 'Ninnu Kori', 0, 84],
         ['Glad You Came', 'ENGLISH', '2012', ' The Wanted', 'XsMvL1uvl_o', 'The Wanted', 0, 190],
         ['Gerua', 'HINDI', '2015', 'Pritam', 'pRCQEI4GGr8', 'Dilwale'],
