@@ -4,6 +4,17 @@ const playlists = {
     title: 'playlistKi',
     songs: [
       // \, \[ replace with ,\n \[
+        // Padayappa BGM
+        // https://www.youtube.com/c/BGMScore_1/videos
+        // https://www.youtube.com/watch?v=OSZCFFpix2g
+        // https://www.youtube.com/watch?v=poJlUQt8KTk
+        // https://www.youtube.com/watch?v=N86ZRsX6SwA
+
+        ['Wavin\' Flag', 'ENGLISH', '2009', 'K\'naan (Feat. Will.i.am, David Guetta) ', 'h9eV9t9EPic', 'Troubadour'],
+        ['Justice League Theme', 'ENGLISH', '2002', 'Lolita Ritmanis', 'tFVkIqlKNfE', 'Justice League Theme'],
+        ['The Sign', 'ENGLISH', '1993', 'Ace of Base', 'NIPPh7AWSt4', 'Happy Nation'],
+        ['Wind Of Change', 'ENGLISH', '1990', 'Scorpions', 'n4RjJKxsamQ', 'Crazy World'],
+        ['Children', 'ENGLISH', '1996', 'Robert Miles', '6QEPrDBMqJ0', 'Dreamland'],
         ['The Karma Theme', 'TELUGU', '2018', 'Anirudh', '1himtoWeA_U', 'U Turn', 7, ],
         ['Home', 'ENGLISH', '2012', 'Phillip Phillips', 'HoRkntoHkIE', 'The World from the Side of the Moon'],
         ['Gone, Gone, Gone', 'ENGLISH', '2012', 'Phillip Phillips', 'oozQ4yV__Vw', 'The World from the Side of the Moon', 5],
@@ -17,7 +28,6 @@ const playlists = {
         ['Escape', 'ENGLISH', '2001', 'Enrique Iglesias', 'X5lRRZtjpFU', 'Escape'],
         ['The Ketchup Song', 'SPANGLISH', '2002', 'Las Ketchup', 'AMT698ArSfQ', 'Hijas del Tomate'],
         ['Barbie Girl', 'ENGLISH', '1997', 'Aqua', 'yjrrG_JWD_Q', 'Aquarium', 0, 192],
-        ['Shankerdada M B B S', 'TELUGU', '2004', 'Devi Sri Prasad', 'A-EV65own7E', 'Shankardada M B B S ', 1840, 2135],
         ['So Good', 'ENGLISH', '2012', ' B.o.B', 'IoBP24I2lwA', 'Strange Clouds'],
         ['Good Feeling', 'ENGLISH', '2011', 'Flo Rida', '3OnnDqH6Wj8', 'Absolute Hits 2011'],
         ['Drive By', 'ENGLISH', '2012', 'Train', 'oxqnFJ3lp5k', 'California 37'],
@@ -26,6 +36,7 @@ const playlists = {
         ['Unnattundi Gundey BGM 2', 'TELUGU', '2017', 'Gopi Sunder', 'z8N-KUVG9Uk', 'Ninnu Kori', 0, 84],
         ['Glad You Came', 'ENGLISH', '2012', ' The Wanted', 'XsMvL1uvl_o', 'The Wanted', 0, 190],
         ['Gerua', 'HINDI', '2015', 'Pritam', 'pRCQEI4GGr8', 'Dilwale'],
+        ['Padaiyappa', 'TAMIL', '1999', 'A. R. Rahman', 'aEF-VG3ePp0', 'Padaiyappa'],
         ['Munbe Vaa Violin', 'TAMIL', '2006', 'A. R. Rahman', 'cBlt5xg_y5g', 'Sillunu Oru Kaadhal'],
         ['Try', 'ENGLISH', '2012', ' Pink', 'pPtlSF4TlJE', 'The Truth About Love'],
         ['Vinnaithandi Varuvaya BGM 2', 'TAMIL', '2010', 'A R Rahman', 'UExpfg6vdbU', 'Vinnaithaandi Varuvaayaa'],
@@ -45,6 +56,7 @@ const playlists = {
         ['Bachna Ae Haseeno', 'HINDI', '2008', 'Vishal-Shekhar', 'bh2O4oyB1UM', 'Bachna Ae Haseeno'],
         ['See You Again - live', 'ENGLISH', '2010', 'Charlie Puth', '37Vh_etC18w', 'See You Again'],
         ['Manasa Ottu', 'TELUGU', '2003', 'M. M. Keeravani', 'UKSjkZJsMQY', 'Pilisthe Palukutha'],
+        ['Changure Changure', 'TELUGU', '1999', 'M. M. Keeravani', 'SWF98ohkddg', 'Sitha Rama Raju'],
         ['Kaalaiyil dhinamum bgm 2', 'TAMIL', '2004', 'A. R. Rahman', '17n2dLNm0aQ', 'New'],
         ['Judai', 'HINDI', '2008', 'Pritam', '_yOrZ9dKAzI', 'Jannat'],
         ['Tera Hone Laga Hoon', 'HINDI', '2009', 'Pritam', 'rTuxUAuJRyY', 'Ajab Prem Ki Ghazab Kahani'],
@@ -73,6 +85,7 @@ const playlists = {
         ['Sun Saathiya', 'HINDI', '2015', 'Sachin - Jigar', '_NWaYjsz3qY', 'ABCD 2'],
         ['Apologize', 'ENGLISH', '2006', 'OneRepublic', '5ub14kkXKKc', ' Apologize'],
         ['Anaganaga Kadala', 'TELUGU', '2004', 'Devi Sri Prasad', 'licnf9o83yc', 'Venky'],
+        ['Monalisa', 'TAMIL', '1996', 'AR RAHMAN', 'rmkG6gZw__w', 'Mr Romeo'],
         ['My Heart Will Go On', 'ENGLISH', '2013', 'Celine Dion', 'pZk_YV7yqeA', "Let's talk about love"],
         ['Kaali Theme', 'TAMIL', '2019', 'Anirudh', 'lAUUTzmQy0Y', 'Petta'],
         ['Gerua/Kabira', 'HINDI', '2016', 'Bryden-Parth', 'pns3P7DNad8', 'Dilwale'],
@@ -236,6 +249,7 @@ const playlists = {
         ['New York Nagaram', 'TELUGU', '2006', 'A. R. Rahman', 'CMNHVLbC9As', 'Nuvvu Nenu Prema'],
         ['Faded', 'ENGLISH', '2015', 'Alan Walker', '60ItHLz5WEA', '-'],
         ['Kannu Kottina', 'TELUGU', '2005', 'Mani Sharma', 'Yej_WEzAjSI', 'Balu'],
+        ['Kuch Kuch Hota Hain', 'HINDI', '1998', 'Jatin Lalit', '7Je-CLxkYVQ', 'Kuch Kuch Hota Hain'],
         ['TaareGinn-Variant ', 'HINDI', '2005', 'A. R. Rahman', 'f9Ek79iZ05M', 'Dil Bechara'],
         ['Nothing Else Matters Cover', 'ENGLISH', '1992', 'Metallica-Thaikkudam Bridge', 'PqEr-03xbkU', 'Metallica'],
         ['TiK ToK', ' ENGLISH', '2009', ' Kesha', 'iP6XpLQM2Cs', 'TiK ToK'],
@@ -247,6 +261,7 @@ const playlists = {
         ['Oh Oh', 'TAMIL', '2015', 'Anirudh ', 'mSwGIp24CqQ', 'Thanga Magan'],
         ['International Love', 'ENGLISH', '2012', 'Pitbull - Chris Brown', 'mxTuDbJt3VA', '-'],
         ['Minnale BGM 3', 'TAMIL', '2001', 'Harris Jayaraj', 'spOpmgPNvr0', 'Minnale'],
+        ['Maa Tujhe Salam', 'TAMIL', '1997', 'A. R. Rahman', 'e60xy-jt_zI', 'Vande Mataram'],
         ['Icky thump', 'ENGLISH', '2007', 'The White Stripes', 'm1KyC_LzvzQ', 'Icky Thump'],
         ['Thangamey', 'TAMIL', '2015', 'Anirudh', 'i0OxPAPoIm0', 'Naanum Rowdy Dhaan'],
         ['Wake Me Up', ' ENGLISH', '2013', 'Avicii', 'SsYXnH9lzCY', 'True'],
@@ -268,7 +283,8 @@ const playlists = {
         ['Mari Antaga', 'TELUGU', '2013', 'Mickey J. Meyer', 'hCs8x7-67lk', 'Seethamma Vakitlo Sirimalle Chettu', 15, 240],
         ['Aye Sinamika', 'TAMIL', '2015', 'A. R. Rahman', 'nj5X_9AHh_k', 'OK Kanmani'],
         ['Lighters', 'ENGLISH', '2011', 'Bad Meets Evil', 'qJHiMGomJ_A', 'Hell: The Sequel'],
-        ['Bole Chudiyan', 'HINDI', '2016', 'Jatin Lalit', 'k8Yn6c7k7Qw', 'Kabhi Khushi Kabhie Gham'],
+        ['Ke Ghar Kab Aaoge', 'HINDI', '1997', 'Anu Malik', 'OunpPA0cYdM', 'Border'],
+        ['Bole Chudiyan', 'HINDI', '2001', 'Jatin Lalit', 'k8Yn6c7k7Qw', 'Kabhi Khushi Kabhie Gham'],
         ['Idhazhin Oram', 'TAMIL', '2012', 'Anirudh ', 'lZORMUufA_Y', '3'],
         ['Sarfira', 'HINDI', '2015', 'Shankar-Ehsaan-Loy', 'WMQIl6nAR00', 'Katti Batti'],
         ['Please Sir', 'TAMIL', '2003', 'A R Rahman', 'RKuT8WXhhTM', 'Boys'],
@@ -344,6 +360,7 @@ const playlists = {
         ['Whataya Want From Me', 'ENGLISH', '2009', 'Adam Lambert', 'Rd78eThTuNM', 'For Your Entertainment'],
         ['The Saltwater Room', 'ENGLISH', '2008', 'Adam Young', 'qMp3TIVYwwk', 'Maybe', 'I am Dreaming'],
         ['Tera Hua', 'HINDI', '2018', 'Tanishk Bagichi', '-4JV4hur1PM', 'Loveyatri'],
+        ['Arere Arere', 'TELUGU', '2007', 'Mickey J. Meyer', 'ta8SNlHsEdk', 'Happy Days'],
         ['Mallikale', 'TAMIL', '1996', 'AR RAHMAN', 'BB6hjWrHRHQ', 'Mr Romeo'],
         ['Yaanji', 'TAMIL', '2017', 'Anirudh ', 'bWK3EuroEk4', 'Vikram Vedha'],
         ['Suno Aisha', 'HINDI', '2010', 'Amit Trivedi', '49WSoibFQDo', 'Aisha'],
