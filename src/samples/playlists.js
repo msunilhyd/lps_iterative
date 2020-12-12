@@ -26,7 +26,7 @@ const playlists = {
         ['One Day At A Time', 'ENGLISH', '2010', 'Enrique Iglesias - Akon', '_QtiYzyf2C4', 'Euphoria'],
         ['Hold my hand', 'ENGLISH', '2010', 'Michael Jackson - Akon', '-oCCnxBos10', 'Jackson’s Paradise', 9, 214],
         ['Escape', 'ENGLISH', '2001', 'Enrique Iglesias', 'X5lRRZtjpFU', 'Escape'],
-        ['The Ketchup Song', 'SPANGLISH', '2002', 'Las Ketchup', 'AMT698ArSfQ', 'Hijas del Tomate'],
+        ['The Ketchup Song', 'SPANISH', '2002', 'Las Ketchup', 'AMT698ArSfQ', 'Hijas del Tomate'],
         ['Barbie Girl', 'ENGLISH', '1997', 'Aqua', 'yjrrG_JWD_Q', 'Aquarium', 0, 192],
         ['So Good', 'ENGLISH', '2012', ' B.o.B', 'IoBP24I2lwA', 'Strange Clouds'],
         ['Good Feeling', 'ENGLISH', '2011', 'Flo Rida', '3OnnDqH6Wj8', 'Absolute Hits 2011'],
