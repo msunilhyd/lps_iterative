@@ -960,7 +960,7 @@ const playlists = {
         ['4 Minutes', 'ENGLISH', '2016', 'Justin Timberlake & Timbaland & Madonna', 'BgPqNyqYDN4', ' Timbo rnb', 0, ],
         ['7G Brundavan Colony BGM 2', 'TELUGU', '2007', 'Yuvan Shankar Raja', 'i7aSm_lG4yA 2', '7G Brundavan Colony', 43, 86],
         ['7G Brundavan Colony BGM 3', 'TELUGU', '2007', 'Yuvan Shankar Raja', 'i7aSm_lG4yA 3', '7G Brundavan Colony', 86, 143],
-        ['7G Brundavan Colony BGM 3', 'TELUGU', '2007', 'Yuvan Shankar Raja', 'i7aSm_lG4yA 4', '7G Brundavan Colony', 143, ],
+        ['7G Brundavan Colony BGM 4', 'TELUGU', '2007', 'Yuvan Shankar Raja', 'i7aSm_lG4yA 4', '7G Brundavan Colony', 143, ],
         ['Padi padi leche manasu BGM 1', 'TELUGU', '2018', 'Vishal Chandrasekhar', '95LQ35q9hGY 1', 'Padi Padi Leche Manasu', 122, 142],
         ['Tabaah Ho Gaye Male', 'HINDI', '2019', 'Pritam', 'S18EdCH5n7g', ' Kalank', 6, 44],
         ['Padi padi leche manasu BGM 2', 'TELUGU', '2018', 'Vishal Chandrasekhar', '95LQ35q9hGY 2', 'Padi Padi Leche Manasu', 767, 792],
