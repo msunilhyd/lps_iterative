@@ -59,17 +59,18 @@ class Playlist extends Component {
 			}
 		});
 
-		// player.playSong();
+		// const currentPlaylistItem = this.childrenItems.filter(data => data.songId === this.state.playing).shift()
+		// currentPlaylistItem.playSong();
 		// Binding behaviors on every stateChange of the player
-		player.on('onReady', this.onPlayerReady)
+
 		player.on('stateChange', this.handleStateChange)
+		player.on('error', this.handleError);
 		player.loadVideoById({
 			videoId: this.props.data.songs[0][4],
 			startSeconds: this.props.data.songs[0][6], 
 			endSeconds: this.props.data.songs[0][7]
 		})
 
-		player.playVideo();
 		// Populating our state here with the player, the playlist data (title, songs ids, user informations, ...)
 		this.setState({
 			player,
@@ -98,55 +99,60 @@ class Playlist extends Component {
 	 * @param  {YouTubeAPIEvent} state The changeState event from the YouTube Player
 	 */
 
-	onPlayerReady = (state) => {
-		this.state.player.playVideo();
+	handleError = (event) => {
+		console.log('Hello, error occured');
+		const currentPlaylistItem = this.childrenItems.filter(data => data.songId === this.state.playing).shift()
+		const index = currentPlaylistItem.index + 1;
+		currentPlaylistItem.item.pause();
+		const nextPlaylistItem = this.childrenItems.filter(data => data.index === index).shift()
+		if(nextPlaylistItem) nextPlaylistItem.item.playSong();
 	}
 
-	handleStateChange = (state) => {
-
-		console.log('this.state.prevIndex is :- ' + this.state.prevIndex);
-
-		// if(this.state.prevIndex && state.data == -1) {
-		// 	if(state.prevIndex){
-		// 		console.log('state.prevIndex is : '+ state.prevIndex);
-		// 		const prevPlaylistItem = this.childrenItems.filter(data => data.songId === this.state.prevIndex).shift()
-		// 		prevPlaylistItem.item.pause();
-		// 	}
-		// }
+	handleStateChange = (event) => {
 		// Identifying the current playlist item which is played
-		var currentPlaylistItem = this.childrenItems.filter(data => data.songId === this.state.playing).shift()
+		const currentPlaylistItem = this.childrenItems.filter(data => data.songId === this.state.playing).shift()
 
 		// Switch on the stateEvent data
 		// - 0: Stopped
 		// - 1: Playing
 		// - 2: Paused
+		// - 3: Buffering 
+		// - -1: unstarted
 		// - 5: Ended
-		console.log('state.data is : ' + state.data);
-		console.log('this.state.playing is : ' + this.state.playing);
-		switch (state.data) {
-			case 1: // Playing
-				this.setState({ paused: false })
-				currentPlaylistItem.item.playSong();
-				break;
-			case -1: // Playing
-				this.setState({ paused: false })
-				currentPlaylistItem.item.playSong();
-				break;
-			case 2: // Pause
-				this.setState({ paused: true })
-				currentPlaylistItem.item.pause();
-				break;
-			case 0: // Ending
-				const index = currentPlaylistItem.index + 1;
-				currentPlaylistItem.item.pause();
-				const nextPlaylistItem = this.childrenItems.filter(data => data.index === index).shift()
-				if (nextPlaylistItem) nextPlaylistItem.item.playSong();
-				break;
-			default:
-				break;
-		}
-	}
+		console.log(event);
 
+	    switch(event.data){
+		  case  3: // buffering
+	      	this.setState({paused: false})
+	      	currentPlaylistItem.item.playSong();
+			this.state.player.playVideo();
+			break;
+		  case -1: // unstarted
+			console.log(this.state.paused);
+	      	this.setState({paused: false})
+	      	currentPlaylistItem.item.playSong();
+			this.state.player.playVideo();
+			break;
+	      case 1: // Playing
+			console.log(this.state.paused);
+	      	this.setState({paused: false})
+	      	currentPlaylistItem.item.playSong();
+	        break;
+	      case 2: // Pause
+	      	this.setState({paused: true})
+	      	currentPlaylistItem.item.pause();
+	        break;
+	      case 0: // Ending
+			console.log(this.state.paused);
+	      	const index = currentPlaylistItem.index + 1;
+	      	currentPlaylistItem.item.pause();
+	      	const nextPlaylistItem = this.childrenItems.filter(data => data.index === index).shift()
+	      	if(nextPlaylistItem) nextPlaylistItem.item.playSong();
+	        break;
+	      default:
+	        break;
+	    }
+	  }
 	/**
 	 * Registering <PlaylistItem /> children everytime they pop !
 	 * @param  {int} index  The index of the child
