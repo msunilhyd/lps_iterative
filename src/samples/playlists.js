@@ -10,6 +10,13 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
+
+        ['Minnale BGM 7', 'TAMIL', '2001', 'Harris Jayaraj', 'COPf-YMD9Nw 7', 'Minnale', 1958, 2072],
+        ['Minnale BGM 6', 'TAMIL', '2001', 'Harris Jayaraj', 'COPf-YMD9Nw 6', 'Minnale', 1822, 1892],
+        ['Minnale BGM 5', 'TAMIL', '2001', 'Harris Jayaraj', 'COPf-YMD9Nw 5', 'Minnale', 1756, 1784],
+        ['Minnale BGM 4', 'TAMIL', '2001', 'Harris Jayaraj', 'COPf-YMD9Nw 4', 'Minnale', 1596, 1696],
+        ['Minnale BGM 3', 'TAMIL', '2001', 'Harris Jayaraj', 'COPf-YMD9Nw 3', 'Minnale', 533, 596],
+        ['Unnale Unnale BGM 1', 'TAMIL', '2001', 'Harris Jayaraj', 'w9WKEMkAABg 1', 'Unnale Unnale', 748, 786],
         ['Nee Kannu Neeli Samudram', 'TELUGU', '2020', 'Devi Sri Prasad', 'mrqgz4_a4PU', 'Uppena'],
         ['Minnale BGM 1', 'TAMIL', '2001', 'Harris Jayaraj', 'COPf-YMD9Nw 1', 'Minnale', 1168, 1215],
         ['Minnale BGM 2', 'TAMIL', '2001', 'Harris Jayaraj', 'COPf-YMD9Nw 2', 'Minnale', 1423, 1480],
