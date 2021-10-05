@@ -10,8 +10,8 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
-        ['Bangaram remix', 'TELUGU', '2004', 'Vidyasagar', '2zyUNRSlTMI 1', 'Nenu', 941, 1085],
-        ['maro masti', 'TELUGU', '2004', 'Vidyasagar', '2zyUNRSlTMI 2', 'Nenu', 684, 940],
+        ['Thakadimithom', 'TELUGU', '2004', 'Devi Sri Prasad', 'sSwvEC01-W0', 'Arya'],
+        ['Narasimha ', 'TELUGU', '1999', 'A. R. Rahman', '93MGkTcLyW0', 'Narasimha', 0, 320],
         ["DJ Got Us Fallin' In Love", 'ENGLISH', '2010', 'Usher', 'C-dvTjK_07c', 'Versus'],
         ['Bailando', 'ENGLISH', '2013', 'Enrique Iglesias', 'b8I-7Wk_Vbc', 'Bailando (Remixes)'],
         ['Radha', 'HINDI', '2017', 'Pritam', 'loRj95fRX1c', 'Jab Harry Met Sejal'],
