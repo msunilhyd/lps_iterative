@@ -10,6 +10,8 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
+        ['Kanti papa', 'TELUGU', '2020', 'S. Thaman', 'kyAjEb54U8U', 'Vakeel saab', 400, 732],
+        ['Manasa Manasa', 'TELUGU', '2021', 'Gopi Sunder', 'UHNEiOFMk9M', 'Most Eligible Bachelor', 0, 250],
         ['Sonapareeya', 'TAMIL', '2013', 'AR Rahman', 'HdBxoARI7E8', 'Maryan'],
         ['S.T.A.Y.', 'ENGLISH', '2014', 'Hans Zimmer ', 'KckEf9KhMHo', 'Interstellar'],
         ['Vacchindi Kada', 'TELUGU', '2016', 'Mickey J. Meyer', 'iufNhDRBSoQ', 'Brahmotsavam'],
