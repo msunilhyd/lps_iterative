@@ -10,7 +10,9 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
-        ['Kanti papa', 'TELUGU', '2020', 'S. Thaman', 'kyAjEb54U8U', 'Vakeel saab', 400, 732],
+        ['Peela Peela', 'TAMIL', '2018', 'Anirudh', 'oBiEYXDkJnc', 'Thaanaa Serndha Koottam'],
+        ['Andala akasamanta', 'TELUGU', '2005', 'Vidyasagar', 'd86hdqZvNm0', 'Chandramukhi', 1498, 1764],
+        ['Kanti papa', 'TELUGU', '2020', 'S. Thaman', 'kyAjEb54U8U', 'Vakeel saab', 470, 732],
         ['Manasa Manasa', 'TELUGU', '2021', 'Gopi Sunder', 'UHNEiOFMk9M', 'Most Eligible Bachelor', 0, 250],
         ['Sonapareeya', 'TAMIL', '2013', 'AR Rahman', 'HdBxoARI7E8', 'Maryan'],
         ['S.T.A.Y.', 'ENGLISH', '2014', 'Hans Zimmer ', 'KckEf9KhMHo', 'Interstellar'],
@@ -226,7 +228,6 @@ const playlists = {
         ['Columbus ', 'TAMIL', '1998', 'AR RAHMAN', 'qd26FnQz0yU', 'Jeans'],
         ['My Life Be Like', 'ENGLISH', '2002', 'Grits', '83mhHOytg4U', 'The Art of Translation'],
         ['I love You', 'HINDI', '2011', 'Pritam', 'UKQ0BuFErq4', 'Bodyguard'],
-        ['Peela Peela', 'TAMIL', '2018', 'Anirudh', 'oBiEYXDkJnc', 'Thaanaa Serndha Koottam'],
         ['Matargasthi flute collection', 'HINDI', '2015', 'A R Rahman', '53919sdD4yM', 'Tamasha'],
         ['Nothing Else Matters', 'ENGLISH', '1992', 'Metallica', 'tAGnKpE4NCI', 'Metallica'],
         ['Itni Si Baat Hain', 'HINDI', '2019', 'Pritam', 'jhPtPGKdQ-w', ' Azhar'],
