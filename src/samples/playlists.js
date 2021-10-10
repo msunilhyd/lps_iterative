@@ -10,7 +10,11 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
-        ['Zingat', 'Marathi', '2016', 'Ajay-Atul', '8eong8XHDB4', 'Sairat'],
+        ['Icky Thump', 'ENGLISH', '-', 'The White Stripes', 'evypdgY6KpQ', '-'],
+        ['Seven Nation Army', 'ENGLISH', '-', 'The White Stripes', 'RDuzszjrdcc', '-'],
+        ['Piano Man Live', 'ENGLISH', '-', 'Billy Joel', '7pF04BaF9SQ', '-'],
+        ['Time', 'ENGLISH', '1979', 'Pink Floyd', 'lke-uABclNk', 'The Wall'],
+        ['Zingat', 'MARATHI', '2016', 'Ajay-Atul', '8eong8XHDB4', 'Sairat'],
         ['Panchi', 'HINDI', '2011', 'Jal featuring Quratulain Balouch', '4HCdGGag3no', '-'],
         ['Tere Bina', 'HINDI', '2007', 'A. R. Rahman', '7HKbt19q3Rc', 'Guru'],
         ['Andha Kanna Paathaakaa', 'TAMIL', '2020', 'Anirudh', '3hVc3M1IEe0', 'Master'],
@@ -110,7 +114,6 @@ const playlists = {
         ['Silukku Marame ', 'TAMIL', '2008', 'D Imman ', 'jxrShUBmzM0', 'Paayum Puli'],
         ['Soul Sister', 'ENGLISH', '2009', 'Train', 'JloUN9j9cJ8', 'Hey, Soul Sister: Remixes EP'],
         ['Soch Na Sake', 'HINDI', '2015', 'Amaal Mallik', 'IQ-IzgNhvhg', 'AIRLIFT'],
-        ['Panchadaara', 'TELUGU', '2009', 'M.M.Keeravani', 'TRpvgGWjAUM', 'Okariki Okaru'],
         ['Oy..Oy..', 'TELUGU', '2009', 'Yuvan Shankar Raja', 'dGH-YczynDc', 'Oy'],
         ['Love Elephantla ', 'TELUGU', '2005', 'Harris Jayaraj', 'zkqJ41nQk9I', 'Aparichithudu', 0, 340],
         ['Kannulu Neevi', 'TELUGU', '2001', 'Harris Jayaraj', 'VJ8yLmkRzd0', 'Cheli'],
