@@ -11,6 +11,7 @@ const playlists = {
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
 
+        ['Naan Un Azhaginile BGM', 'TAMIL', '2015', 'A R Rahman', 'k7UNnJYB8Ho', '24', 0, 30],
         ['Munbe vaa BGM ', 'TAMIL', '2020', 'A. R. Rahman', 'Py-XY9e24Nw', 'Sillunu Oru Kaadhal'],
         ['Aye Amaayika', 'TELUGU', '2015', 'A. R. Rahman', 'gB0-MOcIiBU', 'OK Bangaram'],
         ['Ok Jaanu', 'HINDI', '2010', 'A R Rahman', '_ZQ9e3NFENQ', '-'],
@@ -31,6 +32,7 @@ const playlists = {
         ['Levitating', 'ENGLISH', '2020', 'Dua Lipa', 'TUVcZfQe-Kw', '-'],
         ['Bheegi Si Bhaagi Si', 'HINDI', '2007', 'Pritam', 'a31EdUdd_6Q', 'Rajniti'],
         ['AADAT INSTRUMENTAL', 'HINDI', '2007', 'BHANWARAY feat. Goher Mumtaz', 'wJJBUtzjfgg', 'AADAT', 0, 266],
+        ['Naan Un Azhaginile BGM 2', 'TAMIL', '2015', 'A R Rahman', 'k7UNnJYB8Ho', '24', 226, 305],
         ['Pyaar Karke Pachtaya', 'HINDI', '2007', 'Pritam', 'mayceSObuRk', 'Pyaar Ke Side Effects'],
         ['Peela Peela', 'TAMIL', '2018', 'Anirudh', 'oBiEYXDkJnc', 'Thaanaa Serndha Koottam'],
         ['Andala akasamanta', 'TELUGU', '2005', 'Vidyasagar', 'd86hdqZvNm0', 'Chandramukhi', 1498, 1764],
