@@ -11,7 +11,9 @@ const playlists = {
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
         
-        ['Iris - Live', 'ENGLISH', '1998', 'Goo Goo Dolls', '_HZM0QiuUS8', 'City of Angels: Music from the Motion Picture'],
+        ['Black Sheep - Live', 'ENGLISH', '2010', 'Metric', 'zszEkgucPME', ' Scott Pilgrim vs. the World'],
+        ['Hand Cannot Erase', 'ENGLISH', '1998', 'Steven Wilson', '7JFdk6zEcWc', '-'],
+        ['Iris - Live', 'ENGLISH', '1998', 'Goo Goo Dolls', '_HZM0QiuUS8', '-'],
         ['High Hopes', 'ENGLISH', '1979', 'Pink Floyd', 'lku1fP-LszI', 'The Wall'],
         ['Icky Thump', 'ENGLISH', '-', 'The White Stripes', 'evypdgY6KpQ', '-'],
         ['Seven Nation Army', 'ENGLISH', '-', 'The White Stripes', 'RDuzszjrdcc', '-'],
