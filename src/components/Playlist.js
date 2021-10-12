@@ -100,7 +100,7 @@ class Playlist extends Component {
 	 */
 
 	handleError = (event) => {
-		console.log('Hello, error occured');
+		console.log('Hello, error occured, song not available:- ' + this.state.playing);
 		const currentPlaylistItem = this.childrenItems.filter(data => data.songId === this.state.playing).shift()
 		const index = currentPlaylistItem.index + 1;
 		currentPlaylistItem.item.pause();
