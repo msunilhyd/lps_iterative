@@ -119,7 +119,7 @@ class Playlist extends Component {
 		// - 3: Buffering 
 		// - -1: unstarted
 		// - 5: Ended
-		console.log(event);
+		// console.log(event);
 
 	    switch(event.data){
 		  case  3: // buffering
@@ -128,13 +128,13 @@ class Playlist extends Component {
 			this.state.player.playVideo();
 			break;
 		  case -1: // unstarted
-			console.log(this.state.paused);
+			// console.log(this.state.paused);
 	      	this.setState({paused: false})
 	      	currentPlaylistItem.item.playSong();
 			this.state.player.playVideo();
 			break;
 	      case 1: // Playing
-			console.log(this.state.paused);
+			// console.log(this.state.paused);
 	      	this.setState({paused: false})
 	      	currentPlaylistItem.item.playSong();
 	        break;
@@ -143,7 +143,7 @@ class Playlist extends Component {
 	      	currentPlaylistItem.item.pause();
 	        break;
 	      case 0: // Ending
-			console.log(this.state.paused);
+			// console.log(this.state.paused);
 	      	const index = currentPlaylistItem.index + 1;
 	      	currentPlaylistItem.item.pause();
 	      	const nextPlaylistItem = this.childrenItems.filter(data => data.index === index).shift()
