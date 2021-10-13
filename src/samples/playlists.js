@@ -72,7 +72,7 @@ const playlists = {
         ['Maahi Ve  Flute Version', 'HINDI', '2014', 'A.R Rahman', 'MtIrhbIVcVM', ' Highway'],
         ['Takkunu Takkunu', 'TAMIL', '2019', 'Hiphop Tamizha', '7pVoLXgQkok', 'Mr.Local'],
         ['Naan Un Azhaginile BGM', 'TAMIL', '2015', 'A R Rahman', 'qj_hvKMaL_E', '24'],
-        ['The Battle', 'ENGLISH', '2000', 'Hans Zimmer ', 'I-YYZiJvwpc', 'Gladiator'],
+        ['The Battle', 'ENGLISH', '2000', 'Hans Zimmer ', 'I-YYZiJvwpc', 'Gladiator', 518, 590],
         ['Wake Up Sid! (Club Mix)', 'HINDI', '2009', 'Shankar-Ehsaan-Loy', 'PsfNVND30I8', 'Wake Up Sid'],
         ['Samjhawan Love Theme', 'HINDI', '2014', 'Sachin-Jigar', '8oDeQtfd_oQ', 'Humpty Sharma Ki'],
         ["I'm A Man", 'ENGLISH', '2007', 'Black Strobe', 'BWJuGYRW5_s', 'Burn Your Own Church'],
