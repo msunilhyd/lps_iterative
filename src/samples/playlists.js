@@ -10,6 +10,9 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
         ['Hall of fame', 'ENGLISH', '2012', 'The Script', '3Kxf2dHlDpQ', 'Hall of Fame'],
+        ['Kadhal Sadugudu', 'TAMIL', '2000', 'A. R. Rahman', 'GjZKBJ5Fprw', 'Alaipayuthe '],
+        ['Endrendrum Punnagai', 'TAMIL', '2000', 'A. R. Rahman', 'TN3E6hT26_Q', 'Alaipayuthe'],
+        ['Maangalyam Tantunanena', 'TAMIL', '2000', 'A. R. Rahman', 'LTBA_Z3wDr8', 'Alaipayuthe'],
         ['One Day At A Time', 'ENGLISH', '2010', 'Enrique Iglesias - Akon', 'QxblocPxRX0', 'Euphoria'],
         ['Vasta Ne Venuka BGM', 'TELUGU', '2004', 'A. R. Rahman', 'N8hz86g6IFw 1', 'Naani', 564, 758],
         ['Children', 'ENGLISH', '1996', 'Robert Miles', 'LafSIzwdo-s', 'Dreamland'],
@@ -686,6 +689,7 @@ const playlists = {
         ['Gravity Soundtrack ', 'ENGLISH', '2013 ', 'Steven Price', 'K3-YGVb6Tbw', 'Gravity', 0, 280],
         ['Nuvvunte', 'TELUGU', '2004', 'Devi Sri Prasad', 'Tn3UTYATiqw', 'Arya', 17, 325],
         ['Is This Love', 'HINDI', '2008', 'Pritam', 'bCZ8F-QweM8', 'Kismat Konnection', 6, 332],
+        ['Sanda Kozhi', 'TAMIL', '2004', 'AR RAHMAN', 'sUU9BtSyLJ8', 'Yuva'],
         ['Masthana', 'TELUGU', '2005', 'Sandeep Chawtha', 'GBH17Zj3_CY', 'Super', 0, 304],
         ['Tere Bin', 'HINDI', '2007', 'Rabbi Shergill', '1IMzEh0dsxs', '-', 0, 318],
         ['Adiga Adiga', 'TELUGU', '2017', 'Gopi Sundar', '7dZqS3JIQ1I', 'Ninnu Kori', 6, 162],
