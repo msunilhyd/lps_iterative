@@ -10,7 +10,7 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
-
+        ['Koi fariyaad Aakhon ke Sagar Cover', 'HINDI', '2004', 'Fuzön', '4aM3MzbkrTI', ' Saagar'],
         ['New York City Surprise', 'ENGLISH', '2008', 'Hans Zimmer ', 'f5p_06s2hQg', 'Madagascar'],
         ['Main Theme [Rain Man]', 'ENGLISH', '2008', 'Hans Zimmer ', 'RIrbQkiHgWI', ''],
         ['Time is on my side', 'ENGLISH', '2012', 'Rolling Stones', '_oSRvcdlgSI', 'Hall of Fame'],
