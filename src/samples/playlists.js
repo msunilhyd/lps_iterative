@@ -12,7 +12,7 @@ const playlists = {
 
         ['Abhi Mujh Mein Kahin Cover', 'HINDI', '2012', 'Ajay-Atul', '_QDAgv99WTc', 'Agneepath'],
         ['Ye Tune Kya Kiya cover', 'HINDI', '2013', 'Pritam', 'RvJ3P41JsaY', 'Once Upon A Time In Mumbai Dobaara!'],
-        ['Koi fariyaad Aakhon ke Sagar Cover', 'HINDI', '2004', 'Fuzön', '4aM3MzbkrTI', ' Saagar'],
+        ['Koi fariyaad Aakhon ke Sagar Cover', 'HINDI', '2004', 'Fuzön', '4aM3MzbkrTI', ' Saagar', 15],
         ['New York City Surprise', 'ENGLISH', '2008', 'Hans Zimmer ', 'f5p_06s2hQg', 'Madagascar'],
         ['Main Theme [Rain Man]', 'ENGLISH', '2008', 'Hans Zimmer ', 'RIrbQkiHgWI', ''],
         ['Time is on my side', 'ENGLISH', '2012', 'Rolling Stones', '_oSRvcdlgSI', 'Hall of Fame'],
