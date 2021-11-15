@@ -10,6 +10,7 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
+        ['Hallelujah ', 'ENGLISH', '2012', 'Leonard Cohen', 'ttEMYvpoR-k', ''],
         ['Abhi Mujh Mein Kahin Cover', 'HINDI', '2012', 'Ajay-Atul', '_QDAgv99WTc', 'Agneepath'],
         ['Ye Tune Kya Kiya cover', 'HINDI', '2013', 'Pritam', 'RvJ3P41JsaY', 'Once Upon A Time In Mumbai Dobaara!'],
         ['Koi fariyaad Aakhon ke Sagar Cover', 'HINDI', '2004', 'Fuzön', '4aM3MzbkrTI', ' Saagar', 15],
