@@ -10,6 +10,7 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
+        ['Premante Suluvu', 'TELUGU', '2001', 'Mani Sharma', 'IBfoSYDwsyQ', 'Kushi'],
         ['Hallelujah ', 'ENGLISH', '2012', 'Leonard Cohen', 'ttEMYvpoR-k', ''],
         ['Abhi Mujh Mein Kahin Cover', 'HINDI', '2012', 'Ajay-Atul', '_QDAgv99WTc', 'Agneepath'],
         ['Ye Tune Kya Kiya cover', 'HINDI', '2013', 'Pritam', 'RvJ3P41JsaY', 'Once Upon A Time In Mumbai Dobaara!'],
@@ -470,7 +471,6 @@ const playlists = {
         ['Ciciliya', 'TELUGU', '2017', 'Harris Jayaraj', 'H252kIKffGg', 'Spyder'],
         ['Pookal Pookum cover', 'TAMIL', '2010', 'GV Prakash- Thaikkudam Bridge', 'rrvZXzOEI-U', 'Madrasapattinam'],
         ['Chikku Bukku', 'TAMIL', '1993', 'A R Rahman', 'Lx4dhNHg6uQ', 'Gentleman'],
-        ['Ammaye', 'TELUGU', '2001', 'Mani Sharma', 'GXECGi0sIKw', 'Kushi'],
         ['Chill Bro', 'TAMIL', '2020', 'Vivek–Mervin', 'pHxz8l1iWU4', 'Pattas'],
         ['Aakhon ke Sagar', 'HINDI', '2004', 'Fuzön', 'dxekUFhmFu4', ' Saagar'],
         ['Kalusukovalani BGM 1', 'TELUGU', '2002', 'Devi Sri Prasad', '-NZ8dxpfqbw', 'Kalusukovalani'],
