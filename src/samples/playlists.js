@@ -10,8 +10,8 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
-        ['Chukkala Chunni', 'TELUGU', '2018', 'Chaitan Bharadwaj', '1tL0rsKvZFE', ''],
-        ['Drive Your Funky Soul', 'ENGLISH', '2012', 'Leonard Cohen', '0oxt-WtC6Oc', ''],
+
+        ['People Get Up And Drive Your Funky Soul', 'ENGLISH', '2012', 'Leonard Cohen', 'ttEMYvpoR-k', ''],
         ['Premante Suluvu', 'TELUGU', '2001', 'Mani Sharma', 'IBfoSYDwsyQ', 'Kushi', 0, 372],
         ['Hallelujah ', 'ENGLISH', '2012', 'Leonard Cohen', 'ttEMYvpoR-k', ''],
         ['Abhi Mujh Mein Kahin Cover', 'HINDI', '2012', 'Ajay-Atul', '_QDAgv99WTc', 'Agneepath'],
@@ -100,9 +100,9 @@ const playlists = {
         ['Peela Peela', 'TAMIL', '2018', 'Anirudh', 'oBiEYXDkJnc', 'Thaanaa Serndha Koottam'],
         ['Time ', 'ENGLISH', '-', 'Hans Zimmer ', 'jgyShFzdB_Q', 'Inception'],
         ['Andala akasamanta', 'TELUGU', '2005', 'Vidyasagar', 'Rp6ivvw89y8', 'Chandramukhi', 0, 268],
-        ['Manasa Manasa', 'TELUGU', '2021', 'Gopi Sunder', 'UHNEiOFMk9M', 'Most Eligible Bachelor', 0, 250],
-        ['Sonapareeya', 'TAMIL', '2013', 'AR Rahman', 'HdBxoARI7E8', 'Maryan'],
-        ['S.T.A.Y.', 'ENGLISH', '2014', 'Hans Zimmer ', 'KckEf9KhMHo', 'Interstellar'],
+        ['Manasa Manasa', 'TELUGU', '2021', 'Gopi Sunder', 'NtTGqvD67pE', 'Most Eligible Bachelor', 0, 250],
+        ['Sonapareeya', 'TAMIL', '2013', 'AR Rahman', '05VpS1L5_hc', 'Maryan'],
+        ['S.T.A.Y.', 'ENGLISH', '2014', 'Hans Zimmer ', 'fOvFnga339U', 'Interstellar'],
         ['Khiladi Koona', 'TELUGU', '2007', 'Mani Sharma', 'dZie1jzCAfE', 'Athidhi', 0, 452],
         ['María', 'SPANISH', '1995', 'Ricky Martin', 'vCEvCXuglqo', 'A Medio Vivir'],
         ['Iris - Live', 'ENGLISH', '1998', 'Goo Goo Dolls', '_HZM0QiuUS8', '-'],
