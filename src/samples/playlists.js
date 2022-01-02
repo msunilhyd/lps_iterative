@@ -138,7 +138,7 @@ const playlists = {
         ['Mental Manadhil Female', 'TAMIL', '2015', 'A. R. Rahman', 'jEuojck5M7U', 'OK Bangaram', 0, 194],
         ['Munbe vaa BGM - 2', 'TAMIL', '2020', 'A. R. Rahman', '5OunSxegSOA 3', 'Sillunu Oru Kaadhal', 472, 642],
         ['Agar Tum Saath Ho', 'HINDI', '2015', 'A R Rahman', 'sK7riqg2mr4', 'Tamasha', 0, 336],
-        ['Sky full of stars', 'ENGLISH', '2014', 'Coldplay', 'ot_snHDVTUU', 'Ghost Stories' 0, 266],
+        ['Sky full of stars', 'ENGLISH', '2014', 'Coldplay', 'ot_snHDVTUU', 'Ghost Stories', 0, 266],
         ['AMANI PADAVE', 'TELUGU', '1989', 'IlayaRaaja', 't7IOxMBU4A4', 'Geethanjali' ],
         ['O Saathi', 'HINDI', '2018', 'Arko', 'YuXLN23ZGQo', 'Baaghi 2', 0, 248],
         ['Naanum BGM 1', 'TAMIL', '2015', 'Anirudh', 'A9H6UGsG3c4', 'Naanum Rowdy Dhaan'],
