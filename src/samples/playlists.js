@@ -265,7 +265,7 @@ const playlists = {
         ['Sehri', 'TELUGU', '2009', 'Yuvan Shankar Raja', 'PyiQNdzKYCM', 'Oy'],
         ['Mona Gasolina Cover', 'TAMIL', '2014', 'A. R. Rahman', '99FMOcFP7-A', 'Lingaa'],
         ['Samajavaragamana Cover', 'TELUGU', '2019', 'S. Thaman', 'guj4nJFvLo4', 'Ala Vaikunthapurramloo'],
-        ['Kannum Kannum', 'TAMIL', '1993', 'A. R. Rahman', 't37ieNxQ9Q8', 'Thiruda Thiruda' 0, 246],
+        ['Kannum Kannum', 'TAMIL', '1993', 'A. R. Rahman', 't37ieNxQ9Q8', 'Thiruda Thiruda', 0, 246],
         ['Haan Tu Hain', 'HINDI', '2008', 'Pritam', 'plcI5i3uuTs', 'Jannat', 0, 322],
         ['Whataya Want From Me', 'ENGLISH', '2009', 'Adam Lambert', 'Rd78eThTuNM', 'For Your Entertainment', 0, 224],
         ['The Saltwater Room', 'ENGLISH', '2008', 'Adam Young', 'qMp3TIVYwwk', 'Maybe', 'I am Dreaming'],
