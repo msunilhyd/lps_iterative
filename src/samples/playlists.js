@@ -10,6 +10,10 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
+        ['On My Way', 'ENGLISH', '2015', 'Alan Walker', 'fm-nXA-K0Dg', '-'],
+        ['The Nights', ' ENGLISH', '2013', 'Avicii', '2S0QhGGO1gQ', 'True'],
+        ['They Dont Care About Us', 'ENGLISH', '2010', 'Michael Jackson - Akon', 'GsHZBisKwxg', 'Jackson’s Paradise'],
+        ['In Da Club', 'ENGLISH', '2012', 'Leonard Cohen', 'nFLt_lnxdYk', ''],
         ['Chukkala Chunni', 'TELUGU', '2018', 'Chaitan Bharadwaj', '1tL0rsKvZFE', ''],
         ['People Get Up And Drive Your Funky Soul', 'ENGLISH', '2012', 'Leonard Cohen', '0oxt-WtC6Oc', ''],
         ['Premante Suluvu', 'TELUGU', '2001', 'Mani Sharma', 'IBfoSYDwsyQ', 'Kushi', 0, 372],
