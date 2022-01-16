@@ -10,6 +10,9 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
+        ['On My Way', 'ENGLISH', '2015', 'Alan Walker', 'xGDQQIvUbcA', '-'],
+        ['On My Way', 'ENGLISH', '2015', 'Alan Walker', 'bGi0CI0e60k', '-'],
+        ['On My Way', 'ENGLISH', '2015', 'Alan Walker', 'HbOedeTVpGQ', '-'],
         ['On My Way', 'ENGLISH', '2015', 'Alan Walker', 'fm-nXA-K0Dg', '-'],
         ['The Nights', ' ENGLISH', '2013', 'Avicii', '2S0QhGGO1gQ', 'True'],
         ['They Dont Care About Us', 'ENGLISH', '2010', 'Michael Jackson - Akon', 'GsHZBisKwxg', 'Jackson’s Paradise'],
