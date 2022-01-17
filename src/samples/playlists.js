@@ -7,9 +7,28 @@ const playlists = {
         // Padayappa BGM
         // https://www.youtube.com/c/BGMScore_1/videos
         // https://www.youtube.com/watch?v=OSZCFFpix2g
+       
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
+        ['I want it that way', ' ENGLISH', '2007', ' Backstreet Boys', 'LwkrXybZ1uo', 'Millennium', 0, 210],
+        ["Hips Don't Lie", 'ENGLISH', '2005', 'Shakira-Wyclef Jean', 'vtb0csLelDs', 'Oral Fixation Vol. 2'],
+        ["Never Gonna Give You Up", 'ENGLISH', '2005', 'Rick Astley', '34Ig3X59_qA', 'Oral Fixation Vol. 2'],
+        ["It's My Life", 'ENGLISH', '2005', 'Bon Jovi', 'VyZeqzWvR7w', 'Oral Fixation Vol. 2'],
+        ["Ai Se Eu Te Pego", 'ENGLISH', '2005', 'Bon Jovi', 'hcm55lU9knw', 'Oral Fixation Vol. 2'],
+        ["PILLOWTALK", 'ENGLISH', '2005', 'Bon Jovi', 'H5-qGFO138E', 'Oral Fixation Vol. 2'],
+        ["Symphony", 'ENGLISH', '2005', 'Bon Jovi', 'PIf9GvWaxQQ', 'Oral Fixation Vol. 2'],
+        ["Feels", 'ENGLISH', '2005', 'Bon Jovi', 'qXW3CHpv9fc', 'Oral Fixation Vol. 2'],
+        ["Dynamite", 'ENGLISH', '2005', 'Bon Jovi', 'qXW3CHpv9fc', 'Oral Fixation Vol. 2'],
+        ["7 years ", 'ENGLISH', '2005', 'Bon Jovi', 'Q0bnAmfGQC8', 'Oral Fixation Vol. 2'],
+        ["Elastic Heart", 'ENGLISH', '2005', 'Bon Jovi', '5RYY0hwHIRw', 'Oral Fixation Vol. 2'],
+        ["Halo", 'ENGLISH', '2005', 'Bon Jovi', 'yrJ7CVeiFvo', 'Oral Fixation Vol. 2'],
+        ["Halo", 'ENGLISH', '2005', 'Bon Jovi', 'wdo_ATH_ITg', 'Oral Fixation Vol. 2'],
+        ['What Makes You Beautiful', 'ENGLISH', '2011', 'One Direction', 'QJO3ROT-A4E', 'Up All Night', 4, 201],
+        ['What Makes You Beautiful', 'ENGLISH', '2011', 'One Direction', 'hTWKbfoikeg', 'Up All Night'],
+        ['Take On Me ', 'ENGLISH', '2011', 'One Direction', 'Ktb44YLL8Nw', 'Up All Night'],
 
+        ['Danza Kuduro', 'Portuguese', '2010', 'Don Omar', 'YPlZ-nJewRE', 'Don Omar Presents: Meet the Orphans', 3, 200],
+        ["Ride", 'ENGLISH', '2005', 'Bon Jovi', 'jHKQof8WIlI', 'Oral Fixation Vol. 2'],
         ['On My Way', 'ENGLISH', '2015', 'Alan Walker', 'xGDQQIvUbcA', '-'],
         ['On My Way', 'ENGLISH', '2015', 'Alan Walker', 'bGi0CI0e60k', '-'],
         ['On My Way', 'ENGLISH', '2015', 'Alan Walker', 'HbOedeTVpGQ', '-'],
@@ -417,7 +436,6 @@ const playlists = {
         ['Khadgam BGM 1', 'TELUGU', '2002', ' Devi Sri Prasad', 'aiIw-L_wb1w 1', 'Khadgam', 0, 350],
         ['Mona Gasolina', 'TAMIL', '2014', 'AR RAHMAN', 'sn9rtIfXqmk', 'Lingaa'],
         ['Zaalima', 'HINDI', '2017', 'Ram Sampath', 'hhdSyBHuI88', 'Raees', 0, 296],
-        ['Danza Kuduro', 'Portuguese', '2010', 'Don Omar', 'YPlZ-nJewRE', 'Don Omar Presents: Meet the Orphans', 3, 200],
         ['Chandamama', 'TELUGU', '2007', 'Devi Sri Prasad', 'nSW0ksiTWyQ', 'Shankardada Zindabad', 0, 220],
         ['Aa Jao Meri Tamanna', 'HINDI', '2009', 'Pritam', '-enLn27qpSg', 'Ajab Prem Ki Ghazab Kahani', 0, 240],
         ['Adiyae Kolluthey', 'TAMIL', '2008', 'Harris Jayaraj', 'oNTOpHEpGiA', 'Vaaranam Aayiram'],
@@ -497,7 +515,6 @@ const playlists = {
         ['Tere Bin Kaise', 'HINDI', '2006', 'Mithoon', 'yIrU21hoHys', 'Bas Ek Pal', 12, 283],
         ['Iris', 'ENGLISH', '1998', 'Goo Goo Dolls', 'CUbJQGqFoi0', 'City of Angels: Music from the Motion Picture', 0, 286],
         ['En Mannavva', 'TAMIL', '2014', 'AR RAHMAN', 'tDcLTOSpHyI', 'Lingaa', 3, 262],
-        ["Hips Don't Lie", 'ENGLISH', '2005', 'Shakira-Wyclef Jean', 'vtb0csLelDs', 'Oral Fixation Vol. 2'],
         ['Munbe vaa BGM ', 'TAMIL', '2020', 'A. R. Rahman', 'Py-XY9e24Nw', 'Sillunu Oru Kaadhal', 0, 102],
         ['Pehli Baar Mohabbat', 'HINDI', '2009', 'Vishal Bhardwaj', 'itc-rHSsDj4', 'Kaminey'],
         ['Emaindo Gaani', 'TELUGU', '2009', 'Achu & Dharan', 'E00t7gYiccE', 'Neenu Meeku Thelusa', 0, 250],
@@ -613,7 +630,6 @@ const playlists = {
         ['Girlfriend Telugu', 'TELUGU', '2003', 'A R Rahman', 'QVElQZalRDU 3', 'Boys', 0, 302],
         ['Requiem For A Dream', 'ENGLISH', '2000', 'Clint Mansell', 'yVIRcnlRKF8', 'Requiem For A Dream', 0, 383],
         ['Do You Know', 'HINDI', '2007', ' Enrique Iglesias', 'ibSKivYOPpI', 'Insomniac', 0, 216],
-        ['What Makes You Beautiful', 'ENGLISH', '2011', 'One Direction', 'QJO3ROT-A4E', 'Up All Night', 4, 201],
         ['Without you', 'ENGLISH', '2011', 'David Guetta - Usher', 'jUe8uoKdHao', '-', 0, 208],
         ['Stiches', 'ENGLISH', '2015', 'Shawn Mendes', 'M_yYWMOKjvE', 'Stitches (Seeb Remix)'],
         ['Sadi Gali', 'HINDI', '2011', ' Krsna Solo', 'w_HaezV0DqI', 'Tanu Weds Manu'],
@@ -724,7 +740,6 @@ const playlists = {
         ['Doorie', 'HINDI', '2006', 'Atif Aslam', 'Jv2Z9KJgYjU', 'Doorie', 6, 292],
         ['Egirey Mabbulona', 'TELUGU', '2006', 'Yuvan Shankar Raja', 'W-NFkJat4XA', 'Happy', 0, 234],
         ['Monna Kanipinchavu', 'TELUGU', '2008', 'Harris Jayaraj', 'ZlskvfYmj88', 'Surya S/o Krishnan', 0, 322],
-        ['I want it that way', ' ENGLISH', '2007', ' Backstreet Boys', 'LwkrXybZ1uo', 'Millennium', 0, 210],
         ['Boulevard Of Broken Dreams', 'ENGLISH', '2004', 'Green Day', '0LJCEROH4u0', 'American Idiot'],
         ['Enno Ratrulostayi', 'TELUGU', '1992', 'IlayaRaaja', 'Xc5K9EDnHKQ', 'Dharmakshetram', 0, 295],
         ['Remo - BGM 13', 'TAMIL', '2016', 'Anirudh', 'Bf67mfzqb50 13', 'Remo', 1034, 1122],
