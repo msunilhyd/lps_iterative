@@ -30,6 +30,7 @@ const playlists = {
         ['Im the One', 'ENGLISH', '2011', 'One Direction', '158plNHX4vw', 'Up All Night'],
         ['Roses', 'ENGLISH', '2011', 'One Direction', 'ISMPuZDDdkI', 'Up All Night'],
         ['One Time', 'ENGLISH', '2011', 'One Direction', 'rKqbgglztjc', 'Up All Night'],
+        ['Channa Mereya Unplugged', 'HINDI', '2016', 'Pritam', 'Ghxdb7_sa0o', 'Ae Dil Hai Mushkil'],
 
         ['Danza Kuduro', 'Portuguese', '2010', 'Don Omar', 'YPlZ-nJewRE', 'Don Omar Presents: Meet the Orphans', 3, 200],
         ["Ride", 'ENGLISH', '2005', 'Bon Jovi', 'jHKQof8WIlI', 'Oral Fixation Vol. 2'],
