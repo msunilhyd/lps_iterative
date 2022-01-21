@@ -10,6 +10,12 @@ const playlists = {
        
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
+
+        ['Chellamma', 'TAMIL', '2006', 'AR RAHMAN', 'FyF9CRGb2VU', 'Rang De Basanti'],
+        ['Rang De Basanti', 'TAMIL', '2006', 'AR RAHMAN', 'Exrs85DTD0A', 'Rang De Basanti', 82, 442],
+        ['I am a rebel', 'TAMIL', '2006', 'AR RAHMAN', 'Exrs85DTD0A', 'Rang De Basanti', 443, 660],
+        ['Sirivennela', 'TELUGU', '1989', 'IlayaRaaja', 'OGplMBWst6Y', 'Geethanjali', 0, 320 ],
+        ['NEE KALLALONA', 'TELUGU', '2014', 'Devi Sri Prasad', 'ehLAPMriTts', 'nenokkadine', 0, 126],
         ['I want it that way', ' ENGLISH', '2007', ' Backstreet Boys', 'LwkrXybZ1uo', 'Millennium', 0, 210],
         ["Never Gonna Give You Up", 'ENGLISH', '2005', 'Rick Astley', '34Ig3X59_qA', 'Oral Fixation Vol. 2'],
         ["Ai Se Eu Te Pego", 'ENGLISH', '2005', 'Bon Jovi', 'hcm55lU9knw', 'Oral Fixation Vol. 2'],
