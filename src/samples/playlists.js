@@ -11,6 +11,11 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
+        ['Maahi Ve', 'HINDI', '2003', 'Shankar-Ehsaan-Loy', 'VudHUqt17us', 'Kal Ho Naa Ho',],
+        ['Na Na Na Na', 'PUNJABI', '1996', 'A.R Rahman', 'lBuLUidR9r0', 'Bharateeyudu', 38],
+        ['Leja Re', 'PUNJABI', '1996', 'A.R Rahman', '-xCw7ruotUg', 'Bharateeyudu'],
+        ['Qismat', 'PUNJABI', '1996', 'A.R Rahman', 'OrQz7sieV2E', 'Bharateeyudu'],
+        ['Sakhiyan', 'PUNJABI', '1996', 'A.R Rahman', 'S-ezhTXPVGU', 'Bharateeyudu', 10],
         ['Sakhiyan 2.0', 'TELUGU', '1996', 'A.R Rahman', '55t306Hgg58', 'Bharateeyudu'],
         ['Kanna Nidurinchara', 'TELUGU', '1996', 'A.R Rahman', 'O1UC2Oszg38', 'Bharateeyudu'],
         ['Pacha Bottasi', 'TELUGU', '1996', 'A.R Rahman', 'ZLLPLH_wKbU', 'Bharateeyudu'],
