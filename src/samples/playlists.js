@@ -11,6 +11,10 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
+        ['Pelli Kala', 'TELUGU', '1998', 'Ramana Gogula', 'vrMc6KA-vWU', 'Premante Idera', 6, 292],
+        ['Chittiyaan Kalaiyaan', 'PUNJABI', '1996', 'A.R Rahman', 'ypXROLupeVg', 'Bharateeyudu'],
+        ['Backbone', 'PUNJABI', '1996', 'A.R Rahman', 'zJWeMC1q4ac', 'Bharateeyudu'],
+        ['THATS WHAT I WANT', 'PUNJABI', '1996', 'A.R Rahman', 'zHd4rSpZn48', 'Bharateeyudu'],
         ['Ranjha', 'PUNJABI', '1996', 'A.R Rahman', 'UU-eUEt-tPg', 'Bharateeyudu'],
         ['Sakhiyan', 'PUNJABI', '1996', 'A.R Rahman', 'S-ezhTXPVGU', 'Bharateeyudu', 10],
         ['Yeke Yeke', 'HINDI', '2003', 'Shankar-Ehsaan-Loy', 'edSqW24kvpY', 'Kal Ho Naa Ho',],
