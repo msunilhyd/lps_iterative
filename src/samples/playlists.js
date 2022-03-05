@@ -11,6 +11,7 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
+        ['I want it that way covere', 'ENGLISH', '2017', 'Sudheer', 'RyldqJgOIJg', 'Beginner Composer'],
         ['Stay', 'HINDI', '2017', 'Pritam', 'yWHrYNP6j4k', 'Jab Harry Met Sejal'],
         ['Hawayein', 'HINDI', '2017', 'Pritam', 'cYOB941gyXI', 'Jab Harry Met Sejal', 0, 287],
         ['Something Just Like This', 'ENGLISH', '2017', 'Coldplay-The Chainsmokers', 'FM7MFYoylVs', 'Something Just Like This'],
