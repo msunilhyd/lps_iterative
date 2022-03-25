@@ -11,6 +11,23 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
+        ['Somebody That I Used To Know - Mike Dawes ', 'ENGLISH', '1985', 'Tears for Fears', 'XwCK1z3wT8g', '-'],
+        ['Tamasha Instrumental', 'ENGLISH', '1985', 'Tears for Fears', 'oYjmGaZU3S0', '-'],
+        ['Yeh dooriyan Global', 'ENGLISH', '1985', 'Tears for Fears', 'wsJwU51pfK4', '-'],
+        ['Mike Dawes: All Along the Watchtower', 'ENGLISH', '1985', 'Tears for Fears', 'hAZVtPJg6cM', '-'],
+        ['Cant Help Falling In Love (Elvis Cover)', 'ENGLISH', '1985', 'Tears for Fears', '6ThQkrXHdh4', '-'],
+        ['Etthara Jenda', 'ENGLISH', '1985', '-', 'dtZ14XTwwos', '-'],
+        ['Jaamu Raathiri Rekindled', 'ENGLISH', '1985', 'Tears for Fears', '_cwU4Cg0Tkg', 'Songs from the Big Chair'],
+        ['Titanium - Mike Dawes', 'ENGLISH', '1985', 'Tears for Fears', 'EaI_wv3mKXI', '-'],
+        ['devude ichhadu | Flute Version', 'ENGLISH', '1985', 'Tears for Fears', 'IdH0DWRFq9k', 'Songs from the Big Chair'],
+        ['Kal Ho Na Ho | Flute Version', 'ENGLISH', '1985', 'Tears for Fears', 'fKsIfKhlqC4', 'Songs from the Big Chair'],
+        ['Etthara Jenda', 'ENGLISH', '1985', '-', 'dtZ14XTwwos', '-'],
+        ['Everybody Wants To hammered dulcimer', 'ENGLISH', '1985', 'Tears for Fears', 'E6QOr-oCTwU', '-'],
+        ['Cant Help Falling In Love (feat. Josh Turner)', 'ENGLISH', '1985', 'Tears for Fears', 'j5mmhokV24Q', '-'],
+        ['Prema | Flute Cover', 'ENGLISH', '1985', 'Tears for Fears', 'JFaEhjd0dRg', 'Songs from the Big Chair'],
+        ['My Heart Will Go On  Flute Cover', 'ENGLISH', '1985', 'Tears for Fears', 'pht2DKDW4ig', 'Songs from the Big Chair'],
+        ['Everybody Wants To Acoustic', 'ENGLISH', '1985', '-', '0ZII3Cu_Uo4', '-'],
+        ['Munbe Vaa | Flute Cover', 'ENGLISH', '1985', 'Tears for Fears', 'pNw9xbgYo7s', 'Songs from the Big Chair'],
         ['Suno Na Sangemarmar', 'ENGLISH', '1985', 'Tears for Fears', '83pr5QLz6Bc', 'Songs from the Big Chair'],
         ['Halamithi Habibo', 'ENGLISH', '1985', 'Tears for Fears', '8FAUEv_E_xQ', 'Songs from the Big Chair'],
         ['Everybody Wants To Rule The World', 'ENGLISH', '1985', 'Tears for Fears', 'awoFZaSuko4', 'Songs from the Big Chair', 0, 249],
