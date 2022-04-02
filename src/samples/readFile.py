@@ -1,10 +1,8 @@
-from os import dup
+crimefile = open('./playlists_copy.js', 'r')
+yourResult = [line.split(',') for line in crimefile.readlines()]
+print(yourResult)
+for line in yourResult:
+    print(line)
 
-
-with open('playlists copy.js') as f:
-    lines = f.readlines()
-    dup_list = []
-    for line in lines:
-        res = line.strip('\'').split(', ')
-        dup_list.append(res[4])
-    print(set(x for x in dup_list if dup_list.count(x) > 1))
+# file1 = open('write_to_file', 'w')
+# file1.write(str(yourResult))
