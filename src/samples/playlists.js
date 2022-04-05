@@ -11,6 +11,7 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
+        ['Padayappa Theme 1', 'TAMIL', '1999', 'A R Rahman', 'eguXwwDSQNM 1', 'Padayappa', 0, 44],
         ['Manmadhan BGM 1', 'TAMIL', '2005', 'Harris Jayaraj', 'KYYHOkku5FU 1', 'Ghajini', 348, 446],
         ['Padayappa sad bgm', 'TAMIL', '2005', 'Harris Jayaraj', 'c5bXvPkBB44', 'Ghajini'],
         ['Ghajini BGM 11', 'TAMIL', '2005', 'Harris Jayaraj', 'Mrt3PYz3g0c', 'Ghajini', 610, 683],
@@ -23,6 +24,7 @@ const playlists = {
         ['Kaise Hua ', 'HINDI', '2019', 'Mithoon', 'WKv07mnKVEE', 'Kabir Singh' ],
         ['Ghajini BGM 10', 'TAMIL', '2005', 'Harris Jayaraj', 'faOR9KKzqLs 4', 'Ghajini', 1563, 1584],
         ['E rathale', 'TELUGU', '2005', 'Mahesh Shankar', 'vHuBCcm7KC8', 'Vennela'],
+        ['Padayappa Theme 5', 'TAMIL', '1999', 'A R Rahman', 'eguXwwDSQNM 5', 'Padayappa', 1398, 1446],
         ['Preyasi Kaavu', 'TELUGU', '2005', 'Mahesh Shankar', 'sG8TKttaDHg', 'Vennela'],
         ['In Da Club', 'ENGLISH', '2012', 'Leonard Cohen', 'nFLt_lnxdYk', ''],
         ['Neeye Oli', 'TAMIL', '2020', 'Santhosh Narayanan', 'e_0Q92a8Wlo', 'Sarpatta Parambarai', 0, 240],
@@ -175,6 +177,7 @@ const playlists = {
         ['Yemaindo Yemo Ee Vela', 'TELUGU', '1998', 'Deva', '5M7U2BwKxU8', 'Tholiprema', 0, 280],
         ['Mountains', 'ENGLISH', '2014', 'Hans Zimmer ', 'lM5IxG1qhl0', 'Interstellar', 0, 548],
         ['Lukka Chuppi Flute Bit', 'HINDI', '2006', 'A. R. Rahman', '26P1JtzaGFg', 'Rang De Basanti'],
+        ['Padayappa Theme 2', 'TAMIL', '1999', 'A R Rahman', 'eguXwwDSQNM 2', 'Padayappa', 644, 294],
         ['Vinnaithandi Varuvaya BGM 4', 'TAMIL', '2010', 'A R Rahman', '_9Q9E2s71S4', 'Vinnaithaandi Varuvaayaa'],
         ['Munbe vaa BGM - 7', 'TAMIL', '2020', 'A. R. Rahman', '5OunSxegSOA 8', 'Sillunu Oru Kaadhal', 258, 305],
         ['Jeans BGM 2', 'TAMIL', '1998', 'AR RAHMAN', 'FBhdm3m7VZA', 'Jeans', 30, 115],
@@ -309,6 +312,7 @@ const playlists = {
         ['Adiga Adiga Guitar Bit', 'TELUGU', '2017', 'Gopi Sundar', 'dV3C-bZN3o8', 'Ninnu Kori', 14, 86],
         ['Butta Bomma Instrumental Bgm', 'TELUGU', '2019', 'S. Thaman', 'Yrj2CQ71sCQ', 'Ala Vaikunthapurramloo'],
         ['Yemito Song BGM', 'TELUGU', '2012', 'Radhan', 'umo5yXRLUn4', 'Andala Rakshasi', 10, ],
+        ['Padayappa Theme 4', 'TAMIL', '1999', 'A R Rahman', 'eguXwwDSQNM 4', 'Padayappa', 964, 995],
         ['Piano Man Live', 'ENGLISH', '-', 'Billy Joel', '7pF04BaF9SQ', '-', 0, 372],
         ['Happy Bit', 'TELUGU', '2006', 'Yuvan Shankar Raja', 'NRdQ-wboFdQ', 'Happy', 3, ],
         ['Khadgam BGM 2', 'TELUGU', '2002', ' Devi Sri Prasad', 'aiIw-L_wb1w 2', 'Khadgam', 44, 96],
@@ -399,6 +403,7 @@ const playlists = {
         ['Gerua/Kabira', 'HINDI', '2016', 'Bryden-Parth', 'pns3P7DNad8', 'Dilwale', 7, 396],
         ['The Breakup Song', 'HINDI', '2016', 'Pritam', 'kd5KqlmcHNo', 'Ae Dil Hai Mushkil',],
         ['Vinnaithandi Varuvaya BGM 1', 'TAMIL', '2010', 'A R Rahman', 'hPgnVhn5P7E', 'Vinnaithaandi Varuvaayaa'],
+        ['Padayappa Theme 3', 'TAMIL', '1999', 'A R Rahman', 'eguXwwDSQNM 3', 'Padayappa', 964, 995],
         ['Annul maelae', 'TAMIL', '2008', 'Harris Jayaraj', 'eG5Zx7qq2C4', 'Vaaranam Aayiram', 0, 307],
         ['Ik Junoon (Paint It Red)', 'HINDI', '2011', 'Shankar-Ehsaan-Loy', 'ivUXoV0qLpE', 'Zindagi Na Milegi Dobara', 0, 294],
         ['Whatever it takes', 'ENGLISH', '2017', 'Imagine Dragons', 'M66U_DuMCS8', 'Whatever It Takes (Miss Congeniality Remix)', 0, 198],
