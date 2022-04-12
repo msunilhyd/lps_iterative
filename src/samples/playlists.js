@@ -11,6 +11,8 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
+        ['Sarpatta Parambarai Jukebox', 'TAMIL', '1999', 'A R Rahman', 'jDDa0MjYPLU', 'Padayappa'],
+        ['Kasada Tabara Jukebox', 'TAMIL', '1999', 'A R Rahman', 'pXRBMJPjfRk', 'Padayappa'],
         ['Livin it', 'TAMIL', '1999', 'A R Rahman', 'WlgoUlOkyzU', 'Padayappa'],
         ['Padayappa Theme 1', 'TAMIL', '1999', 'A R Rahman', 'eguXwwDSQNM 1', 'Padayappa', 0, 44],
         ['Manmadhan BGM 1', 'TAMIL', '2005', 'Harris Jayaraj', 'KYYHOkku5FU 1', 'Ghajini', 348, 446],
@@ -104,7 +106,6 @@ const playlists = {
         ['Priyatama Na Hrudayama | Flute Cover', 'ENGLISH', '1985', 'Tears for Fears', 'KkwNuZdO-No', '-'],
         ['Eastside acousticc', 'ENGLISH', '2018', 'Benny Blanco', '2C-zNQq7zRQ', 'Eastside'],
         ['Mike Dawes: All Along the Watchtower', 'ENGLISH', '1985', 'Tears for Fears', 'hAZVtPJg6cM', '-'],
-        ['Ye Divilo Virisina', 'ENGLISH', '1985', 'Tears for Fears', 'dHL7IJm2ZVM', 'Songs from the Big Chair'],
         ['Samjhawan | Flute Cover', 'ENGLISH', '1985', 'Tears for Fears', 'Fmo_VpBKHYc', '-'],
         ['Everybody Wants To hammered dulcimer', 'ENGLISH', '1985', 'Tears for Fears', 'E6QOr-oCTwU', '-'],
         ['Cant Help Falling In Love (feat. Josh Turner)', 'ENGLISH', '1985', 'Tears for Fears', 'j5mmhokV24Q', '-'],
