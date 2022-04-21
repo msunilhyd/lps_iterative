@@ -11,8 +11,8 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
-        ['Sarpatta Parambarai Jukebox', 'TAMIL', '1999', 'A R Rahman', 'jDDa0MjYPLU', 'Padayappa'],
-        ['Kasada Tabara Jukebox', 'TAMIL', '1999', 'A R Rahman', 'pXRBMJPjfRk', 'Padayappa'],
+        ['Agni Skalana', 'TAMIL', '1999', 'A R Rahman', 'NTfhqNcqo6A', 'Padayappa'],
+        ['Jolly O Gymkhana', 'TAMIL', '1999', 'A R Rahman', 'uVbSqPy18hU', 'Padayappa'],
         ['Livin it', 'TAMIL', '1999', 'A R Rahman', 'WlgoUlOkyzU', 'Padayappa'],
         ['Padayappa Theme 1', 'TAMIL', '1999', 'A R Rahman', 'eguXwwDSQNM 1', 'Padayappa', 0, 44],
         ['Manmadhan BGM 1', 'TAMIL', '2005', 'Harris Jayaraj', 'KYYHOkku5FU 1', 'Ghajini', 348, 446],
@@ -1190,6 +1190,13 @@ const playlists = {
         ['Enduko Madi', 'TELUGU', '2009', 'Achu & Dharan', '9sdzCtElP-8', 'Neenu Meeku Thelusa', 0, 260],
         ['Ye Cheekati', 'TELUGU', '2007', 'Mickey J. Meyer', 'YXcEulXAfNM', 'Happy Days', 0, 276],
         ['PYAR KARKE', 'HINDI', '2006', 'Pritam', 'otV2SK65MmA', 'PYAR KE SIDE EFFECTS'],
+
+        ['Livin it', 'TAMIL', '1999', 'A R Rahman', 'EYlu0qrsDEg', 'Padayappa'],
+        ['Livin it', 'TAMIL', '1999', 'A R Rahman', 'nagt7yu-Hw4', 'Padayappa'],
+        ['Livin it', 'TAMIL', '1999', 'A R Rahman', 'S1UG5F2APLo', 'Padayappa'],
+        ['Livin it', 'TAMIL', '1999', 'A R Rahman', 'DKtscJlSqKI', 'Padayappa'],
+        ['Livin it', 'TAMIL', '1999', 'A R Rahman', 'FccsFXFrsCE', 'Padayappa'],
+        ['Livin it', 'TAMIL', '1999', 'A R Rahman', '7vIDAmw-P30', 'Padayappa'],
       ],
     'informations': {}
   }
