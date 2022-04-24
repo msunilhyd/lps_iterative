@@ -11,6 +11,8 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
+        ['Fur Elise', 'HINDI', '2019', 'Beethoven', 'f5ZravZc0Y8', 'Kabir Singh' ],
+        ['Interstellar Cover', 'TAMIL', '1999', 'A R Rahman', 'BFetvsemGOY', 'Padayappa'],
         ['Agni Skalana', 'TAMIL', '1999', 'A R Rahman', 'NTfhqNcqo6A', 'Padayappa'],
         ['Jolly O Gymkhana', 'TAMIL', '1999', 'A R Rahman', 'uVbSqPy18hU', 'Padayappa'],
         ['Livin it', 'TAMIL', '1999', 'A R Rahman', 'WlgoUlOkyzU', 'Padayappa'],
