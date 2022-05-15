@@ -11,6 +11,7 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
+        ['Mood', 'ENGLISH', '-', 'Billy Joel', 'nMVFSwfV6wk', '-'],
         ['Hallelujah', 'ENGLISH', '-', 'Billy Joel', 'y8AWFf7EAc4', '-'],
         ['House Of The Rising Sun', 'ENGLISH', '-', 'Billy Joel', 'sHbKdI26RkE', '-'],
         ['The Sounds of Silence ', 'ENGLISH', '-', 'Billy Joel', '4fWyzwo1xg0', '-'],
@@ -115,8 +116,6 @@ const playlists = {
         ['Jaamu Raathiri Rekindled', 'ENGLISH', '1985', 'Tears for Fears', '_cwU4Cg0Tkg', 'Songs from the Big Chair'],
         ['Memories Ft Hawayein | Flute Version', 'ENGLISH', '1985', 'Tears for Fears', 'TUhN4N6Up1w', '-'],
         ['Titanium - Mike Dawes', 'ENGLISH', '1985', 'Tears for Fears', 'EaI_wv3mKXI', '-'],
-        ['devude ichhadu | Flute Version', 'ENGLISH', '1985', 'Tears for Fears', 'kXiSlk1daHI', 'Songs from the Big Chair', 10],
-        ['Kal Ho Na Ho | Flute Version', 'ENGLISH', '1985', 'Tears for Fears', 'fKsIfKhlqC4', 'Songs from the Big Chair'],
         ['Priyatama Na Hrudayama | Flute Cover', 'ENGLISH', '1985', 'Tears for Fears', 'KkwNuZdO-No', '-'],
         ['Eastside acousticc', 'ENGLISH', '2018', 'Benny Blanco', '2C-zNQq7zRQ', 'Eastside'],
         ['Mike Dawes: All Along the Watchtower', 'ENGLISH', '1985', 'Tears for Fears', 'hAZVtPJg6cM', '-'],
@@ -1112,7 +1111,6 @@ const playlists = {
         ['Naa Pranama', 'TELUGU', '2001', 'S.A.Raj Kumar', 'dqcC56cqyiY', 'Daddy', 0, 292],
         ['Good Time', 'ENGLISH', '2008', 'Owl City & Carly Rae Jepsen', 'cmLSizwDGj4', 'Maybe', '-', 0, 201],
         ['7G Rainbow Colony BGM 2', 'TAMIL', '2007', 'Yuvan Shankar Raja', 'xAx8GwWLSlU', '7G Rainbow Colony'],
-        ['Harris Jayaraj Flute ', 'TAMIL', '2019', 'Harris Jayaraj', 'arYTVSKYf4Y', '-', 6, 694],
         ['Soniya', 'TAMIL', '1997', 'AR RAHMAN', 'sHbiwr5Ue6Y', 'Ratchagan'],
         ['Chiru Chiru Chinukai', 'TELUGU', '2010', 'Yuvan Shankar Raja', 'eVKLR0cM-FA', 'awaara'],
         ['Tu Jaane Na', 'HINDI', '2009', 'Pritam', 'P8PWN1OmZOA', 'Ajab Prem Ki Ghazab Kahani', 0, 635],
