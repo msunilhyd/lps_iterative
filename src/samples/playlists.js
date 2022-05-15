@@ -11,6 +11,16 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
+        ['Hallelujah', 'ENGLISH', '-', 'Billy Joel', 'y8AWFf7EAc4', '-'],
+        ['House Of The Rising Sun', 'ENGLISH', '-', 'Billy Joel', 'sHbKdI26RkE', '-'],
+        ['The Sounds of Silence ', 'ENGLISH', '-', 'Billy Joel', '4fWyzwo1xg0', '-'],
+        ['Dancing Queen', 'ENGLISH', '-', 'Billy Joel', '3ij_pUtJJrw', '-'],
+        ['Layla', 'ENGLISH', '-', 'Billy Joel', 'TngViNw2pOo', '-'],
+        ['Hotel California', 'ENGLISH', '-', 'Billy Joel', 'SkK2nSPQEVQ', '-'],
+        ['Satisfaction', 'ENGLISH', '-', 'Billy Joel', 'MSSxnv1_J2g', '-'],
+        ['Paint it Black', 'ENGLISH', '-', 'Billy Joel', 'zSmjW5fNUZA', '-'],
+        ['Baba Oriley', 'ENGLISH', '-', 'Billy Joel', 'x2KRpRMSu4g', '-'],
+        ['Piano Man', 'ENGLISH', '-', 'Billy Joel', 'QwVjTlTdIDQ', '-'],
         ['Mahiya', 'HINDI', '2019', 'Beethoven', 'dhTUGbVgogY', 'Kabir Singh' ],
         ['MAVELE MAVELE', 'HINDI', '2019', 'Beethoven', 'Y_gJHhbUCLI', 'Kabir Singh' ],
         ['Fur Elise', 'HINDI', '2019', 'Beethoven', 'f5ZravZc0Y8', 'Kabir Singh' ],
