@@ -87,9 +87,9 @@ class Playlist extends Component {
 		const playing = this.state.playing
 		playlist.informations = data.informations;
 
-		if (playing) {
-			const currentPlaylistItem = this.childrenItems.filter(child => child.songId === playing).shift()
-		}
+		// if (playing) {
+		// 	const currentPlaylistItem = this.childrenItems.filter(child => child.songId === playing).shift()
+		// }
 
 		this.setState({ playlist, prevIndex: playing, playing: data.informations.id, videoIndex: data.index });
 	}
