@@ -11,6 +11,7 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
+        ['Sadeness', 'HINDI', '2017', 'Pritam', 'rCElGHuHDwY', 'Jab Harry Met Sejal'],
         ['Miserlou', 'HINDI', '2017', 'Pritam', 'mKpsuGMeqHI', 'Jab Harry Met Sejal'],
         ['The Greatest ', 'HINDI', '2017', 'Pritam', 'IzCpyiabtME', 'Jab Harry Met Sejal'],
         ['Cant Help Falling In Love (Elvis Cover)', 'ENGLISH', '1985', 'Tears for Fears', '6ThQkrXHdh4', '-'],
@@ -23,6 +24,7 @@ const playlists = {
         ['Uppena BGM-A', 'TELUGU', '2020', 'Devi Sri Prasad', '9i87gLga508', 'Uppena', 3, 47],
         ['Baba Oriley', 'ENGLISH', '-', 'Billy Joel', 'QRTNm6GLJYI', '-'],
         ['Halamithi Habibo', 'ENGLISH', '1985', 'Tears for Fears', '8FAUEv_E_xQ', 'Songs from the Big Chair'],
+        ['SarangaDariya', 'HINDI', '2017', 'Pritam', 'L0TJAYSVZX0', 'Jab Harry Met Sejal'],
         ['Tchê tcherere tchê tchê', 'Portuguese', '2011', 'Gusttavo Lima', 'jtCZSEhd1Xo', 'Balada'],
         ['Dancing Queen', 'ENGLISH', '-', 'Billy Joel', '3ij_pUtJJrw', '-'],
         ['House Of The Rising Sun', 'ENGLISH', '-', 'Billy Joel', 'sHbKdI26RkE', '-'],
@@ -36,6 +38,7 @@ const playlists = {
         ['Piano Man', 'ENGLISH', '-', 'Billy Joel', 'QwVjTlTdIDQ', '-'],
         ['Fur Elise', 'HINDI', '2019', 'Beethoven', 'f5ZravZc0Y8', 'Kabir Singh' ],
         ['Chain (Acoustic)', 'JAPANESE', '2006', 'BACK-ON', 'HEZPvtxDj4A', 'Chain',0, 200],
+        ['AyPilla ', 'HINDI', '2017', 'Pritam', 'my4yAvsiLqM', 'Jab Harry Met Sejal'],
         ['The Sounds of Silence ', 'ENGLISH', '-', 'Billy Joel', 'bjkPQYWNTlg', '-'],
         ['Sakhiyan', 'PUNJABI', '1996', 'A.R Rahman', 'S-ezhTXPVGU', 'Bharateeyudu', 10],
         ['Hall of fame', 'ENGLISH', '2012', 'The Script', '3Kxf2dHlDpQ', 'Hall of Fame'],
