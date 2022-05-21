@@ -56,11 +56,13 @@ const playlists = {
         ['Try', 'ENGLISH', '2012', ' Pink', 'pPtlSF4TlJE', 'The Truth About Love', 0, 244],
         ['People Get Up And Drive Your Funky Soul', 'ENGLISH', '2012', 'Leonard Cohen', '0oxt-WtC6Oc', ''],
         ['Love Cues of Samjhawan', 'HINDI', '2014', 'Sachin-Jigar', 'rlm0Ait_ujI', 'Humpty Sharma Ki'],
+        ['Pithamangan BGM 1', 'HINDI', '2020', 'Pritam', 'KUi_eW5UL1U 1', 'Love Aaj Kal 2020', 992, 1082],
         ['Afghan Jalebi', 'HINDI', '2015', 'Pritam', 'V_92Ry6aKe0', 'Phantom', 0, 223],
         ['MARJAANI', 'HINDI', '2009', 'Pritam', 'xYyV1ZXLVdA', 'Billu', 0, 321],
         ['Summer Of ’69', 'ENGLISH', '1988', 'Bryan Adams', 'HtipPCt317Y', 'Reckless', 10, ],
         ['The Maari Swag', 'TAMIL', '2015', 'Anirudh', 'AeY7_k77zKg', 'Maari'],
         ['Something That I Already Know', ' ENGLISH', '2007', ' Backstreet Boys', 'm291VyX5dTQ', 'Unbreakable', 4, 212],
+        ['Pithamagan 3', 'TAMIL', '2015', 'Anirudh', '_rpOKkKXFqg', 'Maari', 251, 278],
         ['Dil toh bacha hai ji - remix', 'HINDI', '2010', 'Vishal Bhardwaj', '8AZBJRpuOsU', 'Ishqiya'],
         ['Thalli Pogathey', 'TAMIL', '2016', 'A. R. Rahman', 'IarsrX60bZw', 'Achcham Yenbadhu Madamaiyada', 0, 263],
         ['Rather Be', 'ENGLISH', '2014', 'Clean Bandit Jess Glynne', 'jUjDcqdvCrk', 'New Eyes'],
@@ -249,7 +251,8 @@ const playlists = {
         ['Kaise Hua ', 'HINDI', '2019', 'Mithoon', 'WKv07mnKVEE', 'Kabir Singh' ],
         ['Levitating', 'ENGLISH', '2020', 'Dua Lipa', 'TUVcZfQe-Kw', '-'],
         ['Channa Mereya', 'HINDI', '2016', 'Pritam', 'bzSTpdcs-EI', 'Ae Dil Hai Mushkil', 0, 285],
-        
+        ['Pithamangan BGM 2', 'HINDI', '2020', 'Pritam', 'KUi_eW5UL1U 2', 'Love Aaj Kal 2020', 1269, 1316],
+
         ['Zingat', 'MARATHI', '2016', 'Ajay-Atul', '8eong8XHDB4', 'Sairat', 0, 225],
         ['AADAT', 'HINDI', '2007', 'JAL', '8FzeqBVF8ms', 'AADAT', 0, 266],
         ['Jadu Hai Nasha Hai', 'HINDI', '2003', 'M. M. Keeravani', 'Iwa0Z9roM7g', 'Jism', 0, 324],
