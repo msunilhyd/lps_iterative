@@ -1227,13 +1227,6 @@ const playlists = {
         ['Pacha Bottasi', 'TELUGU', '1996', 'A.R Rahman', 'ZLLPLH_wKbU', 'Bharateeyudu'],
         ['Eastside cover', 'ENGLISH', '2018', 'Benny Blanco', 'tybBI5tuAtc', 'Eastside'],
         ['Tu Chahiye', 'HINDI', '2015', 'Pritam', 'zuvla6ABKbs', 'Bajrangi Bhaijaan '],
-
-        ['Livin it', 'TAMIL', '1999', 'A R Rahman', 'EYlu0qrsDEg', 'Padayappa'],
-        ['Livin it', 'TAMIL', '1999', 'A R Rahman', 'nagt7yu-Hw4', 'Padayappa'],
-        ['Livin it', 'TAMIL', '1999', 'A R Rahman', 'S1UG5F2APLo', 'Padayappa'],
-        ['Livin it', 'TAMIL', '1999', 'A R Rahman', 'DKtscJlSqKI', 'Padayappa'],
-        ['Livin it', 'TAMIL', '1999', 'A R Rahman', 'FccsFXFrsCE', 'Padayappa'],
-        ['Livin it', 'TAMIL', '1999', 'A R Rahman', '7vIDAmw-P30', 'Padayappa'],
       ],
     'informations': {}
   }
