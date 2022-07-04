@@ -17,7 +17,7 @@ const playlists = {
         ['Wavin Flag', 'HINDI', '2006', 'Shankar-Ehsaan-Loy', 'usjS6de7eaI', 'Kabhi Alvida Naa Kehna'],
         ['Edhuta Nilichindhi', 'TELUGU', '2008', 'Kamalakar', 'rXumims1q98', 'Vaana', 16, 302],
         ['Premalekhanu Raasenu', 'TELUGU', '2010', 'Salim–Sulaiman', 'yk4n-KXFj2E', 'Anaganaga Oka Dheerudu', 3, 256],      
-        ['Shayad 2', 'HINDI', '2020', 'Pritam', 'y1Wv2Wmg4ms', 'Love Aaj Kal 2020']
+        ['Shayad 2', 'HINDI', '2020', 'Pritam', 'y1Wv2Wmg4ms', 'Love Aaj Kal 2020'],
         ['Thalapathi BGM', 'TAMIL', '1991', 'IlayaRaaja', 'rZzTVf8udgw', 'Thalapathi', 0, 55],
         ['Venpani Malare', 'TAMIL', '2017', 'Sean Roldan', '7KvLlA4g1so', '  Power Paandi'],
         ['Premiste BGM', 'HINDI', '2017', 'Pritam', 'Z3qBYFUJImY', 'Jab Harry Met Sejal', 0, 60],
