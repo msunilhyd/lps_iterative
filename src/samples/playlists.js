@@ -11,6 +11,12 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
+        ['Phir Na Milen Kabhi', 'HINDI', '2007', 'Vishal-Shekhar', 'Powg9XIWNpU', 'Om Shanti Om'],
+        ['Humraah', 'HINDI', '2007', 'Vishal-Shekhar', 'Y8ETNh_IQjs', 'Om Shanti Om'],
+        ['Malang', 'HINDI', '2007', 'Vishal-Shekhar', 'd4EWhSD11Dg', 'Om Shanti Om'],
+        ['Humdard', 'HINDI', '2007', 'Vishal-Shekhar', '7tElHNHLSKY', 'Om Shanti Om'],
+        ['Main Agar Kahoon', 'HINDI', '2007', 'Vishal-Shekhar', 'DAYszemgPxc', 'Om Shanti Om', 0, 306],
+        ['See you again Instrumental', 'ENGLISH', '2010', 'Charlie Puth', '4LXLwtqO4zY', 'See You Again'],
         ['Kaarkuzhal', 'ENGLISH', '2010', 'Charlie Puth', '3VBLaFC8QfQ', 'See You Again'],
         ['Thittam Poda Theriyala', 'ENGLISH', '2010', 'Charlie Puth', 'cQ_wKOpz6rQ', 'See You Again'],
         ['See You Again Taylor Swift', 'ENGLISH', '2010', 'Charlie Puth', 'UxsxvOCplB8', 'See You Again'],
@@ -1205,7 +1211,6 @@ const playlists = {
         ['Sadda Haq', 'HINDI', '2011', 'A R Rahman', 'QTQVG5rSMkQ', 'Rockstar', 0, 358],
         ['Moonu Ram writes his suicide note BGM ', 'TAMIL', '2011', 'Anirudh', 'jp4foNfPzx8', 'Moonu'],
         ['Kaalaiyil dhinamum bgm 1', 'TAMIL', '2004', 'A. R. Rahman', 'T0wQS4O0dOU', 'New', 0, 62],
-        ['Main Agar Kahoon', 'HINDI', '2007', 'Vishal-Shekhar', 'DAYszemgPxc', 'Om Shanti Om', 0, 306],
         ['Ghal Ghal', 'TELUGU', '2005', 'Devi Sri Prasad', 'JOCeKMirVIk', 'Nuvvostanante Nenoddantana', 0, 318],
         ['Dynamite', 'ENGLISH', '2009', 'Taio Cruz', 'Jq8rVrcbUXY', 'Rokstarr ', 0, 200],
         ['The Dark Knight Main Theme', 'ENGLISH', '2008', 'Hans Zimmer ', 'iGx5a1ifSDs', 'The Dark Knight', 0, 456],
