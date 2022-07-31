@@ -11,10 +11,7 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
-        ['Phir Na Milen Kabhi', 'HINDI', '2007', 'Vishal-Shekhar', 'Powg9XIWNpU', 'Om Shanti Om'],
-        ['Humraah', 'HINDI', '2007', 'Vishal-Shekhar', 'Y8ETNh_IQjs', 'Om Shanti Om'],
         ['Malang', 'HINDI', '2007', 'Vishal-Shekhar', 'd4EWhSD11Dg', 'Om Shanti Om'],
-        ['Humdard', 'HINDI', '2007', 'Vishal-Shekhar', '7tElHNHLSKY', 'Om Shanti Om'],
         ['Main Agar Kahoon', 'HINDI', '2007', 'Vishal-Shekhar', 'DAYszemgPxc', 'Om Shanti Om', 0, 306],
         ['See you again Instrumental', 'ENGLISH', '2010', 'Charlie Puth', '4LXLwtqO4zY', 'See You Again'],
         ['Kaarkuzhal', 'ENGLISH', '2010', 'Charlie Puth', '3VBLaFC8QfQ', 'See You Again'],
