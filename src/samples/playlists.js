@@ -12,6 +12,7 @@ const playlists = {
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
 
+        ['Drink Up Me Hearties Yo Ho', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 'RUNRoXbaflM', 'Pirates Of The Caribbean'],
         ['Koi fariyaad Aakhon ke Sagar Cover', 'HINDI', '2004', 'Fuzön', '4aM3MzbkrTI', ' Saagar', 150],
         ['Final Ascent', 'ENGLISH', '2008', 'Hans Zimmer ', 'Vv_z2obBFd0', 'No Time To Die', 240],
         ['Enna Sona', 'HINDI', '2010', 'A R Rahman', 'ofTxceS4wLI', '-'],
@@ -43,11 +44,11 @@ const playlists = {
         ['Something Just Like This', 'ENGLISH', '2017', 'Coldplay-The Chainsmokers', 'FM7MFYoylVs', 'Something Just Like This'],
         ['Ranjha', 'PUNJABI', '1996', 'A.R Rahman', 'UU-eUEt-tPg', 'Bharateeyudu'],
         ['Enno ratrulostayi gani cover', 'ENGLISH', '1985', 'Tears for Fears', 'o08ntJh3Z2E', 'Songs from the Big Chair'],
-        ['Toh Phir Aao', 'HINDI', '2007', 'Pritam', '6CNIHuLHWX4', 'Awarapan', 0, 342],
+        ['Toh Phir Aao', 'HINDI', '2007', 'Pritam', '-ML12N-EDs4', 'Awarapan'],
         ['HEYY BABYY', 'HINDI', '2014', 'A.R Rahman', 'qY2q4SIcqiM', ' Highway'],
         ['Suno Na Sangemarmar', 'ENGLISH', '1985', 'Tears for Fears', 'm73ssyh_f9I', 'Songs from the Big Chair'],
         ['Little Talks', 'ENGLISH', '2011', 'Of Monsters and Men', 'ghb6eDopW8I', 'My Head Is an Animal'],
-        ['Unnattundi Gundey', 'TELUGU', '2017', 'Gopi Sunder', 'BNI3-IVRtMM', 'Ninnu Kori', 4, 282],
+        ['Unnattundi Gundey', 'TELUGU', '2017', 'Gopi Sunder', 'geZ5tlTENw0', 'Ninnu Kori'],
         ['Stereo Hearts', 'ENGLISH', '2011', 'Gym Class Heroes', 'T3E9Wjbq44E', 'The Papercut Chronicles II'],
         ['Manasa Ottu', 'TELUGU', '2003', 'M. M. Keeravani', 'UKSjkZJsMQY', 'Pilisthe Palukutha', 0, 292],
         ['Black Sheep', 'ENGLISH', '2010', 'Metric', 'KifLmoUhbU8', ' Scott Pilgrim vs. the World', 0, 260],
