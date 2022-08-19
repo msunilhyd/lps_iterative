@@ -12,6 +12,7 @@ const playlists = {
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
 
+        ['James Brown, 2Pac - Unchained', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 't5uAX0pyD_I', 'Pirates Of The Caribbean'],
         ['Drink Up Me Hearties Yo Ho', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 'RUNRoXbaflM', 'Pirates Of The Caribbean'],
         ['Final Ascent', 'ENGLISH', '2008', 'Hans Zimmer ', 'Vv_z2obBFd0', 'No Time To Die', 240],
         ['Mellisaye (Reprise) Manonmani', 'TAMIL', '2018', 'Yeshwanth | Nikhil Mathew', 'Jv477p7GpfM', '-', 6, 170],
