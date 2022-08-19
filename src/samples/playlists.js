@@ -52,6 +52,7 @@ const playlists = {
         ['Stressed out', 'ENGLISH', '2012', 'Imagine Dragons', 'f1tDFtMjwAE', 'Continued Silence EP'],
         ['Padayappa Theme 2', 'TAMIL', '1999', 'A R Rahman', 'eguXwwDSQNM 2', 'Padayappa', 644, 294],
         ['Mountains', 'ENGLISH', '2014', 'Hans Zimmer ', 'lM5IxG1qhl0', 'Interstellar', 0, 548],
+        ['Django Unchained ● Main Theme', 'TAMIL', '2020', 'A. R. Rahman', 'v42Dx5eIoFQ', 'Sillunu Oru Kaadhal'],
         ['Newyork Nagaram (All Versions)', 'TAMIL', '2020', 'A. R. Rahman', 'XgtkRItub3c', 'Sillunu Oru Kaadhal'],
         ['Kushi BGM 1', 'TELUGU', '2001', 'Mani Sharma', 'YQOBhKk9eBc', 'Kushi'],
         ['Remo - BGM 4', 'TAMIL', '2016', 'Anirudh', 'Bf67mfzqb50 4', 'Remo', 268, 306],
