@@ -83,6 +83,7 @@ const playlists = {
         ['Enno ratrulostayi gani cover', 'ENGLISH', '1985', 'Tears for Fears', 'o08ntJh3Z2E', 'Songs from the Big Chair'],
         ['Enno ratrulostayi gani cover', 'ENGLISH', '1985', 'Tears for Fears', 'KpcfHX0zAsc', 'Songs from the Big Chair'],
         ['Enno ratrulostayi gani cover', 'ENGLISH', '1985', 'Tears for Fears', 'dfgJYRdNwDE', 'Songs from the Big Chair'],
+        ['A Real Hero', 'ENGLISH', '1985', 'Tears for Fears', 'BHgYtKkSEDA', 'Songs from the Big Chair'],
         ['Toh Phir Aao', 'HINDI', '2007', 'Pritam', '-ML12N-EDs4', 'Awarapan'],
         ['HEYY BABYY', 'HINDI', '2014', 'A.R Rahman', 'qY2q4SIcqiM', ' Highway'],
         ['Suno Na Sangemarmar', 'ENGLISH', '1985', 'Tears for Fears', 'm73ssyh_f9I', 'Songs from the Big Chair'],
