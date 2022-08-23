@@ -81,6 +81,8 @@ const playlists = {
         ['Something Just Like This', 'ENGLISH', '2017', 'Coldplay-The Chainsmokers', 'FM7MFYoylVs', 'Something Just Like This'],
         ['Ranjha', 'PUNJABI', '1996', 'A.R Rahman', 'UU-eUEt-tPg', 'Bharateeyudu'],
         ['Enno ratrulostayi gani cover', 'ENGLISH', '1985', 'Tears for Fears', 'o08ntJh3Z2E', 'Songs from the Big Chair'],
+        ['Enno ratrulostayi gani cover', 'ENGLISH', '1985', 'Tears for Fears', 'KpcfHX0zAsc', 'Songs from the Big Chair'],
+        ['Enno ratrulostayi gani cover', 'ENGLISH', '1985', 'Tears for Fears', 'dfgJYRdNwDE', 'Songs from the Big Chair'],
         ['Toh Phir Aao', 'HINDI', '2007', 'Pritam', '-ML12N-EDs4', 'Awarapan'],
         ['HEYY BABYY', 'HINDI', '2014', 'A.R Rahman', 'qY2q4SIcqiM', ' Highway'],
         ['Suno Na Sangemarmar', 'ENGLISH', '1985', 'Tears for Fears', 'm73ssyh_f9I', 'Songs from the Big Chair'],
