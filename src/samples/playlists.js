@@ -12,6 +12,7 @@ const playlists = {
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
 
+        ['Flash travels back in time', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', '6Rqj4e1hAjY', 'Pirates Of The Caribbean'],
         ['James Brown, 2Pac - Unchained', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 't5uAX0pyD_I', 'Pirates Of The Caribbean'],
         ['Drink Up Me Hearties Yo Ho', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 'RUNRoXbaflM', 'Pirates Of The Caribbean'],
         ['Final Ascent', 'ENGLISH', '2008', 'Hans Zimmer ', 'Vv_z2obBFd0', 'No Time To Die', 240],
