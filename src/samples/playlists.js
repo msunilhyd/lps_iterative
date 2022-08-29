@@ -12,6 +12,8 @@ const playlists = {
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
 
+        ['Achillies last stand', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 'P-Rf1I9htJk', 'Pirates Of The Caribbean'],
+        ['Kabi Kabi Aditi', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 'r9eGi0rVxBw', 'Pirates Of The Caribbean'],
         ['Flash travels back in time', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 'juiULmf-AZ8', 'Pirates Of The Caribbean'],
         ['James Brown, 2Pac - Unchained', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 't5uAX0pyD_I', 'Pirates Of The Caribbean'],
         ['Drink Up Me Hearties Yo Ho', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 'RUNRoXbaflM', 'Pirates Of The Caribbean'],
