@@ -442,6 +442,7 @@ const playlists = {
         ['Khamoshiyan', 'HINDI', '2015', 'Mithoon', 'Mv3SZDP7QUo', ' Khamoshiyan'],
         ['Chandamama', 'TELUGU', '2007', 'Devi Sri Prasad', 'nSW0ksiTWyQ', 'Shankardada Zindabad', 0, 220],
         ['Mellaga', 'TELUGU', '2007', 'Devi Sri Prasad', 's3MgIV0F_c0', 'Shankardada Zindabad'],
+        ['Vendhu Thanindhathu Kaadu Jukebox', 'TELUGU', '2007', 'Devi Sri Prasad', 'bTDcyZKz-BI', 'Shankardada Zindabad'],
         ['Gore Gore', 'TELUGU', '2007', 'Devi Sri Prasad', 'aIqsmk1-RmA', 'Shankardada Zindabad'],
         ['Dil Diyyan Veena', 'HINDI', '2012', 'Ajay-Atul', '6RAo7B5Ev8E', 'Agneepath'],
         ['Emai Poyave', 'TELUGU', '2018', 'Vishal Chandrasekhar', 'QfF5ceRzrqI', 'Padi Padi Leche Manasu', 0, 151],
