@@ -474,7 +474,6 @@ const playlists = {
         ['Fix You', 'ENGLISH', '2005', 'Coldplay', 'SYmJ_YcC_Fg', 'X&Y', 0, 270],
         ['Kaise Hua ', 'HINDI', '2019', 'Mithoon', 'WKv07mnKVEE', 'Kabir Singh' ],
         ['Levitating', 'ENGLISH', '2020', 'Dua Lipa', 'TUVcZfQe-Kw', '-'],
-        ['Yuvan Jukebox', 'TELUGU', '2007', 'Devi Sri Prasad', 'kikmsOdZ8lo', 'Shankardada Zindabad'],
         ['Zingat', 'MARATHI', '2016', 'Ajay-Atul', '8eong8XHDB4', 'Sairat', 0, 225],
         ['AADAT', 'HINDI', '2007', 'JAL', '8FzeqBVF8ms', 'AADAT', 0, 266],
         ['Jadu Hai Nasha Hai', 'HINDI', '2003', 'M. M. Keeravani', 'Iwa0Z9roM7g', 'Jism', 0, 324],
@@ -1273,6 +1272,10 @@ const playlists = {
         ['Ullaallaa', 'TAMIL', '2019', 'Anirudh', 'UvQ9y4w8unE', 'Petta', 0, 293],
         ['The Maari Swag', 'TAMIL', '2015', 'Anirudh', 'AeY7_k77zKg', 'Maari'],
         ['Piano Man', 'ENGLISH', '-', 'Billy Joel', 'QwVjTlTdIDQ', '-'],
+        ['Yuvan Jukebox', 'TELUGU', '2007', 'Devi Sri Prasad', 'kikmsOdZ8lo', 'Shankardada Zindabad'],
+
+        ['Yuvan Jukebox', 'TELUGU', '2007', 'Devi Sri Prasad', 'vejRtsnNpjc', 'Shankardada Zindabad'],
+      
 
       ],
     'informations': {}
