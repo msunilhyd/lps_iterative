@@ -1272,10 +1272,8 @@ const playlists = {
         ['Ullaallaa', 'TAMIL', '2019', 'Anirudh', 'UvQ9y4w8unE', 'Petta', 0, 293],
         ['The Maari Swag', 'TAMIL', '2015', 'Anirudh', 'AeY7_k77zKg', 'Maari'],
         ['Piano Man', 'ENGLISH', '-', 'Billy Joel', 'QwVjTlTdIDQ', '-'],
-        ['Yuvan Jukebox', 'TELUGU', '2007', 'Devi Sri Prasad', 'kikmsOdZ8lo', 'Shankardada Zindabad'],
 
-        ['Yuvan Jukebox', 'TELUGU', '2007', 'Devi Sri Prasad', 'vejRtsnNpjc', 'Shankardada Zindabad'],
-        ['Yuvan Jukebox', 'TELUGU', '2007', 'Devi Sri Prasad', 'XpRkkY2kaW4', 'Shankardada Zindabad'],
+        ['Yuvan Jukebox', 'TELUGU', '2007', 'Devi Sri Prasad', 'xBLsWs-cwgc', 'Shankardada Zindabad'],
       
 
       ],
