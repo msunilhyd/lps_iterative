@@ -1273,6 +1273,8 @@ const playlists = {
         ['The Maari Swag', 'TAMIL', '2015', 'Anirudh', 'AeY7_k77zKg', 'Maari'],
         ['Piano Man', 'ENGLISH', '-', 'Billy Joel', 'QwVjTlTdIDQ', '-'],
         ['Pehli Dafa', 'ENGLISH', '-', 'Billy Joel', '70FbfOQXPwk', '-'],
+        ['Kesariya (Dance Mix)', 'ENGLISH', '-', 'Billy Joel', 'K3B8-klo5xc', '-'],
+      
 
         ['Yuvan Jukebox', 'TELUGU', '2007', 'Devi Sri Prasad', 'xBLsWs-cwgc', 'Shankardada Zindabad'],
       
