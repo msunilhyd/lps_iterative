@@ -1274,7 +1274,8 @@ const playlists = {
         ['Piano Man', 'ENGLISH', '-', 'Billy Joel', 'QwVjTlTdIDQ', '-'],
         ['Pehli Dafa', 'ENGLISH', '-', 'Billy Joel', '70FbfOQXPwk', '-'],
         ['Kesariya (Dance Mix)', 'ENGLISH', '-', 'Billy Joel', 'K3B8-klo5xc', '-'],
-      
+        ['JAB TAK', 'ENGLISH', '-', 'Billy Joel', 'K-Ts-NFR62o', '-'],
+
 
         ['Yuvan Jukebox', 'TELUGU', '2007', 'Devi Sri Prasad', 'xBLsWs-cwgc', 'Shankardada Zindabad'],
       
