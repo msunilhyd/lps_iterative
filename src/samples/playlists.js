@@ -1277,7 +1277,6 @@ const playlists = {
         ['JAB TAK', 'ENGLISH', '-', 'Billy Joel', '2Ejac3hB184', '-'],
 
 
-        ['Yuvan Jukebox', 'TELUGU', '2007', 'Devi Sri Prasad', 'xBLsWs-cwgc', 'Shankardada Zindabad'],
       
         ['Jeevakaasham', 'TELUGU', '2007', 'Devi Sri Prasad', 'Hqge4UiuX1Q', 'Shankardada Zindabad'],
         ['Ke ke lunga ', 'TELUGU', '2007', 'Devi Sri Prasad', 'dnEAXkRehjg', 'Shankardada Zindabad'],
