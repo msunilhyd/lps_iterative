@@ -1279,6 +1279,9 @@ const playlists = {
 
         ['Yuvan Jukebox', 'TELUGU', '2007', 'Devi Sri Prasad', 'xBLsWs-cwgc', 'Shankardada Zindabad'],
       
+        ['Jeevakaasham', 'TELUGU', '2007', 'Devi Sri Prasad', 'Hqge4UiuX1Q', 'Shankardada Zindabad'],
+        ['Ke ke lunga ', 'TELUGU', '2007', 'Devi Sri Prasad', 'dnEAXkRehjg', 'Shankardada Zindabad'],
+        ['Oorantha', 'TELUGU', '2007', 'Devi Sri Prasad', 'jFTWyjcOqzs', 'Shankardada Zindabad'],
 
       ],
     'informations': {}
