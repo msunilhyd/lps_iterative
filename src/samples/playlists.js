@@ -1284,6 +1284,7 @@ const playlists = {
         ['Oorantha', 'TELUGU', '2007', 'Devi Sri Prasad', 'jFTWyjcOqzs', 'Shankardada Zindabad'],
         ['Mujhe Mujhse Kaun', 'TELUGU', '2007', 'Devi Sri Prasad', 'OPe_grZSbbo', 'Shankardada Zindabad'],
         ['Malang', 'HINDI', '2007', 'Vishal-Shekhar', 'd4EWhSD11Dg', 'Om Shanti Om'],
+        ['Lehenga', 'HINDI', '2007', 'Vishal-Shekhar', 'F2Q5FC7Xouc', 'Om Shanti Om'],
         ['Tere Sang', 'HINDI', '2007', 'Vishal-Shekhar', 'nzlt_Sda0cM', 'Om Shanti Om'],
 
 
