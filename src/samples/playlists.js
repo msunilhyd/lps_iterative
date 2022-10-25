@@ -207,7 +207,6 @@ const playlists = {
         ["Feels", 'ENGLISH', '2005', 'Bon Jovi', 'qXW3CHpv9fc', 'Oral Fixation Vol. 2'],
         ['Mood', 'ENGLISH', '-', 'Billy Joel', 'nMVFSwfV6wk', '-'],
         ['Om Mangalam', 'HINDI', '2010', 'Pritam', 'pW6EHVJ78K4', 'Once Upon a Time in Mumbaai'],
-        ['Malang', 'HINDI', '2007', 'Vishal-Shekhar', 'd4EWhSD11Dg', 'Om Shanti Om'],
         ['Kaarkuzhal', 'ENGLISH', '2010', 'Charlie Puth', '3VBLaFC8QfQ', 'See You Again'],
         ['Thittam Poda Theriyala', 'ENGLISH', '2010', 'Charlie Puth', 'cQ_wKOpz6rQ', 'See You Again'],
         ['See You Again Taylor Swift', 'ENGLISH', '2010', 'Charlie Puth', 'UxsxvOCplB8', 'See You Again'],
@@ -1264,6 +1263,7 @@ const playlists = {
         ['Dusk Till Dawn', 'ENGLISH', '2017', ' Zayn Malik', 'IgGylfWRI3I', 'Icarus Falls', 0, 260],
         ['Preminche Premava', 'TELUGU', '2006', 'A. R. Rahman', 'FR3Febey_lI', 'Nuvvu Nenu Prema', 16, 364],
         ['Kailove Chedugudu', 'TELUGU', '2000', 'A. R. Rahman', '0rIXXuwnSFQ', 'Sakhi', 0, 208],
+        ['Bagundey', 'TELUGU', '2007', 'Devi Sri Prasad', 'nm2quvqZ5OE', 'Shankardada Zindabad'],
         ['Emaindo Gaani', 'TELUGU', '2009', 'Achu & Dharan', 'E00t7gYiccE', 'Neenu Meeku Thelusa', 0, 250],
         ['En Mannavva', 'TAMIL', '2014', 'AR RAHMAN', 'tDcLTOSpHyI', 'Lingaa', 3, 262],
         ['NEE KALLALONA', 'TELUGU', '2014', 'Devi Sri Prasad', 'ehLAPMriTts', 'nenokkadine', 0, 126],
@@ -1272,15 +1272,20 @@ const playlists = {
         ['Ullaallaa', 'TAMIL', '2019', 'Anirudh', 'UvQ9y4w8unE', 'Petta', 0, 293],
         ['The Maari Swag', 'TAMIL', '2015', 'Anirudh', 'AeY7_k77zKg', 'Maari'],
         ['Piano Man', 'ENGLISH', '-', 'Billy Joel', 'QwVjTlTdIDQ', '-'],
+        
+      
+        ['Humraah', 'HINDI', '2007', 'Vishal-Shekhar', 'Y8ETNh_IQjs', 'Om Shanti Om'],
         ['Pehli Dafa', 'ENGLISH', '-', 'Billy Joel', '70FbfOQXPwk', '-'],
         ['Kesariya (Dance Mix)', 'ENGLISH', '-', 'Billy Joel', 'K3B8-klo5xc', '-'],
         ['JAB TAK', 'ENGLISH', '-', 'Billy Joel', '2Ejac3hB184', '-'],
-
-
-      
         ['Jeevakaasham', 'TELUGU', '2007', 'Devi Sri Prasad', 'Hqge4UiuX1Q', 'Shankardada Zindabad'],
+        ['phir na milen kabhi', 'HINDI', '2007', 'Vishal-Shekhar', 'Powg9XIWNpU', 'Om Shanti Om'],
         ['Ke ke lunga ', 'TELUGU', '2007', 'Devi Sri Prasad', 'dnEAXkRehjg', 'Shankardada Zindabad'],
         ['Oorantha', 'TELUGU', '2007', 'Devi Sri Prasad', 'jFTWyjcOqzs', 'Shankardada Zindabad'],
+        ['Mujhe Mujhse Kaun', 'TELUGU', '2007', 'Devi Sri Prasad', 'OPe_grZSbbo', 'Shankardada Zindabad'],
+        ['Malang', 'HINDI', '2007', 'Vishal-Shekhar', 'd4EWhSD11Dg', 'Om Shanti Om'],
+        ['Tere Sang', 'HINDI', '2007', 'Vishal-Shekhar', 'nzlt_Sda0cM', 'Om Shanti Om'],
+
 
       ],
     'informations': {}
