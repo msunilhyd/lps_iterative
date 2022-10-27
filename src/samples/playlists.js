@@ -688,7 +688,6 @@ const playlists = {
         ['Munbe vaa BGM - 4', 'TAMIL', '2020', 'A. R. Rahman', '5OunSxegSOA 5', 'Sillunu Oru Kaadhal', 78, 128],
         ['Bulla Ki Jaana Main Kaun', 'HINDI', '2004', 'Rabbi Shergill', 'gbpdE8n_QWo', 'Rabbi'],
         ['Undiporaadhey', 'TELUGU', '2018', 'Radhan', 'lewVFlngGCk', 'Hushaaru', 4, 176],
-        ['Now We Are Free ', 'ENGLISH', '2000', 'Hans Zimmer ', 'bxZx6NHkRyE', 'Gladiator'],
         ['Remo - BGM 11', 'TAMIL', '2016', 'Anirudh', 'Bf67mfzqb50 11', 'Remo', 910, 972],
         ['AADAT Remix', 'HINDI', '2007', 'JAL', 'gu3UMY2EzXE', 'Kalyug'],
         ['Stairway To Heaven', ' ENGLISH', '1971', ' Led Zeppelin', 'QkF3oxziUI4', 'The Song Remains Same', 0, 480],
