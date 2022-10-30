@@ -1279,13 +1279,15 @@ const playlists = {
         ['JAB TAK', 'ENGLISH', '-', 'Billy Joel', '2Ejac3hB184', '-'],
         ['Jeevakaasham', 'TELUGU', '2007', 'Devi Sri Prasad', 'Hqge4UiuX1Q', 'Shankardada Zindabad'],
         ['phir na milen kabhi', 'HINDI', '2007', 'Vishal-Shekhar', 'Powg9XIWNpU', 'Om Shanti Om'],
-        ['Ke ke lunga ', 'TELUGU', '2007', 'Devi Sri Prasad', 'dnEAXkRehjg', 'Shankardada Zindabad'],
+        ['Ke ke lunga ', 'TELUGU', '2007', 'Devi Sri Prasad', 'iy46sv82YSg', 'Shankardada Zindabad'],
         ['Oorantha', 'TELUGU', '2007', 'Devi Sri Prasad', 'jFTWyjcOqzs', 'Shankardada Zindabad'],
         ['Mujhe Mujhse Kaun', 'TELUGU', '2007', 'Devi Sri Prasad', 'OPe_grZSbbo', 'Shankardada Zindabad'],
         ['Malang', 'HINDI', '2007', 'Vishal-Shekhar', 'd4EWhSD11Dg', 'Om Shanti Om'],
-        ['Lehenga', 'HINDI', '2007', 'Vishal-Shekhar', 'F2Q5FC7Xouc', 'Om Shanti Om'],
+        ['Lehenga', 'HINDI', '2007', 'Vishal-Shekhar', 'F2Q5FC7Xouc', 'Om Shanti Om', 3, 208],
         ['Tere Sang', 'HINDI', '2007', 'Vishal-Shekhar', 'nzlt_Sda0cM', 'Om Shanti Om'],
         ['Hey Amigo', 'HINDI', '2007', 'Vishal-Shekhar', 'KqmB3_daAfw', 'Om Shanti Om'],
+        ['Love me little', 'HINDI', '2007', 'Vishal-Shekhar', 'Z6rEHTLBGeg', 'Om Shanti Om'],
+
 
 
       ],
