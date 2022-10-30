@@ -1287,7 +1287,7 @@ const playlists = {
         ['Tere Sang', 'HINDI', '2007', 'Vishal-Shekhar', 'nzlt_Sda0cM', 'Om Shanti Om'],
         ['Hey Amigo', 'HINDI', '2007', 'Vishal-Shekhar', 'KqmB3_daAfw', 'Om Shanti Om'],
         ['Love me little', 'HINDI', '2007', 'Vishal-Shekhar', 'Z6rEHTLBGeg', 'Om Shanti Om'],
-
+        ['Delilah', 'HINDI', '2007', 'Vishal-Shekhar', 'SrIxz9wHUX8', 'Om Shanti Om'],
 
 
       ],
