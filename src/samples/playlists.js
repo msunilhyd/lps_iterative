@@ -751,7 +751,6 @@ const playlists = {
         ['Khabar Nahi', 'HINDI', '2008', 'Vishal-Shekhar', '4HzgdWnfJXk', 'Dostana', 0, 255],
         ['Manasaa', 'TELUGU', '2010', 'A R Rahman', 'Tqx6BtVsEH8', 'Yemaaya Chesave', 0, 248],
         ['Idhe Paata Prati Chota', 'TELUGU', '1973', 'Satyam', 'x3KMwZwPLDM', 'Puttinillu Mettinillu'],
-        ['Oh Maria', 'HINDI', '1999', 'A. R. Rahman', 'GTTVce5q-58', 'Kadhalar Dhinam', 32],
         ['Oh Maria', 'TAMIL', '1999', 'A. R. Rahman', 'L2J6Vj5TlNE', 'Kadhalar Dhinam', 34],
         ['Woh Lamhey DJ Mix', 'HINDI', '2005', 'JAL', '3aPKCzgvh0Y', 'Zeher'],
         ['Beautiful', 'ENGLISH', '2009', 'Eminem', 'F4yb0CBd4I4', 'Relapse'],
