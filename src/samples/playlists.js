@@ -1270,7 +1270,7 @@ const playlists = {
         ['Piano Man', 'ENGLISH', '-', 'Billy Joel', 'QwVjTlTdIDQ', '-'],
         
       
-        ['Humraah', 'HINDI', '2007', 'Vishal-Shekhar', 'Y8ETNh_IQjs', 'Om Shanti Om'],
+        ['Humraah', 'HINDI', '2007', 'Vishal-Shekhar', 'Y8ETNh_IQjs', 'Om Shanti Om', 0, 295],
         ['Pehli Dafa', 'ENGLISH', '-', 'Billy Joel', '70FbfOQXPwk', '-'],
         ['Kesariya (Dance Mix)', 'ENGLISH', '-', 'Billy Joel', 'K3B8-klo5xc', '-'],
         ['JAB TAK', 'ENGLISH', '-', 'Billy Joel', '2Ejac3hB184', '-'],
