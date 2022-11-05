@@ -1276,9 +1276,11 @@ const playlists = {
         ['Padana Teeyaga', 'TELUGU', '2002', 'Harris Jayaraj', 'rtvSNC_82Lk', 'Vaasu', 5, 326],
         ['Orasaadha', 'TAMIL', '2018', 'Vivek–Mervin', '93Y_eCwdR5k', 'The Tamil EDM Mixtape', 16, 248],
         ['Kaise Hua ', 'HINDI', '2019', 'Mithoon', 'WKv07mnKVEE', 'Kabir Singh' ],
+	['Manmohini Morey', 'HINDI', '2012', 'Amit Trivedi', 'Yd5JSoV8CtQ', 'Ishaqzaade'],
         ['Zingat', 'MARATHI', '2016', 'Ajay-Atul', '8eong8XHDB4', 'Sairat', 0, 225],
         ['Jadu Hai Nasha Hai', 'HINDI', '2003', 'M. M. Keeravani', 'Iwa0Z9roM7g', 'Jism', 0, 324],
         ['Kamariya', 'HINDI', '2018', 'Lijo George - Dj Chetas', 'nfrfUSuFlow', 'Mitron', 0, 250],
+	['Neduvali', 'HINDI', '2012', 'Amit Trivedi', '19CdwdItB3o', 'Ishaqzaade'],
         ['Pareshaan', 'HINDI', '2012', 'Amit Trivedi', 'k5TRnHHQ57U', 'Ishaqzaade'],
 
       ],
