@@ -1269,6 +1269,7 @@ const playlists = {
         ['Swag Se Swagat', 'HINDI', '2017', 'Vishal-Shekhar', 'xmU0s2QtaEY', 'Tiger Zinda Hai', 0, 156],
         ['Aquaman 2 ', 'ENGLISH', '2018', 'Skylar Grey', 'VJAFioSyI20', 'Aquaman',230 ,254],
         ['Daayre', 'HINDI', '2015', 'Pritam', '59esPpakrGs', 'Dilwale', 0, 288],
+	['Youre the voice', 'HINDI', '2015', 'Sachin - Jigar', 'DcCHScn4gpw', 'ABCD 2', 0, 217],
         ['Sun Saathiya', 'HINDI', '2015', 'Sachin - Jigar', '_NWaYjsz3qY', 'ABCD 2', 0, 217],
         ['4 Minutes', 'ENGLISH', '2016', 'Justin Timberlake & Timbaland & Madonna', 'BgPqNyqYDN4', ' Timbo rnb', 0, ],
         ['Saree Ke Fall Sa', 'HINDI', '2006', 'Shankar-Ehsaan-Loy', 'jJsFYt3JvRU', 'Kabhi Alvida Naa Kehna'],
