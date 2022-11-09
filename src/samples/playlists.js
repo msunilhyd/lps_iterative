@@ -47,7 +47,6 @@ const playlists = {
         ['Nenjukkule BGM', 'TAMIL', '2013', 'A.R Rahman', 'fo9g25gpD9Q', 'Kadal', 0, 93],
         ['Kalalonaina', 'TELUGU', '2000', 'S.A.Raj Kumar', 'G1p3K-98iK4', 'Nuvvu Vasthavani', 0, 305],
         ['Ghajini BGM 5', 'TAMIL', '2005', 'Harris Jayaraj', 'faOR9KKzqLs 14', 'Ghajini', 977, 1035],
-        ['Saware cover', 'HINDI', '2015', 'Pritam', 'mWZUS-wC_q4', 'Phantom'],
         ['Stressed out', 'ENGLISH', '2012', 'Imagine Dragons', 'f1tDFtMjwAE', 'Continued Silence EP'],
         ['Padayappa Theme 2', 'TAMIL', '1999', 'A R Rahman', 'eguXwwDSQNM 2', 'Padayappa', 644, 294],
         ['Mountains', 'ENGLISH', '2014', 'Hans Zimmer ', 'lM5IxG1qhl0', 'Interstellar', 0, 548],
