@@ -48,7 +48,7 @@ const playlists = {
         ['Kalalonaina', 'TELUGU', '2000', 'S.A.Raj Kumar', 'G1p3K-98iK4', 'Nuvvu Vasthavani', 0, 305],
         ['Ghajini BGM 5', 'TAMIL', '2005', 'Harris Jayaraj', 'faOR9KKzqLs 14', 'Ghajini', 977, 1035],
         ['Stressed out', 'ENGLISH', '2012', 'Imagine Dragons', 'f1tDFtMjwAE', 'Continued Silence EP'],
-        ['Padayappa Theme 2', 'TAMIL', '1999', 'A R Rahman', 'eguXwwDSQNM 2', 'Padayappa', 644, 294],
+        ['Padayappa Theme 2', 'TAMIL', '1999', 'A R Rahman', 'eguXwwDSQNM 2', 'Padayappa', 644, 694],
         ['Mountains', 'ENGLISH', '2014', 'Hans Zimmer ', 'lM5IxG1qhl0', 'Interstellar', 0, 548],
         ['Django Unchained ● Main Theme', 'TAMIL', '2020', 'A. R. Rahman', 'v42Dx5eIoFQ', 'Sillunu Oru Kaadhal'],
         ['Kushi BGM 1', 'TELUGU', '2001', 'Mani Sharma', 'YQOBhKk9eBc', 'Kushi'],
