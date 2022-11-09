@@ -65,7 +65,6 @@ const playlists = {
         ['Ghajini BGM 7', 'TAMIL', '2005', 'Harris Jayaraj', 'faOR9KKzqLs 49', 'Ghajini', 1086, 1122],
         ['Ghajini BGM 6', 'TAMIL', '2005', 'Harris Jayaraj', 'faOR9KKzqLs 46', 'Ghajini', 1036, 1085],
         ['Ghajini BGM 4', 'TAMIL', '2005', 'Harris Jayaraj', 'faOR9KKzqLs 45', 'Ghajini', 910, 958],
-        ['Ghajini feel of love bgm', 'TAMIL', '2005', 'Harris Jayaraj', '0Pnqbi7XwUw', 'Ghajini'],
         ['Anegan Love Theme BGM', 'TAMIL', '2015', 'Harris Jayaraj', 'k_8wEPRD  Qxo', 'Anegan'],
         ['Kottaga BGM 2', 'TELUGU', '1988', 'IlayaRaaja', 's9h0kmdSXx8 2', 'Swarna Kamalam', 135, ],
         ['Happy Intro BGM', 'TELUGU', '2006', 'Yuvan Shankar Raja', '4rW0QU7c3Lw', 'Happy', 0, 34],
