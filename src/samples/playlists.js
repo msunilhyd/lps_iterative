@@ -171,6 +171,7 @@ const playlists = {
         ['Socha Hai', 'HINDI', '2007', 'Pritam', 'NEtt_omY00k', 'Naqaab'],
         ['Alladhe Siragiye', 'TAMIL', '2016', 'Anirudh', 'qLghPlhluGI', 'Rum', 0, 220],
         ['E rathale', 'TELUGU', '2005', 'Mahesh Shankar', 'vHuBCcm7KC8', 'Vennela'],
+	['Chitta', 'TELUGU', '2005', 'Mahesh Shankar', '4ENIIs46heE', 'Vennela'],
         ['Saware cover', 'HINDI', '2015', 'Pritam', '8eQuOTRsqW4', 'Phantom'],
         ['Shayad 2', 'HINDI', '2020', 'Pritam', 'vGHa_VcAIxM', 'Love Aaj Kal 2020'],
         ['Chris Isaak - Cant Help Falling In Love ', 'HINDI', '2017', 'Pritam', 'UJ8RBj_P0KQ', 'Jab Harry Met Sejal'],
