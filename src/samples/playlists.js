@@ -96,6 +96,7 @@ const playlists = {
         ['Ghajini BGM 11', 'TAMIL', '2005', 'Harris Jayaraj', 'Mrt3PYz3g0c', 'Ghajini', 610, 683],
         ['Ghajini BGM 1', 'TAMIL', '2005', 'Harris Jayaraj', 'faOR9KKzqLs 1', 'Ghajini', 586, 695],
         ['Preyasi Kaavu', 'TELUGU', '2005', 'Mahesh Shankar', 'sG8TKttaDHg', 'Vennela'],
+        ['Dekha jo tujhe yaar', 'TELUGU', '2005', 'Mahesh Shankar', 'l9Tx8IT4hJ8', 'Vennela'],
         ['Where Is My Mind?', 'ENGLISH', '1988', ' Pixies', 'N3oCS85HvpY', 'Surfer Rosa'],
         ['Blank Space ', 'ENGLISH', '2014', 'Taylor Swift', 'WZ605-Hflqg', ' 1989', 3, ],
         ['Telusuna', 'TELUGU', '2002', 'Devi Sri Prasad', '46BQJX5v5xk', 'Sontham', 0, 275],
