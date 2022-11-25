@@ -82,6 +82,7 @@ const playlists = {
         ['Enno ratrulostayi gani cover', 'ENGLISH', '1985', 'Tears for Fears', 'dfgJYRdNwDE', 'Songs from the Big Chair'],
         ['A Real Hero', 'ENGLISH', '1985', 'Tears for Fears', 'BHgYtKkSEDA', 'Songs from the Big Chair'],
         ['Toh Phir Aao', 'HINDI', '2007', 'Pritam', '-ML12N-EDs4', 'Awarapan'],
+	['AanandamMadike', 'HINDI', '2007', 'Pritam', 'vwvZtkZy9Z8', 'Awarapan'],
         ['HEYY BABYY', 'HINDI', '2014', 'A.R Rahman', 'qY2q4SIcqiM', ' Highway'],
         ['Little Talks', 'ENGLISH', '2011', 'Of Monsters and Men', 'ghb6eDopW8I', 'My Head Is an Animal'],
         ['Unnattundi Gundey', 'TELUGU', '2017', 'Gopi Sunder', 'geZ5tlTENw0', 'Ninnu Kori'],
