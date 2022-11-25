@@ -53,6 +53,7 @@ const playlists = {
         ['Mountains', 'ENGLISH', '2014', 'Hans Zimmer ', 'lM5IxG1qhl0', 'Interstellar', 0, 548],
         ['Django Unchained ● Main Theme', 'TAMIL', '2020', 'A. R. Rahman', 'v42Dx5eIoFQ', 'Sillunu Oru Kaadhal'],
         ['Kushi BGM 1', 'TELUGU', '2001', 'Mani Sharma', 'YQOBhKk9eBc', 'Kushi'],
+	['Maya Bazaar', 'TAMIL', '2005', 'Harris Jayaraj', 'q0oIpVIV4lo', 'Ghajini',],
         ['Remo - BGM 4', 'TAMIL', '2016', 'Anirudh', 'Bf67mfzqb50 4', 'Remo', 268, 306],
         ['Ghajini BGM 3', 'TAMIL', '2005', 'Harris Jayaraj', 'faOR9KKzqLs 3', 'Ghajini', 884, 905],
         ['Pirates Of The Caribbean Main Theme', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 'K3pU67zxPOM', 'Pirates Of The Caribbean', 0, 270],
