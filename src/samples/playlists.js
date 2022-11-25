@@ -171,7 +171,7 @@ const playlists = {
         ['Rangeelo Maro Dholna ', 'HINDI', '2015', 'Pritam', 'jmb82TtEe7g', 'Dilwale'],
         ['Sakhiyan 2.0', 'TELUGU', '1996', 'A.R Rahman', '55t306Hgg58', 'Bharateeyudu'],
         ['Kaatu Mooliyo', 'MALAYALAM', '2015', 'Shaan Rahman', 'vilA6jt5w6Y', 'Ohm Shanthi Oshaana'],
-        ['Manasa Manasa', 'TELUGU', '2021', 'Gopi Sunder', 'NtTGqvD67pE', 'Most Eligible Bachelor'],
+        ['Manasa Manasa', 'TELUGU', '2021', 'Gopi Sunder', 'R6Fej0Eoy1o', 'Most Eligible Bachelor'],
         ['Starboy (Live From The Victoria’s Secret)', 'ENGLISH', '2016', 'The Weeknd', 'vuT_bXzhqhY', 'Starboy'],
         ['Socha Hai', 'HINDI', '2007', 'Pritam', 'NEtt_omY00k', 'Naqaab'],
         ['Alladhe Siragiye', 'TAMIL', '2016', 'Anirudh', 'qLghPlhluGI', 'Rum', 0, 220],
