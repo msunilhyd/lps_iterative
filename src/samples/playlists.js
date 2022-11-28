@@ -29,6 +29,7 @@ const playlists = {
         ['King of Pride Rock', 'ENGLISH', '-', 'Hans Zimmer ', '6HQgXzyw-Fo', 'Lion King'],
 	['Idhayathai Yedho', 'TAMIL', '2015', 'Harris Jayaraj', 'CDPULSnvLJw', 'Anegan'],
         ['Andha Kanna Paathaakaa', 'TAMIL', '2020', 'Anirudh', '3hVc3M1IEe0', 'Master'],
+	['Hookah Bar', 'TAMIL', '2005', 'Harris Jayaraj', '5lZ5qAXrtUc', 'Ghajini'],
         ['Udd Gaye', 'HINDI', '2017', 'Ritviz', 'v2-9rIL_f4w', 'Udd Gaye (Bacardi House Party Sessions)'],
         ['Priyatama', 'TELUGU', '1990', 'IlayaRaaja', 'HK0xFMCkwrM', 'Jagadeka Veerudu Atiloka Sundari', 0, 355],
         ['Chandamama Okati', 'TELUGU', '2005', 'Devi Sri Prasad', 'xH_4JdGp05c', 'Oka Oorilo', 0, 200],
