@@ -58,7 +58,7 @@ const playlists = {
         ['Ghajini BGM 3', 'TAMIL', '2005', 'Harris Jayaraj', 'faOR9KKzqLs 3', 'Ghajini', 884, 905],
         ['Pirates Of The Caribbean Main Theme', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 'K3pU67zxPOM', 'Pirates Of The Caribbean', 0, 270],
         ['Ghajini BGM 2', 'TAMIL', '2005', 'Harris Jayaraj', 'faOR9KKzqLs 2', 'Ghajini', 696, 844],
-        ['Now we are free guitar cover', 'HINDI', '2009', 'Pritam', '1-tOy82H364', 'Billu'],
+        ['Now we are free guitar cover', 'HINDI', '2009', 'Pritam', '1-tOy82H364', 'Billu', 1, 180],
         ['Manmadhan BGM 3', 'TAMIL', '2005', 'Harris Jayaraj', 'KYYHOkku5FU 3', 'Ghajini', 497, 551],
         ['I BGM 1', 'TAMIL', '2017', 'AR Rahman', 'HTm9MIGy0Lw', 'I'],
         ['Who Did That To You', 'TAMIL', '2020', 'A. R. Rahman', '34I2dCO8U8A', 'Sillunu Oru Kaadhal'],
