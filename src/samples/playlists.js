@@ -21,6 +21,7 @@ const playlists = {
         ['Mellisaye (Reprise) Manonmani', 'TAMIL', '2018', 'Yeshwanth | Nikhil Mathew', 'Jv477p7GpfM', '-', 6, 170],
         ['Toh Phir Aao Remix', 'HINDI', '2007', 'Pritam', 'cAcKqFEQ958', 'Awarapan', 0, 390],
         ['Gajini lovely bgm', 'TAMIL', '2005', 'Harris Jayaraj', '0Pnqbi7XwUw', 'Ghajini'],
+        ['Yung Gravy - Betty', 'TAMIL', '2005', 'Harris Jayaraj', 'O6h0hmsTAyY', 'Ghajini'],
 	['Megham Karukatha', 'TAMIL', '2005', 'Harris Jayaraj', 'zYc83YbeU-U', 'Ghajini'],
         ['Pachani Thota', 'TELUGU', '2013', 'A.R Rahman', 'ACXBk2PoDqU', 'Kadali', 0, 270],
         ['Tung Tung Baje', 'HINDI', '2015', '\tSneha Khanwalkar', 'u2VhHGAtr4g', 'Singh Is Bliing'],
