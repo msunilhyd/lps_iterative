@@ -12,6 +12,7 @@ const playlists = {
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
         ['Smells Like Teen Spirit', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 'JyGNABrosb8', 'Pirates Of The Caribbean'],
+        ['Garbage Truck', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', '30PpttqWeFk', 'Pirates Of The Caribbean'],
         ['Californication', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 'QkhybUXZqWQ', 'Pirates Of The Caribbean'],
         ['Achillies last stand', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 'P-Rf1I9htJk', 'Pirates Of The Caribbean'],
         ['Kabi Kabi Aditi', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 'r9eGi0rVxBw', 'Pirates Of The Caribbean'],
