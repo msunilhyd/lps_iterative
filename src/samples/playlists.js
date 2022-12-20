@@ -28,6 +28,7 @@ const playlists = {
         ['Pachani Thota', 'TELUGU', '2013', 'A.R Rahman', 'ACXBk2PoDqU', 'Kadali', 0, 270],
         ['Tung Tung Baje', 'HINDI', '2015', '\tSneha Khanwalkar', 'u2VhHGAtr4g', 'Singh Is Bliing'],
         ['Roja Kadale', 'TAMIL', '2015', 'Harris Jayaraj', '9hVjc3sUSjA', 'Anegan'],
+        ['Tur Kalleyan', 'TAMIL', '2015', 'Harris Jayaraj', 'eu49PSLU2B4', 'Anegan'],
         ['Ponmagal Vandaal', 'TAMIL', '2013', 'AR Rahman', '21QM9yzSz4g', '-'],
         ['King of Pride Rock', 'ENGLISH', '-', 'Hans Zimmer ', '6HQgXzyw-Fo', 'Lion King'],
 	['Idhayathai Yedho', 'TAMIL', '2015', 'Harris Jayaraj', 'CDPULSnvLJw', 'Anegan'],
