@@ -80,6 +80,7 @@ const playlists = {
         ['Ghajini BGM 8', 'TAMIL', '2005', 'Harris Jayaraj', 'faOR9KKzqLs 43', 'Ghajini', 1153, 1225],
         ['Priyathama Flute BGM', 'TELUGU', '1990', 'IlayaRaaja', 'gJLE3bPBt4I', 'Jagadeka Veerudu Atiloka Sundari', 31, 69],
         ['Kottaga BGM 1', 'TELUGU', '1988', 'IlayaRaaja', 's9h0kmdSXx8 1', 'Swarna Kamalam', 0, 28],
+        ['Was He Slow', 'TAMIL', '2005', 'Harris Jayaraj', '3igDZrG3DTQ', 'Ghajini'],
         ['Kesariya', 'TAMIL', '2015', 'Harris Jayaraj', 'g6fnFALEseI', 'Anegan'],
         ['Vayyarala Jabilli BGM 2', 'TELUGU', '2011', 'Mani Sharma', 'Yg-8_MfqDQc 2', 'Teenmaar', 89, 122],
         ['Akhiyaan Milavanga', 'TELUGU', '2001', 'Mani Sharma', 'O9zBPcU5g60', 'Kushi'],
