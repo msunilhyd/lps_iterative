@@ -11,10 +11,7 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
-        ['Smells Like Teen Spirit', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 'JyGNABrosb8', 'Pirates Of The Caribbean'],
-        ['Garbage Truck', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', '30PpttqWeFk', 'Pirates Of The Caribbean'],
         ['Californication', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 'QkhybUXZqWQ', 'Pirates Of The Caribbean'],
-        ['Achillies last stand', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 'P-Rf1I9htJk', 'Pirates Of The Caribbean'],
         ['Kabi Kabi Aditi', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 'r9eGi0rVxBw', 'Pirates Of The Caribbean'],
         ['James Brown, 2Pac - Unchained', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 't5uAX0pyD_I', 'Pirates Of The Caribbean'],
         ['Drink Up Me Hearties Yo Ho', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 'RUNRoXbaflM', 'Pirates Of The Caribbean'],
@@ -92,6 +89,7 @@ const playlists = {
         ['Toh Phir Aao', 'HINDI', '2007', 'Pritam', '-ML12N-EDs4', 'Awarapan'],
 	['AanandamMadike', 'HINDI', '2007', 'Pritam', 'vwvZtkZy9Z8', 'Awarapan'],
         ['HEYY BABYY', 'HINDI', '2014', 'A.R Rahman', 'qY2q4SIcqiM', ' Highway'],
+        ['Messi GOAT', 'HINDI', '2014', 'A.R Rahman', '-B42YIFbRas', ' Highway'],
         ['Little Talks', 'ENGLISH', '2011', 'Of Monsters and Men', 'ghb6eDopW8I', 'My Head Is an Animal'],
         ['Unnattundi Gundey', 'TELUGU', '2017', 'Gopi Sunder', 'geZ5tlTENw0', 'Ninnu Kori'],
         ['Stereo Hearts', 'ENGLISH', '2011', 'Gym Class Heroes', 'T3E9Wjbq44E', 'The Papercut Chronicles II'],
@@ -155,6 +153,7 @@ const playlists = {
         ['Aakhon ke Sagar', 'HINDI', '2004', 'Fuzön', 'dxekUFhmFu4', ' Saagar', 0, 314],
         ['Ciciliya', 'TELUGU', '2017', 'Harris Jayaraj', '8204mQVmiBo', 'Spyder'],
         ['Rishte Naate', 'HINDI', '2009', 'Pritam', 'c504EGCwQlU', 'De Dana Dan', 5, 282],
+        ['Achillies last stand', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 'P-Rf1I9htJk', 'Pirates Of The Caribbean'],
         ['Uppena BGM', 'TELUGU', '2020', 'Devi Sri Prasad', 'NEGvG70tI08', 'Uppena', 3, 115],
         ['Cant Help Falling In Love (Elvis Cover)', 'ENGLISH', '1985', 'Tears for Fears', '6ThQkrXHdh4', '-'],
         ['Oscar Sangamam', 'HINDI', '2020', 'Pritam', 'vhzBES7Fnkk', 'Love Aaj Kal 2020', 12],
@@ -179,6 +178,7 @@ const playlists = {
         ['See You Again Taylor Swift', 'ENGLISH', '2010', 'Charlie Puth', 'UxsxvOCplB8', 'See You Again'],
         ['Rangeelo Maro Dholna ', 'HINDI', '2015', 'Pritam', 'jmb82TtEe7g', 'Dilwale'],
         ['Sakhiyan 2.0', 'TELUGU', '1996', 'A.R Rahman', '55t306Hgg58', 'Bharateeyudu'],
+        ['Smells Like Teen Spirit', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 'JyGNABrosb8', 'Pirates Of The Caribbean'],
         ['Kaatu Mooliyo', 'MALAYALAM', '2015', 'Shaan Rahman', 'vilA6jt5w6Y', 'Ohm Shanthi Oshaana'],
         ['Manasa Manasa', 'TELUGU', '2021', 'Gopi Sunder', 'R6Fej0Eoy1o', 'Most Eligible Bachelor'],
         ['Starboy (Live From The Victoria’s Secret)', 'ENGLISH', '2016', 'The Weeknd', 'vuT_bXzhqhY', 'Starboy'],
