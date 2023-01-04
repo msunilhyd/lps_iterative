@@ -17,7 +17,7 @@ const playlists = {
         ['Drink Up Me Hearties Yo Ho', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 'RUNRoXbaflM', 'Pirates Of The Caribbean'],
         ['Final Ascent', 'ENGLISH', '2008', 'Hans Zimmer ', 'Vv_z2obBFd0', 'No Time To Die', 240],        
         ['Mellisaye (Reprise) Manonmani', 'TAMIL', '2018', 'Yeshwanth | Nikhil Mathew', 'Jv477p7GpfM', '-', 6, 170],
-        ['Toh Phir Aao Remix', 'HINDI', '2007', 'Pritam', 'cAcKqFEQ958', 'Awarapan', 0, 390],
+        ['Toh Phir Aao Remix', 'HINDI', '2007', 'Pritam', 'Ahn5Uv9lppA', 'Awarapan'],
         ['Gajini lovely bgm', 'TAMIL', '2005', 'Harris Jayaraj', '0Pnqbi7XwUw', 'Ghajini'],
         ['Yung Gravy - Betty', 'TAMIL', '2005', 'Harris Jayaraj', 'O6h0hmsTAyY', 'Ghajini'],
 	['Ride wit me', 'TAMIL', '2005', 'Harris Jayaraj', 'FS6Fnhndo_8', 'Ghajini'],
