@@ -102,7 +102,6 @@ const playlists = {
         ['Ik Vaari Aa', 'HINDI', '2017', 'Pritam', 'vL14wk2cj6U', 'Raabta', 0, 272],
         ['Ammaho', 'TELUGU', '2008', 'Mani Sharma', 'CtyYmryumjQ', 'Kantri'],
         ['Life of Pazham', 'TELUGU', '2001', 'Mani Sharma', 'H3yKzgY2J0Q', 'Kushi'],
-        ['ChittiAdugu', 'TELUGU', '2008', 'Mani Sharma', 'JyUIpdWjD4Y', 'Kantri'],
         ['Ghajini BGM', 'TAMIL', '2005', 'Harris Jayaraj', 'MsmAkJ2tI8g', 'Ghajini'],
         ['Anegan BGM', 'TAMIL', '2015', 'Harris Jayaraj', 'pqjykOVy-L4', 'Anegan'],
         ['Padayappa sad bgm', 'TAMIL', '2005', 'Harris Jayaraj', 'c5bXvPkBB44', 'Ghajini'],
