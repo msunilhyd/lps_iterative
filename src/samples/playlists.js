@@ -18,6 +18,7 @@ const playlists = {
         ['Final Ascent', 'ENGLISH', '2008', 'Hans Zimmer ', 'Vv_z2obBFd0', 'No Time To Die', 240],        
         ['Mellisaye (Reprise) Manonmani', 'TAMIL', '2018', 'Yeshwanth | Nikhil Mathew', 'Jv477p7GpfM', '-', 6, 170],
         ['Toh Phir Aao Remix', 'HINDI', '2007', 'Pritam', 'Ahn5Uv9lppA', 'Awarapan'],
+        ['Akasam Ammaiyaite', 'HINDI', '2007', 'Pritam', 'p6Ejrw6VZKk', 'Awarapan'],
         ['Gajini lovely bgm', 'TAMIL', '2005', 'Harris Jayaraj', '0Pnqbi7XwUw', 'Ghajini'],
         ['Yung Gravy - Betty', 'TAMIL', '2005', 'Harris Jayaraj', 'O6h0hmsTAyY', 'Ghajini'],
 	['Ride wit me', 'TAMIL', '2005', 'Harris Jayaraj', 'FS6Fnhndo_8', 'Ghajini'],
