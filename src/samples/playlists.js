@@ -37,6 +37,7 @@ const playlists = {
 	['Hookah Bar', 'TAMIL', '2005', 'Harris Jayaraj', '5lZ5qAXrtUc', 'Ghajini'],
         ['Udd Gaye', 'HINDI', '2017', 'Ritviz', 'v2-9rIL_f4w', 'Udd Gaye (Bacardi House Party Sessions)'],
         ['Priyatama', 'TELUGU', '1990', 'IlayaRaaja', 'HK0xFMCkwrM', 'Jagadeka Veerudu Atiloka Sundari', 0, 355],
+        ['Ayyappa', 'TAMIL', '2013', 'AR Rahman', '8B0AC_TTI6o', '-'],
         ['Chandamama Okati', 'TELUGU', '2005', 'Devi Sri Prasad', 'xH_4JdGp05c', 'Oka Oorilo', 0, 200],
         ['ROCK THA PARTY', 'HINDI', '2016', 'BOMBAY ROCKERS', 'areBR3RVBVc', 'ROCKY HANDSOME', 26, ],
         ['Surya seeing Asin at first time BGM', 'TAMIL', '2005', 'Harris Jayaraj', 'T1MsC_yjCO4', 'Ghajini', 0],
