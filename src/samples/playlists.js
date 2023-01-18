@@ -23,6 +23,7 @@ const playlists = {
         ['Gajini lovely bgm', 'TAMIL', '2005', 'Harris Jayaraj', '0Pnqbi7XwUw', 'Ghajini'],
         ['Yung Gravy - Betty', 'TAMIL', '2005', 'Harris Jayaraj', 'O6h0hmsTAyY', 'Ghajini'],
 	['Ride wit me', 'TAMIL', '2005', 'Harris Jayaraj', 'FS6Fnhndo_8', 'Ghajini'],
+	['Humsafar', 'TAMIL', '2005', 'Harris Jayaraj', 'vIUp4CzOrpQ', 'Ghajini'],
 	['Megham Karukatha', 'TAMIL', '2005', 'Harris Jayaraj', 'zYc83YbeU-U', 'Ghajini'],
         ['Pachani Thota', 'TELUGU', '2013', 'A.R Rahman', 'ACXBk2PoDqU', 'Kadali', 0, 270],
         ['Tung Tung Baje', 'HINDI', '2015', '\tSneha Khanwalkar', 'u2VhHGAtr4g', 'Singh Is Bliing'],
