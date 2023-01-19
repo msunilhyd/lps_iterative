@@ -11,6 +11,7 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
+        ['Teenage Dream', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 'Xpt9LkZo6ag', 'Pirates Of The Caribbean', 0, 322],
         ['Californication', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 'QkhybUXZqWQ', 'Pirates Of The Caribbean', 0, 322],
         ['Kabi Kabi Aditi', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 'r9eGi0rVxBw', 'Pirates Of The Caribbean'],
         ['James Brown, 2Pac - Unchained', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 't5uAX0pyD_I', 'Pirates Of The Caribbean'],
