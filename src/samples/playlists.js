@@ -22,6 +22,7 @@ const playlists = {
         ['Chitti Aduga', 'HINDI', '2007', 'Pritam', 'qD8sPWTekDQ', 'Awarapan'],
         ['Tere Bin', 'HINDI', '2007', 'Pritam', 'aeNq_hB9TXI', 'Awarapan'],
         ['Akasam Ammaiyaite', 'HINDI', '2007', 'Pritam', 'p6Ejrw6VZKk', 'Awarapan'],
+        ['Tera Yar hu main', 'HINDI', '2007', 'Pritam', 'kH__u3TDCdk', 'Awarapan'],
         ['Gajini lovely bgm', 'TAMIL', '2005', 'Harris Jayaraj', '0Pnqbi7XwUw', 'Ghajini'],
         ['Yung Gravy - Betty', 'TAMIL', '2005', 'Harris Jayaraj', 'O6h0hmsTAyY', 'Ghajini'],
 	['Ride wit me', 'TAMIL', '2005', 'Harris Jayaraj', 'FS6Fnhndo_8', 'Ghajini'],
