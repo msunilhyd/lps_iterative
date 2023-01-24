@@ -20,6 +20,8 @@ const playlists = {
         ['Mellisaye (Reprise) Manonmani', 'TAMIL', '2018', 'Yeshwanth | Nikhil Mathew', 'Jv477p7GpfM', '-', 6, 170],
         ['Toh Phir Aao Remix', 'HINDI', '2007', 'Pritam', 'Ahn5Uv9lppA', 'Awarapan'],
         ['Chitti Aduga', 'HINDI', '2007', 'Pritam', 'qD8sPWTekDQ', 'Awarapan'],
+        ['A Thousand Miles', 'HINDI', '2007', 'Pritam', 'KdMBLxqntH0', 'Awarapan'],
+
         ['Tere Bin', 'HINDI', '2007', 'Pritam', 'aeNq_hB9TXI', 'Awarapan'],
         ['Akasam Ammaiyaite', 'HINDI', '2007', 'Pritam', 'p6Ejrw6VZKk', 'Awarapan'],
         ['Tera Yar hu main', 'HINDI', '2007', 'Pritam', 'kH__u3TDCdk', 'Awarapan'],
