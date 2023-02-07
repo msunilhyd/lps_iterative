@@ -134,6 +134,7 @@ const playlists = {
         ['Dil Diyyan Veena', 'HINDI', '2012', 'Ajay-Atul', '6RAo7B5Ev8E', 'Agneepath'],
         ['Sakhiyan', 'PUNJABI', '1996', 'A.R Rahman', 'S-ezhTXPVGU', 'Bharateeyudu', 10],
         ['Sky full of stars', 'ENGLISH', '2014', 'Coldplay', 'ot_snHDVTUU', 'Ghost Stories', 0, 266],
+        ['Sanam Re', 'HINDI', '2012', 'Ajay-Atul', 'WH3AE91ux3M', 'Agneepath'],
         ['Manmadhan BGM 5', 'TAMIL', '2005', 'Harris Jayaraj', 'KYYHOkku5FU 5', 'Ghajini', 665, 763],
         ['The Sign', 'ENGLISH', '1993', 'Ace of Base', 'NIPPh7AWSt4', 'Happy Nation', 0, 188],
         ['Suno Aisha', 'HINDI', '2010', 'Amit Trivedi', '49WSoibFQDo', 'Aisha', 0, 262],
