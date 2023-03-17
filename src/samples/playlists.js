@@ -20,6 +20,7 @@ const playlists = {
         ['Azhagiye', 'TAMIL', '2017', 'AR Rahman', 'TFUBlO-zJGg', 'Kaatru Veliyidai', 0, 224],
         ['First Class', 'HINDI', '2017', 'Pritam', '0m2MTd5Jgrw', 'Jab Harry Met Sejal'],
         ['Writings on the wall', 'HINDI', '2017', 'Pritam', '-8uwoW_mt_Ek', 'Jab Harry Met Sejal'],
+        ['Galliyan Unplugged', 'HINDI', '2017', 'Pritam', 'cfc9d4LA1eE', 'Jab Harry Met Sejal'],
         ['Chitta Kukkad', 'HINDI', '2017', 'Pritam', 'Yzp1jT-4F20', 'Jab Harry Met Sejal'],
         ['Now We Are Free', 'ENGLISH', '2000', 'Hans Zimmer ', 'PvrDI6U0mE4', 'Gladiator'],
         ['Sawan Aaya Hai - Unplugged', 'HINDI', '2017', 'Pritam', 'bWN0OGHiw90', 'Jab Harry Met Sejal'],
