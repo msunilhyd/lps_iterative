@@ -18,6 +18,7 @@ const playlists = {
         ['On Our Way', 'ENGLISH', '2013', 'The Royal Concept', '976Hiy4M6lE', 'Goldrushed', 0, 190],
         ['Hawayein', 'HINDI', '2017', 'Pritam', 'cYOB941gyXI', 'Jab Harry Met Sejal', 0, 287],
         ['Azhagiye', 'TAMIL', '2017', 'AR Rahman', 'TFUBlO-zJGg', 'Kaatru Veliyidai', 0, 224],
+        ['First Class', 'HINDI', '2017', 'Pritam', '0m2MTd5Jgrw', 'Jab Harry Met Sejal'],
         ['Writings on the wall', 'HINDI', '2017', 'Pritam', '-8uwoW_mt_Ek', 'Jab Harry Met Sejal'],
         ['Chitta Kukkad', 'HINDI', '2017', 'Pritam', 'Yzp1jT-4F20', 'Jab Harry Met Sejal'],
         ['Now We Are Free', 'ENGLISH', '2000', 'Hans Zimmer ', 'PvrDI6U0mE4', 'Gladiator'],
