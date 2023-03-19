@@ -11,6 +11,7 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
+        ['STAY Acoustic', 'TAMIL', '2008', 'A. R. Rahman', '2cityFMf_UE', 'Sakkarakatti'],
         ['Marudhaani', 'TAMIL', '2008', 'A. R. Rahman', 'RKZNPx-K1AA', 'Sakkarakatti', 0, 384],
         ['Honor Him', 'ENGLISH', '2000', 'Hans Zimmer ', 'Cq7vKWK3FIU', 'Gladiator'],
         ['Pyaar Karke Pachtaya', 'HINDI', '2007', 'Pritam', 'mayceSObuRk', 'Pyaar Ke Side Effects'],
