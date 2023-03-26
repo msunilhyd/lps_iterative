@@ -435,7 +435,6 @@ const playlists = {
         ['Beera', 'HINDI', '2010', 'A.R Rahman', '9oN4ePKC0MQ', 'Raavan'],
         ['Edo Oka Raagam', 'TELUGU', '1999', 'S.A.Raj Kumar', 'ew_PdDxS004', 'Raja', 0, 296],
         ['Bailamos', 'HINDI', '1999', ' Enrique Iglesias', '5sye_VxmNZA', 'Cosas del Amor', 0, 212],
-        ['Hey Amigo', 'HINDI', '2007', 'Vishal-Shekhar', 'KqmB3_daAfw', 'Om Shanti Om'],
         ['The Breakup Song', 'HINDI', '2016', 'Pritam', 'kd5KqlmcHNo', 'Ae Dil Hai Mushkil'],
         ['Jeans BGM 2', 'TAMIL', '1998', 'AR RAHMAN', 'FBhdm3m7VZA', 'Jeans', 30, 115],
         ['Wake Up Sid! (Club Mix)', 'HINDI', '2009', 'Shankar-Ehsaan-Loy', 'PsfNVND30I8', 'Wake Up Sid'],
