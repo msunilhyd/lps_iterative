@@ -25,6 +25,7 @@ const playlists = {
         ['Chitta Kukkad', 'HINDI', '2017', 'Pritam', 'Yzp1jT-4F20', 'Jab Harry Met Sejal'],
         ['Now We Are Free', 'ENGLISH', '2000', 'Hans Zimmer ', 'PvrDI6U0mE4', 'Gladiator'],
         ['Sawan Aaya Hai - Unplugged', 'HINDI', '2017', 'Pritam', 'bWN0OGHiw90', 'Jab Harry Met Sejal'],
+        ['Alejandro', 'HINDI', '2017', 'Pritam', 'ucniWROEZC4', 'Jab Harry Met Sejal'],
         ['DARKHAAST', 'ENGLISH', '2000', 'Hans Zimmer ', 'fPii4kwD7Zc', 'Gladiator'],
         ['Ye Tune Kya Kiya cover', 'HINDI', '2013', 'Pritam', 'RvJ3P41JsaY', 'Once Upon A Time In Mumbai Dobaara!'],
         ['Tere Bin Kaise', 'HINDI', '2006', 'Mithoon', 'yIrU21hoHys', 'Bas Ek Pal', 12, 283],
