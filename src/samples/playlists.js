@@ -32,6 +32,7 @@ const playlists = {
         ['Pirates Of The Caribbean Medley (Live)', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 'NZWkUajiE5Q', 'Pirates Of The Caribbean'],
         ['Anisuthide', 'TELUGU', '2018', 'Vishal Chandrasekhar', '89e1d_xkASE', 'Padi Padi Leche Manasu'],
         ['Hai Junoon', 'TELUGU', '2018', 'Vishal Chandrasekhar', '_hEgNwyHlAU', 'Padi Padi Leche Manasu'],
+        ['Stay the night', 'TELUGU', '2018', 'Vishal Chandrasekhar', 'BfVY9-tejX4', 'Padi Padi Leche Manasu'],
         ['Ik Mulaqaat', 'TELUGU', '2018', 'Vishal Chandrasekhar', 'bqK2uLv_6I8', 'Padi Padi Leche Manasu'],
         ['The Chainsmokers - Roses', 'ENGLISH', '2015', 'The Chainsmokers', 'FyASdjZE0R0', 'Bouquet', 0, 225],
         ['Manmaduda ne', 'TELUGU', '2004', 'Yuvan Shankar Raja', 'kwaPZrvwjs4', 'Manmadha', 5, 272],
