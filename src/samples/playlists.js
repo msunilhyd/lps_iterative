@@ -518,7 +518,6 @@ const playlists = {
         ['Yun Hi Chala Chal', 'HINDI', '2004', 'A. R. Rahman', 'vTBbi3qIC0s', 'Swades', 0, 445],
         ['Kaaka Kaaka BGM 2', 'TAMIL', '2003', 'Harris Jayaraj', '6wb6Nyw2E5U', 'Kaakha Kaakha'],
         ['Nothing Else Matters', 'ENGLISH', '1992', 'Metallica', 'tAGnKpE4NCI', 'Metallica'],
-        ['Stampede', 'ENGLISH', '-', 'Hans Zimmer ', 'Skl0wGNWcVM', 'Lion King'],
         ['Pareshaan', 'HINDI', '2012', 'Amit Trivedi', 'k5TRnHHQ57U', 'Ishaqzaade'],
         ['Jeans BGM 6', 'TAMIL', '1998', 'AR RAHMAN', 'FucecTj3_VM', 'Jeans', 0, 64],
         ['The Greatest ', 'HINDI', '2017', 'Pritam', 'IzCpyiabtME', 'Jab Harry Met Sejal'],
