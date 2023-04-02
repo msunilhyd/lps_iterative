@@ -16,6 +16,7 @@ const playlists = {
         ['Canon in D Major', 'TAMIL', '2008', 'A. R. Rahman', 'NlprozGcs80', 'Sakkarakatti'],
         ['Aerials', 'TAMIL', '2008', 'A. R. Rahman', 'zk62uUqcNyo', 'Sakkarakatti'],
         ['Clarity', 'TAMIL', '2008', 'A. R. Rahman', 'wpQ_R85VfJc', 'Sakkarakatti'],
+        ['La Isla Bonita', 'TAMIL', '2008', 'A. R. Rahman', 'ZmzjH6OjjIA', 'Sakkarakatti'],
         ['Marudhaani', 'TAMIL', '2008', 'A. R. Rahman', 'RKZNPx-K1AA', 'Sakkarakatti', 0, 384],
         ['Honor Him', 'ENGLISH', '2000', 'Hans Zimmer ', 'Cq7vKWK3FIU', 'Gladiator'],
         ['Pyaar Karke Pachtaya', 'HINDI', '2007', 'Pritam', 'mayceSObuRk', 'Pyaar Ke Side Effects'],
