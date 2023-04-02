@@ -1286,7 +1286,7 @@ const playlists = {
         ['Munbe vaa BGM - 3', 'TAMIL', '2020', 'A. R. Rahman', '5OunSxegSOA 4', 'Sillunu Oru Kaadhal', 0, 78],
         ['Nammavemo', 'TELUGU', '2008', 'Mani Sharma', 'H47mzxzTDuI', 'Parugu', 0, 286],
         ["Hips Don't Lie", 'ENGLISH', '2005', 'Shakira-Wyclef Jean', 'vtb0csLelDs', 'Oral Fixation Vol. 2'],
-        ['Promontory - The Last of the Mohicans', 'ENGLISH', '1992', 'Trevor Jones-Randy Edelman', '9tjdswqGGVg', 'The Last of the Mohicans'],
+        ['Promontory - The Last of the Mohicans', 'ENGLISH', '1992', 'Trevor Jones-Randy Edelman', 'pNU7YM05TCY', 'The Last of the Mohicans'],
         ['Kanna Nidurinchara', 'TELUGU', '1996', 'A.R Rahman', 'O1UC2Oszg38', 'Bharateeyudu'],
         ['swarnakamalam| Flute Cover', 'ENGLISH', '1985', 'Tears for Fears', 'MeWTN3e7Usk', '-'],
         ['Jadu Hai Nasha Hai', 'HINDI', '2003', 'M. M. Keeravani', 'Iwa0Z9roM7g', 'Jism', 0, 324],
