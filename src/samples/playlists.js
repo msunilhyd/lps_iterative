@@ -565,6 +565,7 @@ const playlists = {
         ['Em Jaruguthondi', 'TELUGU', '2009', 'Vijay Antony', 'trqbFC1oMDI', 'Mahatma', 0, 292],
         ['Oorantha', 'TELUGU', '2007', 'Devi Sri Prasad', 'jFTWyjcOqzs', 'Shankardada Zindabad'],
         ['Remo - BGM 11', 'TAMIL', '2016', 'Anirudh', 'Bf67mfzqb50 11', 'Remo', 910, 972],
+        ['La Isla Bonita Alizée', 'TAMIL', '2008', 'A. R. Rahman', 'xq-aTe77bkA', 'Sakkarakatti'],
         ['Remo - BGM 13', 'TAMIL', '2016', 'Anirudh', 'Bf67mfzqb50 13', 'Remo', 1034, 1122],
         ['Beauty Of Nature - Maahi Ve', 'HINDI', '2014', 'AR RAHMAN', 'jpTZA-wapaU', 'Highway'],
         ['Ghajini BGM 10', 'TAMIL', '2005', 'Harris Jayaraj', 'faOR9KKzqLs 40', 'Ghajini', 1563, 1584],
