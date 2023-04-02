@@ -613,7 +613,6 @@ const playlists = {
         ['Lamha Lamha', 'HINDI', '2006', 'Pritam', 'nk39LHhiSM0', 'Gangster'],
         ['Yeh Aaina', 'HINDI', '2019', 'Amaal Mallik', 'UcOx6Bm3_4k', 'Kabir Singh'],
         ['Shayad RAAG Cover', 'HINDI', '2020', 'Pritam', 'Eqj4MHPgpPI', 'Love Aaj Kal 2020', 0],
-        ['Naluguriki', 'TELUGU', '2002', 'Mani Sharma', 'xZ4bjreAXj0', 'Takkari Donga', 0, 330],
         ['Tamasha BGM', 'HINDI', '2015', 'A R Rahman', '9dDBHEu5wuY', 'Tamasha', 0, 56],
         ['O Bekhabar', 'HINDI', '2010', 'Pritam', 'yidaL9xDlk8', 'Action Replayy', 0, 260],
         ['ALLAH VE', 'HINDI', '2019', 'Jassie Gill', '2E4h4KuULag', 'Allah Ve'],
