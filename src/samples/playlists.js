@@ -816,7 +816,6 @@ const playlists = {
         ['Padayappa Theme 2', 'TAMIL', '1999', 'A R Rahman', 'eguXwwDSQNM 2', 'Padayappa', 644, 694],
         ['Tera Banjaunga Reprise', 'TAMIL', '2015', 'Harris Jayaraj', 'sIlLdt0t9OA', 'Anegan'],
         ['Nothing Else Matters Cover', 'ENGLISH', '1992', 'Metallica-Thaikkudam Bridge', 'PqEr-03xbkU', 'Metallica', 0, 381],
-        ['Thillana Thillana Telugu', 'TELUGU', '1995', 'A. R. Rahman', 'pxTnavHRsls', 'Muthu', 5, 384],
         ['Tchê tcherere tchê tchê', 'Portuguese', '2011', 'Gusttavo Lima', 'jtCZSEhd1Xo', 'Balada'],
         ['I BGM 1', 'TAMIL', '2017', 'AR Rahman', 'HTm9MIGy0Lw', 'I'],
         ['Trinity: titoli', 'ENGLISH', '1970', 'Annibale E I Cantori Moderni', 'IQPGNh_2vtw', 'Lo chiamavano Trinità', 0, 180],
