@@ -20,6 +20,7 @@ const playlists = {
         ['O My Friend', 'TELUGU', '2007', 'Mickey J. Meyer', 'nYVrSXmdKNk', 'Happy Days', 0, 295],
         ['Nammavemo', 'TELUGU', '2008', 'Mani Sharma', 'H47mzxzTDuI', 'Parugu', 0, 286],
         ['Where Is My Mind?', 'ENGLISH', '1988', ' Pixies', 'N3oCS85HvpY', 'Surfer Rosa'],
+        ['𝐂𝐚𝐧𝐨𝐧 𝐢𝐧 𝐃 𝐏𝐞𝐫-𝐎𝐥𝐨𝐯', 'ENGLISH', '1988', ' Pixies', 'jXC9tuumjiA', 'Surfer Rosa'],
         ['Soch Na Sake', 'HINDI', '2015', 'Amaal Mallik', 'IQ-IzgNhvhg', 'AIRLIFT'],
         ['Guzaarish', 'HINDI', '2008', 'A. R. Rahman', 'clzuRgaV5dw', 'Ghajini', 0, 324],
         ['Jesus Walks', 'ENGLISH', '2004', 'Kanye West', 'f9wJBdFy6sQ', 'The College Dropout'],
