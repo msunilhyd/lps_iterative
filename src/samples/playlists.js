@@ -39,6 +39,7 @@ const playlists = {
         ['Akhiyaan Milavanga', 'TELUGU', '2001', 'Mani Sharma', 'O9zBPcU5g60', 'Kushi'],
         ['Eastside', 'ENGLISH', '2018', 'Benny Blanco', 'KFof8aaUvGY', 'Eastside', 0, 170],
         ['Now we are free cover', 'HINDI', '2009', 'Pritam', 'fF53Bt-XPio', 'Billu'],
+        ['Canon in D Cello-Guitar Duo', 'HINDI', '2009', 'Pritam', '-mb9jlbiVF4', 'Billu'],
         ['A New Day Has Come', ' ENGLISH', '2000', ' Celine Dion', 'ZcEqCsDflY4', '2000 Collection', 0, 339],
         ['Yeto Vellipoyindi', 'TELUGU', '1996', 'Sandeep Chawtha', 'SFOdFjq2NSg', 'Ninne Pelladatha', 0, 273],
         ['Oh Prema', 'TELUGU', '2001', 'Mani Sharma', 'x0X2ld8YZlM', 'Devi Putrudu', 0, 310],
