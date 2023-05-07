@@ -279,6 +279,7 @@ const playlists = {
         ['Aye Udi Udi Udi', 'HINDI', '2002', 'A. R. Rahman', '3BsFE3WD0kA', 'Saathiya'],
         ['Pachani Thota', 'TELUGU', '2013', 'A.R Rahman', 'ACXBk2PoDqU', 'Kadali', 0, 270],
         ['Lukka Chuppi Flute Bit', 'HINDI', '2006', 'A. R. Rahman', '26P1JtzaGFg', 'Rang De Basanti'],
+        ['Danza Kudoro Remix', 'HINDI', '2006', 'A. R. Rahman', 'uTWi2mLrntk', 'Rang De Basanti'],
         ['Aakhon ke Sagar', 'HINDI', '2004', 'Fuzön', 'dxekUFhmFu4', ' Saagar', 0, 314],
         ['O Prema', 'TELUGU', '2002', 'Harris Jayaraj', 'Q1HHRvWksE8', 'Vaasu', 0, 346],
         ['Remo - BGM 8', 'TAMIL', '2016', 'Anirudh', 'Bf67mfzqb50 8', 'Remo', 584, 612],
