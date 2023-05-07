@@ -404,6 +404,7 @@ const playlists = {
         ['Maa Tujhe Salam', 'TAMIL', '1997', 'A. R. Rahman', 'e60xy-jt_zI', 'Vande Mataram', 0, 367],
         ['Naanum BGM 1', 'TAMIL', '2015', 'Anirudh', 'A9H6UGsG3c4', 'Naanum Rowdy Dhaan'],
         ['Shayad', 'HINDI', '2020', 'Pritam', 'MJyKN-8UncM', 'Love Aaj Kal 2020', 12, 186],
+        ['Nee Singam Dhaan', 'HINDI', '2014', 'A.R Rahman', 'o-sTXv52z48', ' Highway'],
         ['HEYY BABYY', 'HINDI', '2014', 'A.R Rahman', 'qY2q4SIcqiM', ' Highway'],
         ['Venpani Malare', 'TAMIL', '2017', 'Sean Roldan', '7KvLlA4g1so', '  Power Paandi'],
         ['Aura Ammakuchella', 'TELUGU', '1992', 'M. M. Keeravani', 'gdxkviJ6IJY', 'Aapadbandhavudu'],
