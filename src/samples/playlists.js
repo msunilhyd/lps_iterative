@@ -243,7 +243,6 @@ const playlists = {
         ['Children', 'ENGLISH', '1996', 'Robert Miles', 'LafSIzwdo-s', 'Dreamland'],
         ['Sehri', 'TELUGU', '2009', 'Yuvan Shankar Raja', 'PyiQNdzKYCM', 'Oy'],
         ['Mahiya', 'HINDI', '2019', 'Beethoven', 'dhTUGbVgogY', 'Kabir Singh'],
-        ['Na Na Na Na', 'PUNJABI', '1996', 'A.R Rahman', 'lBuLUidR9r0', 'Bharateeyudu', 38],
         ['Pedave Palikina BGM', 'TELUGU', '2004', 'A. R. Rahman', 'N8hz86g6IFw 2', 'Naani', 0, 300],
         ['Kun Faya Kun', 'HINDI', '2011', 'A.R Rahman', '0RDI9CMilhk', ' Rockstar', 0, 467],
         ['Baarish', 'HINDI', '2008', 'Tanishk Bagchi', 'BNfAf4To73c', 'Half Girlfriend', 0, 272],
