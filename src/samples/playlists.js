@@ -479,6 +479,7 @@ const playlists = {
         ['Chitti Aayirey', 'TELUGU', '2008', 'Sandeep Chawtha', 'H_HjIRFBelQ', 'Bujjigadu', 5, 286],
         ['Varshinche Meghamla', 'TELUGU', '2001', 'Harris Jayaraj', 'jkzFHXeIwSQ', 'Cheli', 0],
         ['Hymn For The Weekend', 'ENGLISH', '2015', 'Coldplay', 'YykjpeuMNEk', 'A Head Full of Dreams'],
+        ['Vennele Kurisenule', 'ENGLISH', '2015', 'Coldplay', 'XWmsQZUZxIA', 'A Head Full of Dreams'],
         ['Going In Blind', 'ENGLISH', '2001', 'P.O.D', 'VH4YfGDild0', 'Greatest Hits: The Atlantic Years', 0, 266],
         ['Woh Lamhey DJ Mix', 'HINDI', '2005', 'JAL', '3aPKCzgvh0Y', 'Zeher'],
         ['Teenage Dream', 'ENGLISH', '2003  ', 'Klaus Badelt, Hans Zimmer', 'Xpt9LkZo6ag', 'Pirates Of The Caribbean', 0, 322],
