@@ -654,6 +654,7 @@ const playlists = {
         ['Mitwa', 'HINDI', '2006', 'Shankar-Ehsaan-Loy', 'AsieVqOTRs0', 'Kabhi Alvida Naa Kehna', 0, 376],
         ['Naan Nee', 'TAMIL', '2014', 'Santhosh Narayanan', 'VMYWqrlB7Gc', 'Madras', 0, 252],
         ['The Saltwater Room', 'ENGLISH', '2008', 'Adam Young', 'qMp3TIVYwwk', 'Maybe', 'I am Dreaming'],
+        ['Vaa Vaathi', 'ENGLISH', '2013', 'OneRepublic', '5BQQM4uvRkw', 'Native'],
         ['Life In Color', 'ENGLISH', '2013', 'OneRepublic', '-c8m66tf7Rk', 'Native'],
         ['Ennamo Pannura', 'TAMIL', '2016', 'Radhan', 'S4WxvkXbay0', 'Valeba Raja'],
         ['Idhayathai Yedho', 'TAMIL', '2015', 'Harris Jayaraj', 'CDPULSnvLJw', 'Anegan'],
