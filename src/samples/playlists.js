@@ -776,7 +776,7 @@ const playlists = {
         ['Bhaag DK Bose', 'HINDI', '2011', 'Ram Sampath', '3ICVjtAtBoE', 'Delhi Belly'],
         ['Latoo', 'HINDI', '2011', ' Krsna Solo', 'ORiC-DAahuM', 'Tanu Weds Manu'],
         ['Nenjai Poopol', 'TAMIL', '2001', 'Harris Jayaraj', 'htse-TJ4LNA', 'Minnale', 7, 63],
-        ['Ye Tune Kya Kiya', 'HINDI', '2013', 'Pritam', 'YwMxSbwh_H4', 'Once Upon A Time In Mumbai Dobaara!', 40. 300],
+        ['Ye Tune Kya Kiya', 'HINDI', '2013', 'Pritam', 'YwMxSbwh_H4', 'Once Upon A Time In Mumbai Dobaara!', 40, 300],
         ['Iru Vizhili & Nenjukkul Peidhidum', 'TAMIL', '2014', 'Devan Ekambaram', 'm_tmtqfHj2E', "Sammy's Live Lounge ", 23, 486],
         ['Im the One', 'ENGLISH', '2011', 'One Direction', '158plNHX4vw', 'Up All Night'],
         ['Now we are free cover', 'HINDI', '2009', 'Pritam', '3JiKUFWUJkk', 'Billu'],
