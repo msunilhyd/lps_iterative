@@ -13,8 +13,10 @@ const playlists = {
 
         ['O Rendu Prema Meghaalila', 'TELUGU', '1996', 'A R Rahman', 'D_SRMiIWyL4', 'Prema Desam'],
         ['Shaamat', 'TELUGU', '1996', 'A R Rahman', 'd_Xbd2I5Zxk', 'Prema Desam'],
+        ['The Day Of (Oceans Twelve)', 'TELUGU', '1996', 'A R Rahman', 'GnOKz3FYAPo', 'Prema Desam'],
         ['Galliyan Returns', 'TELUGU', '1996', 'A R Rahman', 'oPS-ayK43zI', 'Prema Desam'],
         ['O Rendu Prema Meghaalila Reprise', 'TELUGU', '1996', 'A R Rahman', 'zZw3ECvdCM8', 'Prema Desam'],
+        ['La Caution - Thé à la Menthe', 'TELUGU', '1996', 'A R Rahman', 'k4Xx0k_TVY0', 'Prema Desam'],
         ['Mustafa Mustafa', 'TELUGU', '1996', 'A R Rahman', 'iB8g5cB8am8', 'Prema Desam', 5, 366],
         ['Purple Yellow Red & Blue', 'ENGLISH', '2013', 'Portugal. The Man', 'q5x_YoweEg8', 'Evil Friends', 0, 248],
         ['Jadu Hai Nasha Hai', 'HINDI', '2003', 'M. M. Keeravani', 'Iwa0Z9roM7g', 'Jism', 0, 324],
