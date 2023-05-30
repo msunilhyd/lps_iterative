@@ -17,6 +17,7 @@ const playlists = {
         ['Galliyan Returns', 'TELUGU', '1996', 'A R Rahman', 'oPS-ayK43zI', 'Prema Desam'],
         ['Another way to die', 'TELUGU', '1996', 'A R Rahman', '4_B4PtwE-QA', 'Prema Desam'],
         ['O Rendu Prema Meghaalila Reprise', 'TELUGU', '1996', 'A R Rahman', 'zZw3ECvdCM8', 'Prema Desam'],
+        ['Yaaraiyum Ivlo Azhaga', 'TELUGU', '1996', 'A R Rahman', 'O2QDdiZTnnQ', 'Prema Desam'],
         ['La Caution - Thé à la Menthe', 'TELUGU', '1996', 'A R Rahman', 'k4Xx0k_TVY0', 'Prema Desam'],
         ['Mustafa Mustafa', 'TELUGU', '1996', 'A R Rahman', 'iB8g5cB8am8', 'Prema Desam', 5, 366],
         ['Purple Yellow Red & Blue', 'ENGLISH', '2013', 'Portugal. The Man', 'q5x_YoweEg8', 'Evil Friends', 0, 248],
