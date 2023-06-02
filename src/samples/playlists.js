@@ -11,6 +11,7 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
+        ['Arrival of the Birds', 'TELUGU', '1996', 'A R Rahman', 'H9gFLkNdHvA', 'Prema Desam'],
         ['O Rendu Prema Meghaalila', 'TELUGU', '1996', 'A R Rahman', 'D_SRMiIWyL4', 'Prema Desam'],
         ['Shaamat', 'TELUGU', '1996', 'A R Rahman', 'd_Xbd2I5Zxk', 'Prema Desam'],
         ['The Day Of (Oceans Twelve)', 'TELUGU', '1996', 'A R Rahman', 'GnOKz3FYAPo', 'Prema Desam'],
