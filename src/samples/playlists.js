@@ -297,7 +297,7 @@ const playlists = {
         ['Channa Mereya Unplugged', 'HINDI', '2016', 'Pritam', 'Ghxdb7_sa0o', 'Ae Dil Hai Mushkil'],
         ['Vaathi coming', 'HINDI', '2007', 'A. R. Rahman', 'BMFxVtsXgRk', 'Guru'],
         ['The Nights', ' ENGLISH', '2014', 'Avicii', 'UtF6Jej8yb4', ' FIFA 15 Soundtrack'],
-        ['Kohinoor', 'HINDI', '2019', 'Divine', 'FBYvyWvSY1M', 'Kohinoor'],
+        ['Kohinoor', 'HINDI', '2019', 'Divine', '8q_eV_RErE4', 'Kohinoor'],
         ['Ayyayo', 'TAMIL', '2011', 'G.V.Prakash Kumar', 'uxb-TMoqb9k', 'Aadukalam', 0, 318],
         ['I Took A Pill In Ibiza', 'ENGLISH', '2012', 'Imagine Dragons', 'u3VFzuUiTGw', 'Continued Silence EP'],
         ['One love', 'ENGLISH', '2002', 'Blue', 'Rc7cK0jjpL8', 'One love', 0, 205],
