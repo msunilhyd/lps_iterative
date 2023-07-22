@@ -11,6 +11,9 @@ const playlists = {
         // https://www.youtube.com/watch?v=poJlUQt8KTk
         // https://www.youtube.com/watch?v=N86ZRsX6SwA
 
+        ['Can you hear the music', 'ENGLISH', '2000', 'Hans Zimmer ', 'j11Nm4i4XbI', 'Gladiator'],
+        ['Dream on Nobel Concert', 'ENGLISH', '2000', 'Hans Zimmer ', '4br5ARO3S20', 'Gladiator'],
+        ['Symphony Nobel Concert', 'ENGLISH', '2000', 'Hans Zimmer ', 'KLx7X2vcPIA', 'Gladiator'],
         ['Victory', 'ENGLISH', '2000', 'Hans Zimmer ', 'OLTZbJMQiD4', 'Gladiator'],
         ['Magnificent Unknown', 'HINDI', '2017', 'Pritam', 'a9f094kZNnQ', 'Jab Harry Met Sejal'],
         ['Wake Up Sid! (Club Mix)', 'HINDI', '2009', 'Shankar-Ehsaan-Loy', 'PsfNVND30I8', 'Wake Up Sid'],
