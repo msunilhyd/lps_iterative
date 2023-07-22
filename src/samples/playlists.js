@@ -56,6 +56,7 @@ const playlists = {
         ['4 Minutes', 'ENGLISH', '2016', 'Justin Timberlake & Timbaland & Madonna', 'BgPqNyqYDN4', ' Timbo rnb', 0],
         ['Ik Mulaqaat', 'TELUGU', '2018', 'Vishal Chandrasekhar', 'bqK2uLv_6I8', 'Padi Padi Leche Manasu'],
         ['I m the one', 'ENGLISH', '2012', 'Imagine Dragons', '158plNHX4vw', 'Continued Silence EP'],
+        ['Dream On Orchestra', 'ENGLISH', '2012', 'Imagine Dragons', '5UJ8SriS6rg', 'Continued Silence EP'],
         ['Wherever you go', 'TAMIL', '2015', 'Harris Jayaraj', 'c17VN0xlLV0', 'Anegan'],
         ['Jeevakaasham', 'TELUGU', '2007', 'Devi Sri Prasad', 'Hqge4UiuX1Q', 'Shankardada Zindabad'],
         ['Where Them Girls At', 'ENGLISH', '2011', 'Nicki Minaj, Flo Rida - David Guetta', 'p4kVWCSzfK4', 'Nothing but the Beat', 46, 222],
