@@ -25,6 +25,7 @@ const playlists = {
         ['Eastside cover', 'ENGLISH', '2018', 'Benny Blanco', 'rZZlWR-AHUY', 'Eastside'],
         ['Kaarkuzhal', 'ENGLISH', '2010', 'Charlie Puth', '3VBLaFC8QfQ', 'See You Again'],
         ['Fur Elise', 'HINDI', '2019', 'Beethoven', 'f5ZravZc0Y8', 'Kabir Singh'],
+        ['Chop Suey Orchestral', 'ENGLISH', '2001', 'System Of A Down', '3wDjOkqIr24', 'Toxicity'],
         ['Team', 'ENGLISH', '2013', 'Lorde', 'zTz_qdgEgMg', 'Pure Heroine', 0, 190],
         ['One Last Breath', 'ENGLISH', '2001', 'Creed', 'BzamjXouX5w', 'Weathered'],
         ['Venpani Malare', 'TAMIL', '2017', 'Sean Roldan', '7KvLlA4g1so', '  Power Paandi'],
