@@ -51,6 +51,7 @@ const playlists = {
         ['Cold Water (Diwali)', 'ENGLISH', '2016', 'Major Lazer', 'vIm218Mhn9A', ' Cold Water', 0, 216],
         ['Experience', 'HINDI', '2019', 'Mithoon', '1e9B31FLT-s', 'Kabir Singh'],
         ['Khudaya Khair', 'HINDI', '2009', 'Pritam', 'jq69R33z4hU', 'Billu', 0, 278],
+        ['Zombie Orchestral', 'HINDI', '2009', 'Pritam', 'j6aldFFePLw', 'Billu', 0, 278],
         ['Nee Kannu Neeli Samudram', 'TELUGU', '2020', 'Devi Sri Prasad', 'mrqgz4_a4PU', 'Uppena'],
         ['In Da Club', 'ENGLISH', '2012', 'Leonard Cohen', 'nFLt_lnxdYk', ''],
         ['Chumma Kizhi', 'TAMIL', '2020', 'Anirudh ', 'FdVuB1G2G_g', 'Darbar', 2, 228],
