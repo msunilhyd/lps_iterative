@@ -74,6 +74,8 @@ const playlists = {
         ['Youre the voice', 'HINDI', '2015', 'Sachin - Jigar', 'DcCHScn4gpw', 'ABCD 2', 0, 217],
         ['Here Comes The Sun', 'HINDI', '2017', 'Pritam', 'KQetemT1sWc', 'Jab Harry Met Sejal'],
         ['When the Going Gets Tough', 'TAMIL', '2008', 'A. R. Rahman', 'r_bmDL7EOZU', 'Sakkarakatti'],
+        ['Symphony Orchestra', 'TAMIL', '2008', 'A. R. Rahman', 'qS4bCBx_07I', 'Sakkarakatti'],
+
         ['I Knew You Were Trouble', 'ENGLISH', '2012', 'Taylor Swift', 'VmBoTeLsKfs', ' Red (Big Machine Radio Release Special)', 0, 217],
         ['Lose Yourself', 'ENGLISH', '2002', 'Eminem', 'ZjB-sz62tJ8', '8 Mile', 0, 324],
         ['Roses', 'ENGLISH', '2011', 'One Direction', 'ISMPuZDDdkI', 'Up All Night'],
