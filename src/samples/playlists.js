@@ -3,6 +3,7 @@ const playlists = {
     slug: 'playlistKi',
     title: 'playlistKi',
     songs: [
+      ['Bullet wali', 'TAMIL', '2008', 'A. R. Rahman', 'NpVDVw-OlgY', 'Sakkarakatti'],
       ['Beautiful Liar', 'TAMIL', '2008', 'A. R. Rahman', 'm_2acrrUNto', 'Sakkarakatti'],
       ['Here Comes The Sun', 'HINDI', '2017', 'Pritam', 'KQetemT1sWc', 'Jab Harry Met Sejal'],
       ['Hurt', 'ENGLISH', '2002', 'Johnny Cash', '8AHCfZTRGiI', 'American IV: The Man Comes Around', 0, 214],
