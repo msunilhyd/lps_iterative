@@ -5,6 +5,7 @@ const playlists = {
     songs: [
 
 ['Mood', 'ENGLISH', '-', 'Billy Joel', 'nMVFSwfV6wk', '-'],
+['The Tornados - Telstar', 'ENGLISH', '-', 'Billy Joel', 'WPDvsLSnUGc', '-'],
 ['Mattilanti Nannu', 'TELUGU', '2004', 'Joshua Sridhar', '_-JdC_Gccco', 'Premisthe', 0, 374],
 ['Moongil Thottam', 'TAMIL', '2013', 'A.R Rahman', 'IOA4-EIhtLA', 'Kadal', 0, 270],
 ['Yemito Song BGM', 'TELUGU', '2012', 'Radhan', 'umo5yXRLUn4', 'Andala Rakshasi', 10],
