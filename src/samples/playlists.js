@@ -3,6 +3,7 @@ const playlists = {
     slug: 'playlistKi',
     title: 'playlistKi',
     songs: [
+['Va vaathi Dhanush', 'ENGLISH', '-', 'Billy Joel', '8s2DQBhEvoA', '-'],
 ['Moongil Thottom cover', 'ENGLISH', '-', 'Billy Joel', 'VglLMoTIAVs', '-'],
 ['Mood', 'ENGLISH', '-', 'Billy Joel', 'nMVFSwfV6wk', '-'],
 ['The Tornados - Telstar', 'ENGLISH', '-', 'Billy Joel', 'WPDvsLSnUGc', '-'],
