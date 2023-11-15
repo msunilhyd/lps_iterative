@@ -4,6 +4,7 @@ const playlists = {
     title: 'playlistKi',
     songs: [
 ['Canon in D Maj', 'ENGLISH', '-', 'Billy Joel', '8Af372EQLck', '-'],
+['Let her go feat Ed Sheeran', 'ENGLISH', '-', 'Billy Joel', 'HTcL9WkB_wg', '-'],
 ['NEwyork Nagaram sarangi', 'ENGLISH', '-', 'Billy Joel', 'ezu5N0uGilc', '-'],
 ['Va vaathi Dhanush', 'ENGLISH', '-', 'Billy Joel', '8s2DQBhEvoA', '-'],
 ['Kanyakumari', 'ENGLISH', '-', 'Billy Joel', 'q6I3D4R04yQ', '-'],
