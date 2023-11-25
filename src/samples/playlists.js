@@ -88,6 +88,7 @@ const playlists = {
 ['THATS WHAT I WANT', 'PUNJABI', '1996', 'A.R Rahman', 'zHd4rSpZn48', 'Bharateeyudu'],
 ['Rain Fight', 'TAMIL', '2018', 'Santhosh Narayanan', 'rc2ft794XNI', 'Kaala', 5, 275],
 ['Leja Re', 'PUNJABI', '1996', 'A.R Rahman', '-xCw7ruotUg', 'Bharateeyudu'],
+['Tera Ghata', 'ENGLISH', '-', 'Billy Joel', 'mEMHF5W4zlY', '-'],
 ['Dekhte Dekhte', 'HINDI', '2018', 'Rochak Kohli', 'jBQpGiubj0c', 'Batti Gul Meter Chalu', 0, 254],
 ['Priya Priyathama', 'TELUGU', '1991', 'Ilaiyaraaja', 'Dr9Dbef84HI', 'Killer', 0, 307],
 ['Symphony Orchestra', 'TAMIL', '2008', 'A. R. Rahman', 'qS4bCBx_07I', 'Sakkarakatti'],
