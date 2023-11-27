@@ -3,6 +3,8 @@ const playlists = {
     slug: 'playlistKi',
     title: 'playlistKi',
     songs: [
+['Kannazhaga X Nee Paartha', 'ENGLISH', '-', 'Billy Joel', 'vaauxPRRp-U', '-'],
+
 ['Challeya', 'ENGLISH', '-', 'Billy Joel', 'wr9M-CoxP7A', '-'],
 ['Nadhiye Nadhiye', 'TAMIL', '2000', 'AR RAHMAN', '_80XRBvl5-c', 'Rhythm', 348, 400],
 ['Eastside cover', 'ENGLISH', '2018', 'Benny Blanco', 'Dn_RpdGMgpE', 'Eastside'],
