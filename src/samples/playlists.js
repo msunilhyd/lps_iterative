@@ -4,7 +4,7 @@ const playlists = {
     title: 'playlistKi',
     songs: [
 ['Kannazhaga X Nee Paartha', 'ENGLISH', '-', 'Billy Joel', 'vaauxPRRp-U', '-'],
-
+['Pareshaan', 'ENGLISH', '-', 'Billy Joel', 'zQl7zYkEP6M', '-'],
 ['Challeya', 'ENGLISH', '-', 'Billy Joel', 'wr9M-CoxP7A', '-'],
 ['Nadhiye Nadhiye', 'TAMIL', '2000', 'AR RAHMAN', '_80XRBvl5-c', 'Rhythm', 348, 400],
 ['Eastside cover', 'ENGLISH', '2018', 'Benny Blanco', 'Dn_RpdGMgpE', 'Eastside'],
