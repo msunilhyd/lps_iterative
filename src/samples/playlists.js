@@ -123,7 +123,7 @@ const playlists = {
 ['Kadavulae Vidai', 'TAMIL', '2017', 'Anirudh ', 'Hfh_dcVaN5o', 'Rum', 0, 240],
 ['Judaai', 'HINDI', '2011', 'Sachin-Jigar', '5Dnv-nIlwWo', 'Badlapur', 0, 268],
 ['Tareefan', 'HINDI', '2018', 'Qaran', 'RcbdKqBESz8', 'Veere Di Wedding', 0, 182],
-['Dil toh bacha hai ji - remix', 'HINDI', '2010', 'Vishal Bhardwaj', '8AZBJRpuOsU', 'Ishqiya']
+['Dil toh bacha hai ji - remix', 'HINDI', '2010', 'Vishal Bhardwaj', '8AZBJRpuOsU', 'Ishqiya'],
 ['Golden Brown', 'TAMIL', '2008', 'A. R. Rahman', 'Qca9ByvLhBA', 'Sakkarakatti'],
 ['Saware cover', 'HINDI', '2015', 'Pritam', '5kONNn8Fclw', 'Phantom'],
 ['Livin it', 'TAMIL', '1999', 'A R Rahman', 'WlgoUlOkyzU', 'Padayappa'],
