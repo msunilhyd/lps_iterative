@@ -3,6 +3,7 @@ const playlists = {
     slug: 'playlistKi',
     title: 'playlistKi',
     songs: [
+['American Prometheus', 'ENGLISH', '-', 'Billy Joel', 'UysO8R1vqA8', '-'],
 ['Kannazhaga X Nee Paartha', 'ENGLISH', '-', 'Billy Joel', 'vaauxPRRp-U', '-'],
 ['Pareshaan', 'ENGLISH', '-', 'Billy Joel', 'zQl7zYkEP6M', '-'],
 ['Challeya', 'ENGLISH', '-', 'Billy Joel', 'wr9M-CoxP7A', '-'],
@@ -37,6 +38,7 @@ const playlists = {
 ['Nee Singam Dhaan', 'HINDI', '2014', 'A.R Rahman', 'o-sTXv52z48', ' Highway'],
 ['Humraah', 'HINDI', '2007', 'Vishal-Shekhar', 'Y8ETNh_IQjs', 'Om Shanti Om', 0, 295],
 ['O Re Piya', 'HINDI', '2007', 'Salim–Sulaiman', 'JyvX1LkNXz8', 'Aaja Nachle'],
+['Can you hear the music', 'ENGLISH', '-', 'Billy Joel', '4JZ-o3iAJv4', '-'],
 ['Swag Se Swagat', 'HINDI', '2017', 'Vishal-Shekhar', 'xmU0s2QtaEY', 'Tiger Zinda Hai', 0, 156],
 ['Chumma Kizhi', 'TAMIL', '2020', 'Anirudh ', 'FdVuB1G2G_g', 'Darbar', 2, 228],
 ['Yung Gravy - Betty', 'TAMIL', '2005', 'Harris Jayaraj', 'O6h0hmsTAyY', 'Ghajini'],
