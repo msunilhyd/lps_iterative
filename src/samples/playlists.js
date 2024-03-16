@@ -4,6 +4,7 @@ const playlists = {
     title: 'playlistKi',
     songs: [
 ['Stay', 'HINDI', '2017', 'Pritam', 'yWHrYNP6j4k', 'Jab Harry Met Sejal'],
+['Saware Single', 'HINDI', '2017', 'Pritam', 'KurLNA6ZId4', 'Jab Harry Met Sejal'],
 ['Kannazhaga X Nee Paartha', 'ENGLISH', '-', 'Billy Joel', 'vaauxPRRp-U', '-'],
 ['Pareshaan', 'ENGLISH', '-', 'Billy Joel', 'zQl7zYkEP6M', '-'],
 ['Challeya', 'ENGLISH', '-', 'Billy Joel', 'wr9M-CoxP7A', '-'],
