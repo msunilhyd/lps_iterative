@@ -3,6 +3,7 @@ const playlists = {
     slug: 'playlistKi',
     title: 'playlistKi',
     songs: [
+['Come back Indian', 'HINDI', '2017', 'Pritam', 'z8NeHpgAong', 'Jab Harry Met Sejal'],
 ['Where is my mind cover orchestra', 'HINDI', '2017', 'Pritam', 'eg66Y6ySNUs', 'Jab Harry Met Sejal'],
 ['Lost Art', 'HINDI', '2017', 'Pritam', 'Jk1lfH7OG74', 'Jab Harry Met Sejal'],
 ['Oasis Whatever live', 'HINDI', '2017', 'Pritam', 'g3qAsP-fiF4', 'Jab Harry Met Sejal'],
