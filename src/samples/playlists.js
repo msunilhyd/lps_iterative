@@ -64,7 +64,7 @@ const playlists = {
 ['2U', 'ENGLISH', '2017', 'Justin Bieber', '3QAOqZPJgZE', '2U', 0, 186],
 ['Stay the night', 'TELUGU', '2018', 'Vishal Chandrasekhar', 'BfVY9-tejX4', 'Padi Padi Leche Manasu'],
 ['Uppena BGM 3', 'TAMIL', '2015', 'Harris Jayaraj', 'H9AJxUqhzK8 3', 'Anegan', 584, 620],
-['Happy Intro BGM', 'TELUGU', '2006', 'Yuvan Shankar Raja', '4rW0QU7c3Lw', 'Happy', 0, 34],
+['Happy Intro BGM', 'TELUGU', '2006', 'Yuvan Shankar Raja', 'qlRfFyYnRY0', 'Happy'],
 ['Shayad RAAG Cover', 'HINDI', '2020', 'Pritam', 'Eqj4MHPgpPI', 'Love Aaj Kal 2020', 0],
 ['phir na milen kabhi', 'HINDI', '2007', 'Vishal-Shekhar', 'Powg9XIWNpU', 'Om Shanti Om', 0, 295],
 ['Sakhiyan', 'PUNJABI', '1996', 'A.R Rahman', 'S-ezhTXPVGU', 'Bharateeyudu', 10],
