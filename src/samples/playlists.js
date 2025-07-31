@@ -705,7 +705,7 @@ const playlists = {
 ['Heera', 'HINDI', '2014', 'AR RAHMAN', 'xn1nhR5Ayx0', 'Highway', 0, 270],
 ['Konte Chooputho', 'TELUGU', '2008', 'James Vasanthan', 'dhIrlFsz50w', 'Anantapuram 1980', 0, 321],
 ['Iris - Live', 'ENGLISH', '1998', 'Goo Goo Dolls', '_HZM0QiuUS8', '-'],
-['Neelo Jarige', 'TELUGU', '2005', 'Mani Sharma', 'yaLoClYM8vc', 'Balu'],
+['Neelo Jarige', 'TELUGU', '2005', 'Mani Sharma', 'PBM4nK91eFo', 'Balu'],
 ['Nillayo ', 'HINDI', '2015', 'Mithoon', 'WMnLR2tADOI', ' Khamoshiyan'],
 ['Khadgam BGM 1', 'TELUGU', '2002', ' Devi Sri Prasad', 'aiIw-L_wb1w 1', 'Khadgam', 0, 350],
 ['Remo - BGM 10', 'TAMIL', '2016', 'Anirudh', 'Bf67mfzqb50 10', 'Remo', 840, 908],
